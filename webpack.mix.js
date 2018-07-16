@@ -25,6 +25,7 @@ mix.js('_resources/js/app.js', 'js/');
 mix.copy('_resources/fonts/**', 'assets/fonts/');
 mix.copy('_resources/images/**', 'assets/images/');
 
+
 mix.browserSync({
     browser: 'Google Chrome',
     proxy: false,
