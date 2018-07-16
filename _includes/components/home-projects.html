@@ -7,7 +7,7 @@
     <div class="home-projects--text">
       <h2 class="section-heading">{{ include.title | default: 'Projects' }}</h2>
       {% for project in site.projects limit:3 %}
-        <a href="{% if project.external_link %}{{ project.external_link }}{% else %}{{ project.url | replace: '.html', '' }}{% endif %}" class="home-projects--item">
+        <a href="{% if project.external_link %}{{ project.external_link }}{% else %}{{ project.url | replace: 'index.html', '' }}{% endif %}" class="home-projects--item">
           <h3 class="home-projects--item--title">{{ project.title }}</h3>
           <p class="home-projects--item--excerpt">{{ project.excerpt | strip_html | strip_newlines | truncate: 90 }} </p>
         </a>
