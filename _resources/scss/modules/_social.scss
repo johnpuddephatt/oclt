@@ -1,0 +1,24 @@
+.social-accounts {
+
+  li {
+    float: left;
+    font-size: modular-scale(0);
+  }
+  a {
+    display: block;
+    width: 2em;
+    height: 2em;
+    padding: .25em;
+    // border: .15em solid $base-font-color;
+    border-radius: 50%;
+  }
+  li + li a {
+    margin-left: $small-spacing/2;
+  }
+  svg {
+    display: block;
+
+    width: 100%;
+    height: auto;
+  }
+}

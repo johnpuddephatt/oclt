@@ -1,0 +1,41 @@
+<div class="container container--home-about">
+  <h2 class="section-heading">{{ include.title | default: 'About us' }}</h2>
+    <div class="home-about--wrapper">
+      <div class="home-about--item">
+        <div class="home-about--image">
+          {% include icons/about/affordable.svg class='home-about--icon' %}
+        </div>
+        <div class="home-about--text">
+          <h3 class="home-about--item--header">Affordable forever</h3>
+          <p class="home-about--item-description">We make affordable land a priority, not just in the short-term but forever.</p>
+        </div>
+      </div>
+      <div class="home-about--item">
+        <div class="home-about--image">
+          {% include icons/about/community-owned.svg class='home-about--icon' %}
+        </div>
+        <div class="home-about--text">
+          <h3 class="home-about--item--header">Always community-owned</h3>
+          <p class="home-about--item-description">We acquire land and create legal binding conditions that ‘lock’ it into permanent community use.</p>
+        </div>
+      </div>
+      <div class="home-about--item">
+        <div class="home-about--image">
+          {% include icons/about/community-led.svg class='home-about--icon' %}
+        </div>
+        <div class="home-about--text">
+          <h3 class="home-about--item--header">Community-led</h3>
+          <p class="home-about--item-description">We were founded by local people wanting more of our land to meet the needs of the community.</p>
+        </div>
+      </div>
+      <div class="home-about--item">
+        <div class="home-about--image">
+          {% include icons/about/land.svg class='home-about--icon' %}
+        </div>
+        <div class="home-about--text">
+          <h3 class="home-about--item--header">Land for all</h3>
+          <p class="home-about--item-description">As well as housing, we also create space for work, food production and leisure.</p>
+        </div>
+      </div>
+    </div>
+</div>

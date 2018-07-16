@@ -1,0 +1,6 @@
+header_pages:
+  - about.md
+  - contact.md
+footer_pages:
+  - about.md
+  - contact.md

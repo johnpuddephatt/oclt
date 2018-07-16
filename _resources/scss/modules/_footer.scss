@@ -1,0 +1,47 @@
+.site-footer {
+  margin-top: 4 * $base-spacing;
+  padding: 3 * $base-spacing 0 2 * $base-spacing;
+  background-color: $white-green;
+  position: relative;
+  .container {
+    position: relative;
+    z-index: 9;
+    display: flex;
+    flex-direction: row;
+    div + div  {
+      margin-left: $base-spacing;
+      @media screen and (min-width: $large-screen) {
+        margin-left: 2 * $base-spacing;
+      }
+    }
+  }
+}
+
+.page-footer--curves {
+  position: absolute;
+  left: 50%;
+  top: 0%;
+  transform: translate(-50%,-50%);
+}
+
+.site-footer--company {
+  flex: 0 1 40%;
+  margin-right: auto;
+  font-size: modular-scale(-1);
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.site-footer--social {
+  flex: 0 0 auto;
+}
+
+.site-footer--links {
+  flex: 0 0 auto;
+  a {
+    display: block;
+    text-transform: lowercase;
+    color: $dark-gray
+  }
+}

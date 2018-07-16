@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<header class="page-header">
+  <div class="container">
+    <h1 class="page-title">{{ page.title | escape }}</h1>
+    <div class="page-subtitle">{{ page.subtitle | escape }}</div>
+  </div>
+  {% include svg/header-curves.svg class='page-header--curves' %}
+</header>
+
+<div class="page-content">
+  <div class="container">
+    {{ content | markdownify }}
+  </div>
+</div>

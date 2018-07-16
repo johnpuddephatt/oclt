@@ -1,0 +1,8 @@
+<svg class="{{include.class}}" xmlns="http://www.w3.org/2000/svg" width="176" height="121.9" viewBox="0 0 176 121.9">
+  <path fill="#BDCF6E" d="M109.5 30.8h6.7v16.6h-6.7z"/>
+  <path fill="#83C45C" d="M119.6 109.8H57l.1-60.4 30.8-28.7 31.7 29.2z"/>
+  <path fill="#00682D" d="M126.4 62.5L88 23.5l-38.4 39-4.4-4.4L88 14.6l42.9 43.5zM65.5 79.4H83V111H65.5z"/>
+  <path fill="#53C5BD" d="M64.4 107.4h20.1v4.2H64.4z"/>
+  <circle fill="#FFF" cx="74.4" cy="88.8" r="4.2"/>
+  <path fill="#FFF" d="M67.7 52.3h13.2v13.2H67.7zM95 52.3h13.2v13.2H95zM95 79.3h13.2v13.2H95z"/>
+</svg>

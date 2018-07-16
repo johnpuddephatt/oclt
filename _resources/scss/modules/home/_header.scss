@@ -1,0 +1,23 @@
+.page-header__home {
+  position: relative;
+  margin-bottom: 7 * $base-spacing;
+  .container {
+    position: relative;
+    > * {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+  .page-subtitle {
+    font-size: modular-scale(0);
+  }
+}
+
+.page-header--curves {
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  width: 150vmax;
+  transform: translate(-50%,-50%);
+  pointer-events: none;
+}

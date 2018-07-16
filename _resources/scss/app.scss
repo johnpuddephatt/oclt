@@ -1,0 +1,23 @@
+@import 'bourbon/bourbon';
+@import 'base/base';
+@import 'neat/neat';
+
+@import 'modules/header';
+@import 'modules/navigation';
+@import 'modules/footer';
+@import 'modules/social';
+@import 'modules/post';
+
+@import 'modules/home/header';
+@import 'modules/home/blog';
+@import 'modules/home/faqs';
+@import 'modules/home/about';
+@import 'modules/home/projects';
+
+@import "~include-media/dist/_include-media.scss";
+
+
+.debugging {
+  outline: 1px dashed red;
+  background-color: transparentize(blue,.5);
+}

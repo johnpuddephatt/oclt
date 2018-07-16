@@ -1,0 +1,59 @@
+
+.section--home-faqs {
+  padding-bottom: 2 * $base-spacing;
+  &::before {
+    content: '';
+    height: 30vw;
+    background-image: url('/assets/images/countryside.jpg');
+    background-size: cover;
+    display: block;
+    margin-bottom: 2 * $base-spacing;
+  }
+  .section-heading {
+    text-align: center;
+  }
+
+  h3 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+
+  }
+
+  h3 button {
+    all: inherit;
+    border: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: $base-spacing 2 * $base-spacing;
+    border: $base-border;
+    margin-top: -1px;
+    transition: background-color $base-timing $base-duration;
+    &:hover {
+      background-color: $light-green;
+    }
+
+  }
+  h3 + div {
+    padding: $base-spacing 2 * $base-spacing;
+    background-color: $white-green;
+  }
+
+  h3 button:focus svg {
+    outline: 2px solid $light-green;
+    outline-offset: 10px;
+
+  }
+
+  button svg {
+    height: 1em;
+    margin-left: 0.5em;
+    transition: transform $base-duration $base-timing;
+    transform: rotate(180deg);
+  }
+
+  [aria-expanded="true"] svg {
+    transform: rotate(90deg)
+  }
+
+}
