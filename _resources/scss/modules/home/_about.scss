@@ -1,5 +1,5 @@
 .section--home-about {
-  padding-top: 2 * $base-spacing;
+  padding-top: $base-spacing;
   padding-bottom: 2 * $base-spacing;
   @media screen and (min-width: $medium-screen) {
     text-align: center;
@@ -18,7 +18,7 @@
   flex-direction: row;
   align-items: center;
   @media screen and (min-width: $medium-screen) {
-    margin: 1.5 * $base-spacing 0;
+    margin: $base-spacing 0;
     display: block;
     flex: 1 1 0;
     + .home-about--item {

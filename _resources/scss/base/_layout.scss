@@ -43,8 +43,12 @@ body {
       width: 75%;
     }
     @media screen and (min-width: $large-screen) {
+      width: 62.5%;
+    }
+    @media screen and (min-width: $xl-screen) {
       width: 50%;
     }
+
   }
   *:last-child {
     margin-bottom: 0;
@@ -58,19 +62,23 @@ body {
   margin-bottom: 2 * $base-spacing;
   background-image: repeating-linear-gradient(to bottom, #fff, #fff .9em, $white-green, $white-green 1em);
   .container {
-    min-height: 40vh;
+    height: 40vh;
+    margin-bottom: $base-spacing;
     @media screen and (orientation: landscape) {
-      min-height: 25vw;
+      height: 22.5vw;
+      max-height: 14em;
+    }
+    @media screen and (min-width: $medium-screen) {
+      width: 75%;
+    }
+    @media screen and (min-width: $large-screen) {
+      width: 62.5%;
+    }
+    @media screen and (min-width: $xl-screen) {
+      width: 50%;
     }
     > * {
-      margin-left: auto;
-      margin-right: auto;
-      @media screen and (min-width: $medium-screen) {
-        width: 75%;
-      }
-      @media screen and (min-width: $large-screen) {
-        width: 50%;
-      }
+
     }
     display: flex;
     flex-direction: column;
@@ -86,5 +94,14 @@ body {
 
 .page-subtitle {
   margin-top: $small-spacing;
+  line-height: $heading-line-height;
   font-size: modular-scale(0);
+}
+
+
+.status {
+  margin-top: $base-spacing;
+  padding: $base-spacing;
+  background-color: $mid-green;
+  color: white;
 }

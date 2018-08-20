@@ -1,6 +1,6 @@
 ---
 title: We’re recruiting for a project officer
-image: /uploads/team.png
+image: /uploads/team.jpg
 tags: news jobs
 layout: post
 ---

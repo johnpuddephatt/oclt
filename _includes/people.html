@@ -1,0 +1,12 @@
+<div class="block--people">
+  <h2 class="block--title">{{ include.title | default: 'People' }}</h2>
+  <ul class="block--people--grid">
+    {% for person in site.data.people %}
+      <li class="block--people--item">
+        <img src="{{ person.image }}" class="block--people--image"/>
+        <h3 class="block--people--name">{{ person.name }}</h3>
+        <div class="block--people--role">{{ person.role }}</div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,15 +1,19 @@
 .page-header__home {
   position: relative;
-  margin-bottom: 7 * $base-spacing;
+  margin-bottom: 5 * $base-spacing;
   .container {
     position: relative;
+    max-height: none;
+    width: 100%;
+    padding-right: 25%;
     > * {
       margin-left: 0;
       margin-right: 0;
     }
   }
   .page-subtitle {
-    font-size: modular-scale(0);
+    font-size: modular-scale(1);
+    line-height: $base-line-height;
   }
 }
 

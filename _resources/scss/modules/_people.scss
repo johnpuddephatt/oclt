@@ -1,0 +1,35 @@
+.block--people {
+  margin: 2 * $base-spacing 0;
+}
+
+.block--title {
+  color: $mid-green;
+  margin-bottom: $base-spacing;
+}
+
+.block--people--grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -$small-spacing;
+  margin-right: -$small-spacing;
+}
+
+.block--people--item {
+  flex: 0 0 33.333%;
+  text-align: center;
+  padding: $base-spacing $small-spacing;
+}
+
+.block--people--name {
+  margin-bottom: 0;
+}
+
+.block--people--role {
+  font-size: modular-scale(-1);
+  color: $mid-green;
+  font-weight: 700;
+}
+
+.block--people--image {
+  border-radius: 50%;
+}

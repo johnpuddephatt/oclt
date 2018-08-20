@@ -131,9 +131,17 @@ module.exports = __webpack_require__(2);
       var expanded = btn.getAttribute('aria-expanded') === 'true' || false;
 
       // Switch the state
+      if (expanded === false) {
+        headings.forEach(function (heading) {
+          heading.querySelector('button').setAttribute('aria-expanded', false);
+          heading.nextElementSibling.hidden = true;
+        });
+      }
+
       btn.setAttribute('aria-expanded', !expanded);
-      // Switch the content's visibility
       wrapper.hidden = expanded;
+
+      // Switch the content's visibility
     };
   });
 })();

@@ -55,9 +55,18 @@
       let expanded = btn.getAttribute('aria-expanded') === 'true' || false
 
       // Switch the state
+      if (expanded === false) {
+        headings.forEach(heading => {
+          heading.querySelector('button').setAttribute('aria-expanded', false)
+          heading.nextElementSibling.hidden = true
+        });
+      }
+
       btn.setAttribute('aria-expanded', !expanded)
-      // Switch the content's visibility
       wrapper.hidden = expanded
+
+      // Switch the content's visibility
+
     }
   })
 })()
