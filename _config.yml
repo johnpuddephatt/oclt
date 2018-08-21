@@ -12,6 +12,9 @@ includes_dir:    _includes
 collections:
   posts:
     output: true
+  pages:
+    output: true
+    permalink: /:title/index.html
   projects:
     output: true
     permalink: /projects/:title/index.html
