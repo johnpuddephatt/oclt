@@ -5,7 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    {% seo %}
+    {% seo title=false %}
+
+
+    {% assign title = page.title %}
+    <title>{% if page.title != 'Index'%}{{page.title}} – {% endif %}{{site.data.config.title | strip_html}}</title>
 
     <link rel="stylesheet" href="/assets{{ site.data.mix-manifest['/css/app.css'] }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
@@ -16,6 +20,6 @@
     {% endif %}
 
     {% include favicon.html %}
-    
+
 </head>
 <body>
