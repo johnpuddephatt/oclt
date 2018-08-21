@@ -32,7 +32,7 @@ body {
 
 .page-content, .post-content {
   font-size: modular-scale(1);
-  padding: 4 * $base-spacing 0;
+  padding: 2 * $base-spacing 0;
   p:first-child {
     font-size: modular-scale(1);
     font-weight: 700;
@@ -40,13 +40,13 @@ body {
   }
   .container {
     @media screen and (min-width: $medium-screen) {
-      width: 75%;
+      width: 80%;
     }
     @media screen and (min-width: $large-screen) {
-      width: 62.5%;
+      width: 70%;
     }
     @media screen and (min-width: $xl-screen) {
-      width: 50%;
+      width: 60%;
     }
 
   }
@@ -56,11 +56,15 @@ body {
 }
 
 .page-header, .post-header {
-  border-top: $base-border;
-  padding: 2 * $base-spacing 0;
-  position: relative;
-  margin-bottom: 2 * $base-spacing;
-  background-image: repeating-linear-gradient(to bottom, #fff, #fff .9em, $white-green, $white-green 1em);
+  padding-bottom: 4 * $base-spacing;
+  overflow: hidden;
+
+  .page-header--inner {
+    position: relative;
+    border-top: $base-border;
+    padding: 2 * $base-spacing 0;
+    background-image: repeating-linear-gradient(to bottom, #fff, #fff .9em, $white-green, $white-green 1em);
+  }
   .container {
     height: 40vh;
     margin-bottom: $base-spacing;
@@ -69,13 +73,13 @@ body {
       max-height: 14em;
     }
     @media screen and (min-width: $medium-screen) {
-      width: 75%;
+      width: 80%;
     }
     @media screen and (min-width: $large-screen) {
-      width: 62.5%;
+      width: 70%;
     }
     @media screen and (min-width: $xl-screen) {
-      width: 50%;
+      width: 60%;
     }
     > * {
 

@@ -1,8 +1,13 @@
 .site-footer {
-  margin-top: 4 * $base-spacing;
-  padding: 3 * $base-spacing 0 2 * $base-spacing;
+  padding-top: 8 * $base-spacing;
+  overflow: hidden;
+
+}
+.site-footer--inner {
+  padding: 2 * $base-spacing 0;
   background-color: $white-green;
   position: relative;
+
   .container {
     position: relative;
     z-index: 9;
@@ -21,6 +26,10 @@
   position: absolute;
   left: 50%;
   top: 0%;
+  width: $xl-screen;
+  height: auto;
+  min-width: 120vw;
+  max-width: none;
   transform: translate(-50%,-50%);
 }
 
