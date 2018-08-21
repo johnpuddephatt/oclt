@@ -5,10 +5,10 @@
     position: relative;
     max-height: none;
     width: 100%;
-    @media (min-width: $medium-screen) {
-      padding-right: 25%;
-    }
     > * {
+      @media screen and (min-width: $medium-screen) {
+        width: 60%;
+      }
       margin-left: 0;
       margin-right: 0;
     }

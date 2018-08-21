@@ -18,6 +18,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/index.html
+  faqs:
+    output: false
 
 # Handling Reading
 safe:                 false
