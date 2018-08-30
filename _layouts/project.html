@@ -1,0 +1,20 @@
+---
+layout: default
+---
+{% assign date_format = site.minima.date_format | default: "%Y" %}
+
+<header class="post-header">
+  <div class="page-header--inner">
+    <div class="container">
+      <div class="project-date">{{ page.date | date: date_format }}</div>
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+      <div class="page-subtitle">{{ page.excerpt | escape }}</div>
+    </div>
+  </div>
+</header>
+
+<div class="post-content">
+  <div class="container container__text">
+    {{ content | markdownify }}
+  </div>
+</div>

@@ -21,6 +21,31 @@ collections:
   faqs:
     output: false
 
+
+
+
+# Defaults
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "projects" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "project"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+
 # Handling Reading
 safe:                 false
 include:

@@ -6,6 +6,59 @@
     font-weight: 700;
     margin-bottom: 1.5 * $base-spacing;
   }
+  h2 {
+    font-size: modular-scale(2);
+    margin: 2 * $base-spacing 0 $small-spacing;
+  }
+  h3 {
+    margin-top: $base-spacing;
+    margin-bottom: 0;
+    font-weight: 600;
+  }
+  ul {
+    margin-top: $base-spacing;
+    margin-bottom: $base-spacing;
+    ul {
+      margin-top: $small-spacing;
+      margin-bottom: $small-spacing;
+      font-size: modular-scale(-1);
+    }
+  }
+  li {
+    margin-bottom: $small-spacing/2;
+    margin-left: 1.5 * $base-spacing;
+    list-style-position: outside;
+    &::before {
+      content: '';
+      display: block;
+      float: left;
+      width: $base-spacing;
+      height: $base-spacing;
+      margin-top: .3em;
+      padding: .3em;
+      margin-left: -1.5 * $base-spacing;
+      margin-right: $small-spacing;
+      background-color: $mid-green;
+      background-clip: content-box;
+    }
+  }
+  .pullout-box {
+      margin: 2 * $base-spacing 0;
+      background-color: $light-green;
+      padding: 2 * $base-spacing;
+      h2 {
+        margin-top: 0;
+      }
+      .button {
+        margin-top: $base-spacing;
+      }
+      .g-recaptcha > div {
+        margin: $base-spacing auto;
+      }
+      &.centre {
+        text-align: center;
+      }
+    }
   .container {
     @media screen and (min-width: $medium-screen) {
       width: 80%;
@@ -59,6 +112,10 @@
   }
 }
 
+.post-header .container {
+  justify-content: flex-end;
+}
+
 .page-title, .post-title {
   font-size: modular-scale(4);
   margin-bottom: 0;
@@ -74,6 +131,14 @@
 .page-subtitle {
   font-size: modular-scale(1);
   line-height: $base-line-height;
+}
+
+.project-date {
+  display: inline-block;
+  margin: 0 0 $small-spacing;
+  font-size: modular-scale(1);
+  color: $mid-green;
+  font-weight: 400;
 }
 
 .post-meta {

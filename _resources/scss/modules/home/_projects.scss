@@ -52,6 +52,13 @@
   margin-bottom: 1.5 * $base-spacing;
   padding-right: 1.5 * $base-spacing;
   position: relative;
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+a.home-projects--item {
   &::after {
     content: '';
     display: block;
@@ -64,9 +71,6 @@
     background-repeat: no-repeat;
     background-size: .75 * $base-spacing auto;
     background-position: right center;
-  }
-  p {
-    margin-bottom: 0;
   }
 }
 
