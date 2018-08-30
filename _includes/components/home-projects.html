@@ -6,22 +6,7 @@
 
     <div class="home-projects--text">
       <h2 class="section-heading">{{ include.title | default: 'Projects' }}</h2>
-      {% assign latestprojects = (site.projects | sort: 'date') | reverse%}
-      {% for project in latestprojects limit:3%}
-        {% assign projectcontent = project.content | strip_newlines%}
-        {% if projectcontent != '' %}
-          <a href="{% if project.external_link %}{{ project.external_link }}{% else %}{{ project.url | replace: 'index.html', '' }}{% endif %}" class="home-projects--item">
-        {% else %}
-          <div class="home-projects--item">
-        {% endif %}
-          <h3 class="home-projects--item--title">{{ project.title }}</h3>
-          <p class="home-projects--item--excerpt">{{ project.excerpt | strip_html | strip_newlines | truncate: 100 }} </p>
-        {% if projectcontent != '' %}
-            </a>
-        {% else %}
-          </div>
-        {% endif %}
-      {% endfor %}
+      {% include projects.html %}
     </div>
   </div>
 </div>
