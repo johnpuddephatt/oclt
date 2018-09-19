@@ -23,9 +23,6 @@ sections:
   label: Faqs
   create: all
   match: "**/*"
-- type: jekyll-pages
-  label: Pages
-  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
