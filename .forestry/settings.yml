@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-posts
-  label: Blog posts
-  create: all
-  match: "**/*"
 - type: directory
   path: _faqs
   label: FAQs
@@ -22,7 +18,7 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: "./_projects"
+  path: _projects
   label: Projects
   create: all
   match: "**/*"
