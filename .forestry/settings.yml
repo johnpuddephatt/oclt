@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: _pages
-  label: Page
+  label: Pages
   create: all
   match: "**/*"
 - type: directory
