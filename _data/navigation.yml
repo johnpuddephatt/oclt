@@ -1,7 +1,0 @@
-header_pages:
-  - _pages/about.md
-  - _pages/projects.md
-  - _pages/contact.md
-footer_pages:
-  - _pages/about.md
-  - _pages/contact.md
