@@ -1,9 +1,11 @@
 ---
 title: Irving Building
 date: 2017-08-23 09:30:33 +0000
-excerpt: |
-  A  bid to develop a former school into 26 zero-carbon community-led homes.
+excerpt: 'A  bid to develop a former school into 26 zero-carbon community-led homes.
+
+'
 layout: project
+
 ---
 <div class="pullout-box">
 <h2>Key information</h2>
@@ -26,11 +28,11 @@ Our vision is to buy the building on behalf of the local community and convert i
 
 The ideas for the community-hub and space are under development but include indoor and outdoor space that is both vital and viable, whilst also serving the needs of diverse local groups such as:
 
-- The local nursery school Comper, sometimes needs extra meeting space
-- Local start-ups (especially cooperative enterprises) need affordable office space
-- Local children could continue to use the former play area
-- A place for social gatherings and meetings, to bring the community together
-- A café
+* The local nursery school Comper, sometimes needs extra meeting space
+* Local start-ups (especially cooperative enterprises) need affordable office space
+* Local children could continue to use the former play area
+* A place for social gatherings and meetings, to bring the community together
+* A café
 
 ### Irving affordable homes
 
@@ -53,23 +55,22 @@ We know that parking is a huge problem locally, and the immediate neighbourhood 
 
 We’d like as many people as possible to join us to make this happen.
 
-- We want your ideas: the more people involved the more diversity of ideas and the greater the chance of success.
-- We need to demonstrate community support and the easiest way to do this is for people to sign up and become a [supporter](https://www.facebook.com/Homes-for-Oxford-503550633162244/?fref=ts).
-- People can also help by donating large or small amounts via [our JustGiving page](https://www.justgiving.com/fundraising/irvingbuilding)
-- Once we have the site secured, we will launch a Community Share Offer so there will be an opportunity to invest, for an ethical return
+* We want your ideas: the more people involved the more diversity of ideas and the greater the chance of success.
+* We need to demonstrate community support and the easiest way to do this is for people to sign up and become a [supporter](https://www.facebook.com/Homes-for-Oxford-503550633162244/?fref=ts).
+* People can also help by donating large or small amounts via [our JustGiving page](https://www.justgiving.com/fundraising/irvingbuilding)
+* Once we have the site secured, we will launch a Community Share Offer so there will be an opportunity to invest, for an ethical return
 
 Current estimates of bid costs total at least £13,000 or more. We have already spent a considerable amount on architect and business planning costs but further spending will be necessary for:
 
-- More detailed architect drawings
-- Pre-application planning costs
-- Further business and finance planning
-- Grant applications
-- Project management
-- Publicity and press
+* More detailed architect drawings
+* Pre-application planning costs
+* Further business and finance planning
+* Grant applications
+* Project management
+* Publicity and press
 
 We are aiming to raise about half of this from crowdfunding. Oxford Community Foundation have kindly offered to manage the donations [via the JustGiving page](https://www.justgiving.com/fundraising/irvingbuilding) which means we can also claim gift aid (an extra 25%) on them.
 
-Please be aware that if you donate at this stage, this money is non-returnable. While we are optimistic about our chances of success there are no guarantees but in order to bid, we must spend this money.
-​<br />
-​<br />
-<a class="button" href="https://drive.google.com/open?id=1F3xetKavcnFi8Tq6Z0avoY1STX5YV3rj">Link to bid brochure</a>
+Please be aware that if you donate at this stage, this money is non-returnable. While we are optimistic about our chances of success there are no guarantees but in order to bid, we must spend this money in order to advance.
+
+​<br /> ​<br /> <a class="button" href="https://drive.google.com/open?id=1F3xetKavcnFi8Tq6Z0avoY1STX5YV3rj">Link to bid brochure</a>
