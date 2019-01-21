@@ -1,6 +1,6 @@
 ---
 title: New report on Community-led housing in Oxford City
-image: "/uploads/190116 Cover v2-01-1.png"
+image: "/uploads/190116 blog image-01.png"
 tags: news jobs
 layout: post
 
