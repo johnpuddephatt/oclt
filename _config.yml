@@ -96,6 +96,7 @@ permalink:     date
 paginate_path: /page:num
 timezone:      null
 
+local: false
 quiet:    false
 verbose:  true
 defaults: []
