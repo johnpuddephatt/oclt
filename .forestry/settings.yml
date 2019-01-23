@@ -16,6 +16,8 @@ sections:
   label: FAQs
   create: all
   match: "**/*"
+  templates:
+  - faq
 - type: directory
   path: _posts
   label: Posts
