@@ -3,7 +3,7 @@ email: john@jdp.org.uk
 description: |
   Site description from config
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.url.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.oclt.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 footer: |
   Oxfordshire Community Land Trust is the trading name of OCLT Ltd,
   registered as an Industrial and Provident Society for the benefit of the
