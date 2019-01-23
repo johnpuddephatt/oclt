@@ -4,7 +4,7 @@
     {% for post in site.posts limit:3 %}
       <a href="{% if post.external_link %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}" class="home-blog--item" data-aos="fade-up" data-aos-ratio=".25" data-aos-delay="{{ forloop.index | minus: 1 |  times:200 }}">
         <div class="home-blog--item--image">
-          <img src="{{ post.image }}" alt=""/>
+          {% include cloudinary.html img=post.image width="400" height="400" modes="c_fill,g_face,e_sharpen" quality="85" %}
         </div>
         <div class="home-blog--item--text">
           <h3 class="home-blog--item--title">{{ post.title }}</h3>
