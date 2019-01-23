@@ -28,6 +28,8 @@ sections:
   label: Projects
   create: all
   match: "**/*"
+  templates:
+  - project
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
