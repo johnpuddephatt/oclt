@@ -34,4 +34,4 @@ OCLT are collaborating with a range of partners to set up a housing hub to prom
 
 ### Thanks
 
-And finally a further big thanks to the donors who made it possible for us to employ the redoubtable John Bloxsom who has been the engine of much of this progress. Thanks again to them…… but most of all to him. The Homes England money will mean we can fund him for a bit longer so that’s a brilliant result.
+And finally a further big thanks to the donors who made it possible for us to employ the redoubtable John Bloxsom who has been the engine of much of this progress. Thanks again to them but most of all to him. The Homes England money will mean we can fund him for a bit longer so that’s a brilliant result.
