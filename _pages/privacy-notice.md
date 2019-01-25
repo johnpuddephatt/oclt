@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Privacy Notice
+title: OCLT Data Privacy Notice
 subtitle: ''
 date: 2019-01-25 16:15:49 +0000
 
 ---
-# OCLT Data Privacy Notice
-
 ## Introduction
 
 Oxfordshire Community Land Trust (OCLT) (“we”) promises to respect any personal data that you share with us, and to keep it safe. We aim to be clear when we collect your data and not do anything you wouldn’t reasonably expect. In May 2018, we will be moving to be an ‘opt-in’ communication policy. This means that we will only send marketing communications to those that have explicitly stated that they are happy for us to do so via their preferred channel(s) (email, text message, phone or post). We will also use ‘Legitimate Interest’ for communications relating to grant-making, donations etc. Our communications include information about our latest projects, including related fundraising activity, events, appeals and research. If you would like to receive such communications but have not opted in, please email us on info@oclt.org.uk or ring 07889 209448
