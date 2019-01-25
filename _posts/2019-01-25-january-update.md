@@ -1,7 +1,7 @@
 ---
 layout: post
 title: January Update
-image: "/uploads/20171005_202215.jpg"
+image: "/uploads/20171005_202215-1.jpg"
 tags: []
 date: 2019-01-25 14:53:20 +0000
 
