@@ -1,9 +1,12 @@
 ---
 title: Wolvercote Paper Mill
 date: 2016-08-23 09:30:33 +0000
-excerpt: |
-  An ambitious bid to buy land from Oxford University for a 260-home eco-village in Wolvercote.
+excerpt: 'An ambitious bid to buy land from Oxford University for a 260-home eco-village
+  in Wolvercote.
+
+'
 layout: project
+
 ---
 <div class="pullout-box">
 <h2>Key information</h2>
@@ -31,6 +34,6 @@ We worked in conjunction with the charity Bioregional to make a highly innovativ
 
 There was massive support for this proposal back in 2016 from local people in the village and the city. Deborah Glass Woodin, of Homes for Oxford [on 24dash.com said](http://24dash.com/news/housing/2016-05-25-Community-groups-tackle-Oxford-s-housing-problems):
 
-> "This is an historic opportunity for the university to do something unprecedented in the country [...] Together we can address some of the challenging problems of our time with innovative housing solutions."
+> "This is an historic opportunity for the university to do something unprecedented in the country \[...\] Together we can address some of the challenging problems of our time with innovative housing solutions."
 
-<a class="button btn" href="https://www.dropbox.com/s/58wivvbb1uzh82h/HomesforOxford_Bid-Doc_30May16_DIGITAL.pdf?dl=0">Link to bid brochure</a>
+<a class="button btn" href="[https://issuu.com/oclt/docs/homesforoxford_bid-doc_30may16_digi](https://issuu.com/oclt/docs/homesforoxford_bid-doc_30may16_digi "https://issuu.com/oclt/docs/homesforoxford_bid-doc_30may16_digi")">Link to bid brochure</a>
