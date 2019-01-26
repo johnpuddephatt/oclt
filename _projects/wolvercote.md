@@ -36,4 +36,4 @@ There was massive support for this proposal back in 2016 from local people in th
 
 > "This is an historic opportunity for the university to do something unprecedented in the country \[...\] Together we can address some of the challenging problems of our time with innovative housing solutions."
 
-<a class="button btn" href="[https://issuu.com/oclt/docs/homesforoxford_bid-doc_30may16_digi](https://issuu.com/oclt/docs/homesforoxford_bid-doc_30may16_digi "https://issuu.com/oclt/docs/homesforoxford_bid-doc_30may16_digi")">Link to bid brochure</a>
+<a class="button btn" href="[https://issuu.com/oclt/docs/homesforoxford_bid-doc_30may16_digi](https://issuu.com/oclt/docs/homesforoxford_bid-doc_30may16_digi)">Link to bid brochure</a>
