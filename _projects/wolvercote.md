@@ -39,5 +39,3 @@ There was massive support for this proposal back in 2016 from local people in th
 <a class="button btn" href="https://issuu.com/oclt/docs/homesforoxford_bid-doc_30may16_digi">Link to bid brochure</a>
 
 {% include button.html link="[https://issuu.com/oclt/docs/homesforoxford_bid-doc_30may16_digi](http://issuu.com/oclt/docs/homesforoxford_bid-doc_30may16_digi "http://issuu.com/oclt/docs/homesforoxford_bid-doc_30may16_digi")" text="Link to bid brochure" %}
-
-<iframe src="[https://e.issuu.com/anonymous-embed.html?u=oclt&d=homesforoxford_bid-doc_30may16_digi](https://e.issuu.com/anonymous-embed.html?u=oclt&d=homesforoxford_bid-doc_30may16_digi "https://e.issuu.com/anonymous-embed.html?u=oclt&d=homesforoxford_bid-doc_30may16_digi")" width="944" height="500" frameborder="0" allowfullscreen="true"></iframe>
