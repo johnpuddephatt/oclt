@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Planning application submitted for Dean Court
-image: "/uploads/Untitled.png"
+image: "/uploads/Untitled-1.png"
 tags:
 - community land trust
 - dean court
