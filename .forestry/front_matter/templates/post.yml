@@ -26,4 +26,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/planning-application-submitted-for-dean-court.md
 - _posts/2019-01-25-january-update.md
