@@ -1,0 +1,10 @@
+---
+type: select
+name: page
+label: Page
+description: Select a page
+hidden: false
+config:
+    source:
+      type: documents
+---
