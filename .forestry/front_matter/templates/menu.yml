@@ -14,13 +14,13 @@ fields:
       source:
         type: pages
         section: page
-        file:
-        path:
+        file: 
+        path: 
     label: Page
   config:
-    min:
-    max:
-    labelField: pages
+    min: 
+    max: 
+    labelField: page
   label: Header menu
 - name: footer_menu
   type: field_group_list
@@ -34,12 +34,12 @@ fields:
       source:
         type: pages
         section: page
-        file:
-        path:
+        file: 
+        path: 
     label: Page
   config:
-    min:
-    max:
+    min: 
+    max: 
     labelField: page
   label: Footer menu
 pages:
