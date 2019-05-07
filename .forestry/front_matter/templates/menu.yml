@@ -5,7 +5,7 @@ fields:
 - name: header_menu
   type: field_group_list
   fields:
-  - name: pages
+  - name: page
     type: select
     default: []
     config:
@@ -14,12 +14,12 @@ fields:
       source:
         type: pages
         section: page
-        file: 
-        path: 
+        file:
+        path:
     label: Page
   config:
-    min: 
-    max: 
+    min:
+    max:
     labelField: pages
   label: Header menu
 - name: footer_menu
@@ -34,12 +34,12 @@ fields:
       source:
         type: pages
         section: page
-        file: 
-        path: 
+        file:
+        path:
     label: Page
   config:
-    min: 
-    max: 
+    min:
+    max:
     labelField: page
   label: Footer menu
 pages:

@@ -2,11 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     {% seo title=false %}
-
 
     {% assign title = page.title %}
     <title>{% if page.title != 'Index'%}{{page.title}} – {% endif %}{{site.data.config.title | strip_html}}</title>

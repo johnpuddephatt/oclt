@@ -11,16 +11,22 @@
       {% endif %}
       <div class="site-footer--links">
         <h2 class="footer-header">Learn more</h2>
+
         {% assign default_paths = site.pages | map: "path" %}
-        {% assign page_paths = site.data.navigation.footer_pages | default: '  ' %}
+        {% assign page_paths = site.data.navigation.footer_menu | default: '  ' %}
+
         {% if page_paths %}
           {% for path in page_paths %}
-            {% assign my_page = site.pages | where: "path", path | first %}
+
+            {% assign mypath = path.page | prepend: '_'%}
+
+            {% assign my_page = site.pages | where: "path", mypath | first %}
             {% if my_page.title %}
               <a class="page-link" href="{{ my_page.url | relative_url | replace: 'index.html' '' }}">{{ my_page.title | escape }}</a>
             {% endif %}
           {% endfor %}
         {% endif %}
+
       </div>
       {% if site.data.config.social %}
         <div class="site-footer--social">
