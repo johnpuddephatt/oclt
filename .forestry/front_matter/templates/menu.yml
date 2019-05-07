@@ -2,7 +2,7 @@
 label: Menu
 hide_body: false
 fields:
-  type: select
+- type: select
   name: page
   label: Page
   description: Select a page
