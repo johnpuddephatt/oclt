@@ -11,5 +11,6 @@ menus:
 - pages: []
 - pages: pages/contact.md
 footer_menu:
-- page: []
+- page: pages/about.md
 - page: pages/contact.md
+header_menu: []
