@@ -2,11 +2,43 @@
 label: Menu
 hide_body: false
 fields:
-- type: select
-  name: page
-  label: Page
-  description: Select a page
-  hidden: false
+- name: menus
+  type: field_group_list
+  fields:
+  - name: pages
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: page
+        file: 
+        path: 
+    label: Page
   config:
-    source:
-    type: documents
+    min: 
+    max: 
+    labelField: 
+  label: Header menu
+- name: footer_menu
+  type: field_group_list
+  fields:
+  - name: page
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: page
+        file: 
+        path: 
+    label: Page
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Footer menu
