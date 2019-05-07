@@ -2,7 +2,7 @@
 label: Menu
 hide_body: true
 fields:
-- name: menus
+- name: header_menu
   type: field_group_list
   fields:
   - name: pages
@@ -20,7 +20,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: pages
   label: Header menu
 - name: footer_menu
   type: field_group_list
@@ -40,7 +40,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: page
   label: Footer menu
 pages:
 - _data/navigation.yml
