@@ -1,5 +1,5 @@
 ---
-label: Post
+label: Menu
 hide_body: false
 fields:
   type: select
@@ -8,6 +8,5 @@ fields:
   description: Select a page
   hidden: false
   config:
-      source:
-        type: documents
----
+    source:
+    type: documents
