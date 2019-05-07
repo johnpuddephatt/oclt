@@ -1,10 +1,13 @@
 ---
-type: select
-name: page
-label: Page
-description: Select a page
-hidden: false
-config:
-    source:
-      type: documents
+label: Post
+hide_body: false
+fields:
+  type: select
+  name: page
+  label: Page
+  description: Select a page
+  hidden: false
+  config:
+      source:
+        type: documents
 ---
