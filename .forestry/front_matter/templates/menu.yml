@@ -42,3 +42,5 @@ fields:
     max: 
     labelField: 
   label: Footer menu
+pages:
+- _data/navigation.yml

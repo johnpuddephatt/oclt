@@ -1,7 +1,15 @@
+---
 header_pages:
-  - _pages/about.md
-  - _pages/projects.md
-  - _pages/contact.md
+- _pages/about.md
+- _pages/projects.md
+- _pages/contact.md
 footer_pages:
-  - _pages/about.md
-  - _pages/contact.md
+- _pages/about.md
+- _pages/contact.md
+menus:
+- pages: []
+- pages: []
+- pages: pages/contact.md
+footer_menu:
+- page: []
+- page: pages/contact.md
