@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Thanks for subscribing to our newsletter
-subtitle: We have a little favour to ask...
+subtitle: You're now going to be really clued up on what we're doing in Oxfordshire
+  but we have one more thing to ask of you.
 
 ---
 You're now going to be really clued up on what we're doing in Oxfordshire but we have one more thing to ask of you.
