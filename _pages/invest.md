@@ -14,7 +14,7 @@ We are currently owned by a group of around 100 people from across the county of
 
 [https://www.paypal.me/oclt](https://www.paypal.me/oclt "https://www.paypal.me/oclt")
 
-{% include button.html link="[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KXHX932LN5YQ8](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KXHX932LN5YQ8 "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KXHX932LN5YQ8")" text="Click here" %}
+include button.html link="[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KXHX932LN5YQ8](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KXHX932LN5YQ8 "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KXHX932LN5YQ8")" text="Click here"
 
 **Become a subscriber**
 
