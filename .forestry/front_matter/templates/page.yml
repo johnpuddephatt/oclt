@@ -18,4 +18,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _pages/invest.md
 - _pages/privacy-notice.md
