@@ -18,6 +18,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- _pages/thanks-for-subscribing-to-our-newsletter.md
 - _pages/invest.md
+- _pages/thanks-for-subscribing-to-our-newsletter.md
 - _pages/privacy-notice.md
