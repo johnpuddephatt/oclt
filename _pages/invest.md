@@ -4,7 +4,7 @@ title: Invest
 subtitle: Be part of changing Oxfordshire's housing system
 
 ---
-We are currently preparing to raise community shares in our company off the back of our first project in West Oxford. We aim to launch this invesment window in Autumn 2019.
+We are currently preparing to raise shares in our company off the back of our first project in West Oxford and a pipeline of new projects in the works. We aim to launch this investment window in Autumn 2019.
 
 For now there are three ways that you can get involved
 
