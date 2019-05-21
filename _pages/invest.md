@@ -7,6 +7,7 @@ subtitle: Be part of changing Oxfordshire's housing system
 We are currently preparing to raise finance through issuing community shares in the trust off the back of our first project in West Oxford and a pipeline of new projects in the works. We aim to launch this investment window in Autumn 2019.
 
 For now there are three ways that you can get involved
+
 <br>
 **Become a member**
 
