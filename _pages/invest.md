@@ -33,4 +33,4 @@ As a small charity we maintain our year-to-year operations through the support o
 {% include button.html link="https://www.paypal.me/oclt" text="Donate" %}
 <br>
 <br>
-If you would like to make a larger financial or property donation in the trust please email us on info@oclt.org.uk 
+If you would like to make a larger financial or property donation in the trust [please email us](https://www.oclt.org.uk/contact/)
