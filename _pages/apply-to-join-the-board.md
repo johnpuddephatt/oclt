@@ -6,13 +6,15 @@ subtitle: Opening for a range of roles on the OCLT board
 ---
 **Non-executive roles available**
 
-Organisational Finance; 
+Organisational Finance;
 
-Legal (ideally property or land); 
+Legal (ideally property or land);
 
 Organisational Communications
 
-**Meeting location:** Makespace Oxford  
+**Meeting location:** Makespace Oxford
+
+  
 **Time commitment:** Min. 2hrs per month
 
 [Oxfordshire Community Land Trust](http://oclt.org.uk/content/information) (OCLT) is an charity which was set up in 2006 to build genuinely affordable homes and enable community land-ownership across the county.
