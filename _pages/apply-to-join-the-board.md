@@ -6,18 +6,18 @@ subtitle: Applications now open for a range of roles on the OCLT board
 ---
 <div class="pullout-box">  
 <h2>Non-executive roles available</h2>  
-<h5>Organisational Finance</h5>  
-<h5>Legal (ideally property or land)</h5>  
-<h5>Communications</h5>  
+<p>Role type: <b>Non-executive</b></p>  
+<p>Meeting location: <b>Makespace Oxford</b></p>  
+<p>Time commitment: <b>2hrs per month</b></p>  
 <ul>  
 <li>  
-Role type: <b>Non-executive</b>  
+<h5>Organisational Finance</h5>  
 </li>  
 <li>  
-Meeting location: <b>Makespace Oxford</b>  
+<h5>Legal (ideally property or land)</h5>  
 </li>  
 <li>  
-Time commitment: <b>2hrs per month</b>  
+<h5>Communications</h5>  
 </li>  
 </ul>  
 </div>
