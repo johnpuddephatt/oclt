@@ -12,7 +12,8 @@ Legal (ideally property or land)
 
 Communications
 
-<div class="pullout-box"> <h2>Non-executive roles available</h2> <ul>   
+<div class="pullout-box">   
+<ul>   
 <li>  
 **Role type:** Non-executive  
 </li>   
@@ -22,7 +23,8 @@ Communications
 <li>  
 **Time commitment:** Min. 2hrs per month  
 </li>   
-</ul> </div>
+</ul>   
+</div>
 
 [Oxfordshire Community Land Trust](http://oclt.org.uk/content/information) (OCLT) is a charity which was set up in 2006 to build genuinely-affordable homes and enable community land-ownership across the county.
 
