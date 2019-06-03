@@ -4,12 +4,14 @@ title: Join the board
 subtitle: Applications now open for a range of roles on the OCLT board
 
 ---
+<div class="pullout-box">
+
 ## Non-executive roles available
 
-<div class="pullout-box">  
-Organisational Finance  
+#### Organisational Finance  
 Legal (ideally property or land)  
-Communications  
+Communications
+
 <ul>  
 <li>  
 Role type: <b>Non-executive</b>  
