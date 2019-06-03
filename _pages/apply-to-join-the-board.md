@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Apply to join the board
-subtitle: Opening for a range of roles on the OCLT board
+title: Join the board
+subtitle: Applications now open for a range of roles on the OCLT board
 
 ---
 <div class="pullout-box"> <h2>Non-executive roles available</h2> <ul> <li>Organisational Finance</li> <li>Legal (ideally property or land)</li> <li>Organisational Communications</li> </ul> </div>
