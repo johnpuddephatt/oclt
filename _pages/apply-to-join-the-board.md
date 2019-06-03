@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Apply to join the board
-subtitle: Opening for a range of roles in the OCLT board
+subtitle: Opening for a range of roles on the OCLT board
 
 ---
 **Non-executive roles available**
