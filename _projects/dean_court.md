@@ -1,9 +1,11 @@
 ---
 title: Dean Court
-date: 2018-08-23 09:30:33 +0000
-excerpt: |
-  Developing eight affordable co-operative apartments for people in West Oxford.
+date: 2019-09-01 09:30:33 +0000
+excerpt: 'Developing eight affordable co-operative apartments for people in West Oxford.
+
+'
 layout: project
+
 ---
 <div class="pullout-box">
 
