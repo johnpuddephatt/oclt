@@ -25,6 +25,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/2019-agm.md
 - _posts/june-update.md
 - _posts/2019-02-21-planning-application-submitted-for-dean-court.md
 - _posts/2019-01-25-january-update.md
