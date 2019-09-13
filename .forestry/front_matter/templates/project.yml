@@ -24,3 +24,5 @@ fields:
   default: project
   config:
     required: true
+pages:
+- _projects/dean-court-oxford.md
