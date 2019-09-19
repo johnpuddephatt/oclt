@@ -7,7 +7,7 @@ tags: []
 ---
 We have three terrific potential candidates for election to the board this year. At the AGM members vote on each candidate as presented. If you would like to cast a proxy vote please [contact us](https://www.oclt.org.uk/contact/)
 
-![](/uploads/2019 potential directors.png)
+![](/uploads/2019 potential directors-1.png)
 
 ### **Bryony Harrington**
 
