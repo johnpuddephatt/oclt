@@ -4,11 +4,11 @@ title: Jobs
 subtitle: Help us grow our membership and develop the organisation for its next phase.
 
 ---
+<div class="pullout-box">
+
 ## Administrative Officer
 
 _We’re looking for someone with bags of talent and energy. Relevant experience would be an advantage but not a necessity as full training will be given._
-
-<div class="pullout-box">
 
 <ul> <li>Office Location: Makespace Oxford</li>
 
@@ -24,13 +24,13 @@ _We’re looking for someone with bags of talent and energy. Relevant experience
 
 </div>
 
-Oxfordshire Community Land Trust (OCLT) is looking for a highly organised and motivated person to undertake a critical role in moving the CLT to the next stage of development. The role will focus on growing and diversifying the membership as well as supporting new groups to drive community-led housing in their own locality. They will also be responsible for internal communications and ensuring the Board is functioning effectively. This will require the applicant to be confident in initiating, co-ordinating and implementing appropriate procedures and take responsibility for specific projects and tasks.
+Oxfordshire Community Land Trust (OCLT) is looking for a highly organised and motivated person to undertake a critical role in moving the CLT to the next stage of development. The role will focus on growing and diversifying the membership as well as supporting new groups to drive community-led housing in their own locality. They will also be responsible for internal communications and ensuring the Board is functioning effectively. This will require the applicant to be confident in initiating, coordinating and implementing appropriate procedures and take responsibility for specific projects and tasks.
 
 The successful applicant will need to be highly motivated, flexible and community-focused with excellent administrative and interpersonal skills, in order to work successfully with people in local communities and other local stakeholders as required.
 
 This role is part-time (0.5FTE) but timings are negotiable with the board. The employee must be able to attend evening Board Meetings which are held on a monthly-basis on the third Monday from 6-9pm.
 
-Location negotiable as much of the work is virtual. OCLT has a hot desk at Makespace (insert link) and this would be the expected work base at least some of the time.
+Location negotiable as much of the work is virtual. OCLT has a hot desk at [Makespace Oxford](http://makespaceoxford.org/) and this would be the expected work base at least some of the time.
 
 **Register your interest by clicking the below link which will take you to an application form. Don't forget to attach your CV!**
 
@@ -57,7 +57,7 @@ To facilitate communications within the Board and between the Board and external
 * Managing OCLTs internal networking platform (we currently use Loomio)
 * Work towards full membership retention
 
-**Internal Comms:**
+**Internal Communications**
 
 * Working with the Chair, preparation of Agenda for Board Meetings
 * Minute taking at BM and maintenance of minute file
