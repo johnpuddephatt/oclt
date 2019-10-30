@@ -14,7 +14,7 @@ We’re looking for someone with bags of talent and energy. Relevant experience 
 
 <ul> <li>Office Location: Makespace Oxford</li>
 
-<li>Salary: £25K pro rata (0.5FTE)</li>
+<li>Salary: £25,000 pro rata (0.5FTE)</li>
 
 <li>Closing Date: 5pm Friday 29th November 2019</li>
 
