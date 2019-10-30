@@ -4,9 +4,9 @@ title: Jobs
 subtitle: Help us grow our membership and develop the organisation for its next phase.
 
 ---
-# Administrative Officer
+## Administrative Officer
 
-## _We’re looking for someone with bags of talent and energy. Relevant experience would be an advantage but not a necessity as full training will be given._
+We’re looking for someone with bags of talent and energy. Relevant experience would be an advantage but not a necessity as full training will be given
 
 <div class="pullout-box">
 
@@ -16,11 +16,11 @@ Headline details
 
 <li>Salary: £25K pro rata (0.5FTE)</li>
 
-<li>Closing Date: 6pm 29th November 2019</li>
+<li>Closing Date: 5pm Friday 29th November 2019</li>
 
-<li>Interviews/assessment: Tuesday December 10th.</li>
+<li>Interview: Tuesday 10th December</li>
 
-<li>Start date: ASAP or January 2020.</li>
+<li>Start date: ASAP or January 2020</li>
 
 </ul>
 
