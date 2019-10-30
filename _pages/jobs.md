@@ -18,7 +18,7 @@ subtitle: Help us grow our membership and develop the organisation for its next 
 
 <li>Interviews/assessment: Tuesday December 10th.</li>
 
-<li>Start date: TBA but January 2020.</li>
+<li>Start date: ASAP or January 2020.</li>
 
 </ul>
 
