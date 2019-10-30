@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Jobs
-subtitle: Help us grow our membership and develop the organisation for its next phase.
+subtitle: ''
 
 ---
 ## Administrative Officer
+
+Help us grow our membership and develop the organisation for its next phase.
 
 We’re looking for someone with bags of talent and energy. Relevant experience would be an advantage but not a necessity as full training will be given.
 
