@@ -10,6 +10,8 @@ subtitle: Help us grow our membership and develop the organisation for its next 
 
 <div class="pullout-box">
 
+Headline details
+
 <ul> <li>Office Location: Makespace Oxford</li>
 
 <li>Salary: £25K pro rata (0.5FTE)</li>
