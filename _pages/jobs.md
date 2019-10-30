@@ -10,7 +10,7 @@ We’re looking for someone with bags of talent and energy. Relevant experience 
 
 <div class="pullout-box">
 
-Headline details
+<h2>Headline details</h2>
 
 <ul> <li>Office Location: Makespace Oxford</li>
 
