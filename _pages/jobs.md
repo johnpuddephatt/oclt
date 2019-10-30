@@ -34,8 +34,6 @@ Location negotiable as much of the work is virtual. OCLT has a hot desk at Makes
 
 **Register your interest by clicking the below link which will take you to an application form. Don't forget to attach your CV!**
 
-{% include button.html link="[http://www.whitehorsedc.gov.uk/java/support/Main.jsp?MODULE=ApplicationDetails&REF=P19/V0424/FUL](http://www.whitehorsedc.gov.uk/java/support/Main.jsp?MODULE=ApplicationDetails&REF=P19/V0424/FUL "http://www.whitehorsedc.gov.uk/java/support/Main.jsp?MODULE=ApplicationDetails&REF=P19/V0424/FUL")" text="**Apply here**" %}
-
 ## **Job Description**
 
 ### **Purpose**
