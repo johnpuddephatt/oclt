@@ -4,9 +4,9 @@ title: Jobs
 subtitle: Help us grow our membership and develop the organisation for its next phase.
 
 ---
-## Administrative Officer
+# Administrative Officer
 
-_We’re looking for someone with bags of talent and energy. Relevant experience would be an advantage but not a necessity as full training will be given._
+## _We’re looking for someone with bags of talent and energy. Relevant experience would be an advantage but not a necessity as full training will be given._
 
 <div class="pullout-box">
 
