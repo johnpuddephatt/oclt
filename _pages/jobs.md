@@ -32,7 +32,9 @@ This role is part-time (0.5FTE) but timings are negotiable with the board. The e
 
 Location negotiable as much of the work is virtual. OCLT has a hot desk at Makespace (insert link) and this would be the expected work base at least some of the time.
 
-**Register your interest by completing an application form on our website and sending your CV here ( link to my email address)**
+**Register your interest by clicking the below link which will take you to an application form. Don't forget to attach your CV!**
+
+{% include button.html link="[https://docs.google.com/forms/d/e/1FAIpQLScdLlvK-IV6CkdMbDxA8d0N8-h5bUqPj7whGmRyauEta_To0A/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScdLlvK-IV6CkdMbDxA8d0N8-h5bUqPj7whGmRyauEta_To0A/viewform?usp=sf_link "https://docs.google.com/forms/d/e/1FAIpQLScdLlvK-IV6CkdMbDxA8d0N8-h5bUqPj7whGmRyauEta_To0A/viewform?usp=sf_link")" text="Apply here" %}
 
 ## **Job Description**
 
