@@ -34,9 +34,9 @@ Location negotiable as much of the work is virtual. OCLT has a hot desk at Makes
 
 **Register your interest by completing an application form on our website and sending your CV here ( link to my email address)**
 
-### **Job Description**
+## **Job Description**
 
-#### **Purpose:**
+### **Purpose**
 
 To develop, support and energise OCLT’s membership
 
@@ -44,9 +44,7 @@ To think ahead and identify opportunities and challenges for future membership d
 
 To facilitate communications within the Board and between the Board and external stakeholders including the membership.
 
-#### 
-
-**Duties**
+### **Duties**
 
 **Membership Development (this list is not exhaustive)**
 
