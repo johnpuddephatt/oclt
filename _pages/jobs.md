@@ -4,27 +4,23 @@ title: Jobs
 subtitle: Help us grow our membership and develop the organisation for its next phase.
 
 ---
-# Administrative Officer
+## Administrative Officer
 
 _We’re looking for someone with bags of talent and energy. Relevant experience would be an advantage but not a necessity as full training will be given._
 
 <div class="pullout-box">
 
-<h2>Administrative Officer</h2> 
+<ul> <li>Office Location: Makespace Oxford</li>
 
-_We’re looking for someone with bags of talent and energy. Relevant experience would be an advantage but not a necessity as full training will be given._
+<li>Salary: £25K pro rata (0.5FTE)</li>
 
-<ul> <li>Office Location: Makespace Oxford</li> 
+<li>Closing Date: 6pm 29th November 2019</li>
 
-<li>Salary: £25K pro rata (0.5FTE)</li> 
-
-<li>Closing Date: 6pm 29th November 2019</li> 
-
-<li>Interviews/assessment: Tuesday December 10th.</li> 
+<li>Interviews/assessment: Tuesday December 10th.</li>
 
 <li>Start date: TBA but January 2020.</li>
 
-</ul> 
+</ul>
 
 </div>
 
