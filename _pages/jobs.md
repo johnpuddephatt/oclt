@@ -38,7 +38,6 @@ Location negotiable as much of the work is virtual. OCLT has a hot desk at [Make
 
 **Register your interest by clicking the below link which will take you to an application form. We will then send you a job pack to your provided email address.**
 
-
 {% include button.html link="https://docs.google.com/forms/d/e/1FAIpQLScdLlvK-IV6CkdMbDxA8d0N8-h5bUqPj7whGmRyauEta_To0A/viewform" text="APPLY HERE" %}
 
 ## **Job Description**
@@ -79,3 +78,5 @@ The employee may be required to undertake other tasks and responsibilities as di
 * Must be tactful and respect confidentiality
 * Must be able to work in a team (with the Board)
 * Must be reliable and honest
+
+![](/uploads/191031 Recruitment Shareable-01-01.png)
