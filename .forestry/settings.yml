@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: directory
   path: _pages
@@ -35,6 +35,11 @@ sections:
 - type: document
   path: _data/navigation.yml
   label: Menus
+- type: document
+  path: _data/people.yml
+  label: People
+  templates:
+  - people
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

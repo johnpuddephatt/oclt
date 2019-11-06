@@ -9,7 +9,7 @@
         <div>
           <h3 class="block--people--name">{{ person.name }}</h3>
           <div class="block--people--role">{{ person.role }}</div>
-          <div class="block--people--description">{{ person.description }}</div>
+          <div class="block--people--description">{{ person.description | markdownify }}</div>
         </div>
       </li>
     {% endfor %}

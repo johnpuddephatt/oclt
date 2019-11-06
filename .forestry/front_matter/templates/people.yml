@@ -1,0 +1,30 @@
+---
+label: People
+hide_body: true
+fields:
+- name: name
+  label: Name
+  type: text
+  hidden: false
+  default: ''
+- name: role
+  label: Role
+  type: text
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+    format: markdown
+pages:
+- _data/people.yml
