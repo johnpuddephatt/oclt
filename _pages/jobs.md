@@ -22,7 +22,7 @@ We’re looking for someone with bags of talent and energy to support us as we g
 
 <li>Closing Date: 5pm Friday 29th November 2019</li>
 
-<li>Interview: Tuesday 10th December</li>
+<li>Interview: Tuesday 10th December 2019</li>
 
 <li>Start date: ASAP or January 2020</li>
 
