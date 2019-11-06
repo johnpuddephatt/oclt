@@ -4,11 +4,11 @@ title: Jobs
 subtitle: ''
 
 ---
-## Administrative Officer
+## CLT Coordinator
 
-Help us grow our membership and develop the organisation for its next phase.
+Join us and be at the centre of growing our membership and developing the organisation for its next phase.
 
-We’re looking for someone with bags of talent and energy. Relevant experience would be an advantage but not a necessity as full training will be given.
+We’re looking for someone with bags of talent and energy to support us as we grow our membership and develop further projects. Relevant experience would be an advantage but not a necessity as full training will be given.
 
 <div class="pullout-box">
 
@@ -16,7 +16,9 @@ We’re looking for someone with bags of talent and energy. Relevant experience 
 
 <ul> <li>Office Location: Makespace Oxford</li>
 
-<li>Salary: £25,000 pro rata (0.5FTE)</li>
+<li>Term: One year initially with an intention for this to become a permanent role</li>
+
+<li>Salary: £25,000 pro rata (3 day per week / 0.6FTE)</li>
 
 <li>Closing Date: 5pm Friday 29th November 2019</li>
 
@@ -28,27 +30,30 @@ We’re looking for someone with bags of talent and energy. Relevant experience 
 
 </div>
 
-Oxfordshire Community Land Trust (OCLT) is looking for a highly organised and motivated person to undertake a critical role in moving the CLT to the next stage of development. The role will focus on growing and diversifying the membership as well as supporting new groups to drive community-led housing in their own locality. They will also be responsible for internal communications and ensuring the Board is functioning effectively. This will require the applicant to be confident in initiating, coordinating and implementing appropriate procedures and take responsibility for specific projects and tasks.
+Oxfordshire Community Land Trust (OCLT) is looking for a highly organised, motivated and adaptable person to undertake a critical role in moving the CLT to the next stage of development. The successful applicant will focus on growing and diversifying the membership as well as supporting new groups to drive community-led housing in their own locality. 
 
-The successful applicant will need to be highly motivated, flexible and community-focused with excellent administrative and interpersonal skills, in order to work successfully with people in local communities and other local stakeholders as required.
+The employee will also be responsible for internal communications and ensuring the Board is functioning effectively. This will require the applicant to be confident in initiating, coordinating and implementing appropriate procedures and take responsibility for specific projects and tasks. Having a pioneering spirit would be an advantage.
 
-This role is part-time (0.5FTE) but timings are negotiable with the board. The employee must be able to attend evening Board Meetings which are held on a monthly-basis on the third Monday from 6-9pm.
+Oxfordshire Community Land Trust (OCLT) is about to go on site early in 2020 with its first build project for 8 permanently affordable flats for local people in housing need. There are other projects in the pipeline and the Board is working to progress these to eventually create a portfolio of community-led and owned land and housing projects.
 
-Location negotiable as much of the work is virtual. OCLT has a hot desk at [Makespace Oxford](http://makespaceoxford.org/) and this would be the expected work base at least some of the time.
+This role is part-time (3 days a week) and timings are negotiable with the board. The employee must be able to attend evening Board Meetings which are held on a monthly-basis on the third Monday from 6-9pm.
 
-**Register your interest by clicking the below link which will take you to an application form. We will then send you a job pack to your provided email address.**
+Location is negotiable as much of the work is virtual. OCLT has a hot desk at [Makespace Oxford](http://makespaceoxford.org/) and this would be the expected work base at least some of the time. You would be working initially with OCLT Board Members to bed in and develop your role. You will be reporting to the Chair on a day to day working closely with the Exec Team.
 
-{% include button.html link="https://docs.google.com/forms/d/e/1FAIpQLScdLlvK-IV6CkdMbDxA8d0N8-h5bUqPj7whGmRyauEta_To0A/viewform" text="APPLY HERE" %}
+Find out more about Community led Housing [here](https://www.communityledhomes.org.uk). If you have any questions about the application process please [contact us](https://www.oclt.org.uk/contact/) and we would be happy to arrange a phone conversation.
+
+**Download the application form by clicking the below link. Return to us either by email or post using the details at the bottom of the application form.**
+
+{% include button.html link="/uploads/OCLT Coordinator Application Form.docx" text="APPLY HERE" %}
 
 ## **Job Description**
 
 ### **Purpose**
 
-To develop, support and energise OCLT’s membership
-
-To think ahead and identify opportunities and challenges for future membership development.
-
-To facilitate communications within the Board and between the Board and external stakeholders including the membership.
+* To develop, support and energise OCLT’s membership 
+* To think ahead and identify opportunities and challenges for future membership and organisation development
+* To facilitate communications within and between the Board and with external stakeholders including the membership.
+* To work with the Board to secure a funding stream to ensure the role can be permanent.
 
 ### **Duties**
 
@@ -71,12 +76,12 @@ The employee may be required to undertake other tasks and responsibilities as di
 
 **Person Spec**
 
-* Must be organised, flexible and efficient
-* Must have initiative and the ability to plan own work, and meet deadlines
-* Must have the ability to manage some pressure and conflicting demands and prioritise tasks and workload
-* Must have good oral and written communication skills
-* Must be tactful and respect confidentiality
-* Must be able to work in a team (with the Board)
-* Must be reliable and honest
+The applicant must:
 
-![](/uploads/191031 Recruitment Shareable-01-01.png)
+* Be organised, flexible and efficient
+* Have initiative and the ability to plan own work, and meet deadlines
+* Have the ability to manage some pressure and conflicting demands and prioritise tasks and workload
+* Have good oral and written communication skills
+* Be tactful and respect confidentiality
+* Be able to work in a team (with the Board and others working in the rapidly developing community led housing arena)
+* Be reliable and honest
