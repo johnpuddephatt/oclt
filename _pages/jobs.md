@@ -30,7 +30,7 @@ We’re looking for someone with bags of talent and energy to support us as we g
 
 </div>
 
-Oxfordshire Community Land Trust (OCLT) is looking for a highly organised, motivated and adaptable person to undertake a critical role in moving the CLT to the next stage of development. The successful applicant will focus on growing and diversifying the membership as well as supporting new groups to drive community-led housing in their own locality. 
+Oxfordshire Community Land Trust (OCLT) is looking for a highly organised, motivated and adaptable person to undertake a critical role in moving the CLT to the next stage of development. The successful applicant will focus on growing and diversifying the membership as well as supporting new groups to drive community-led housing in their own locality.
 
 The employee will also be responsible for internal communications and ensuring the Board is functioning effectively. This will require the applicant to be confident in initiating, coordinating and implementing appropriate procedures and take responsibility for specific projects and tasks. Having a pioneering spirit would be an advantage.
 
@@ -38,7 +38,7 @@ Oxfordshire Community Land Trust (OCLT) is about to go on site early in 2020 wit
 
 This role is part-time (3 days a week) and timings are negotiable with the board. The employee must be able to attend evening Board Meetings which are held on a monthly-basis on the third Monday from 6-9pm.
 
-Location is negotiable as much of the work is virtual. OCLT has a hot desk at [Makespace Oxford](http://makespaceoxford.org/) and this would be the expected work base at least some of the time. You would be working initially with OCLT Board Members to bed in and develop your role. You will be reporting to the Chair on a day to day working closely with the Exec Team.
+Location is negotiable as much of the work is virtual. OCLT has a hot desk at [Makespace Oxford](http://makespaceoxford.org/) and this would be the expected work base at least some of the time. You would be working initially with OCLT Board Members to bed in and develop your role. You will be reporting to the Chair and working closely with the Senior Management Team.
 
 Find out more about Community led Housing [here](https://www.communityledhomes.org.uk). If you have any questions about the application process please [contact us](https://www.oclt.org.uk/contact/) and we would be happy to arrange a phone conversation.
 
@@ -50,7 +50,7 @@ Find out more about Community led Housing [here](https://www.communityledhomes.o
 
 ### **Purpose**
 
-* To develop, support and energise OCLT’s membership 
+* To develop, support and energise OCLT’s membership
 * To think ahead and identify opportunities and challenges for future membership and organisation development
 * To facilitate communications within and between the Board and with external stakeholders including the membership.
 * To work with the Board to secure a funding stream to ensure the role can be permanent.
