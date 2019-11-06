@@ -24,8 +24,6 @@ fields:
   default: ''
   config:
     wysiwyg: true
-    schema:
-      format: markdown
     format: markdown
 pages:
 - _data/people.yml
