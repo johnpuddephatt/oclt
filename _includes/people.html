@@ -1,7 +1,7 @@
 <div class="block--people">
   <h2 class="block--title">{{ include.title | default: 'People' }}</h2>
   <ul class="block--people--grid">
-    {% for person in site.data.people %}
+    {% for person in site.data.people.people %}
       <li class="block--people--item">
          <div class="block--people--image">
           <img src="{{ person.image }}"/>
