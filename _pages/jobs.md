@@ -44,7 +44,7 @@ Find out more about Community led Housing [here](https://www.communityledhomes.o
 
 **Download the job pack (three forms in one word document) by clicking the below button. Return to us either by email or post using the details at the bottom of the application form (p2).**
 
-{% include button.html link="[/uploads/OCLT Coordinator Job Pack (Nov2019).docx](OCLT Coordinator Job Pack (Nov2019).docx)" text="APPLICATION FORM" %}
+{% include button.html link="/uploads/OCLT Coordinator Job Pack (Nov2019).docx" text="APPLICATION FORM" %}
 
 ## **Job Description**
 
