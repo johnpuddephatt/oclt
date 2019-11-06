@@ -4,6 +4,11 @@ hide_body: true
 fields:
 - name: people
   type: field_group_list
+  config:
+    min:
+    max:
+    labelField: name
+  label: List of people
   fields:
   - name: name
     label: Name
