@@ -27,6 +27,7 @@ fields:
     type: file
     hidden: false
     default: ''
+    description: Images should be cropped square and approximately 200 x 200px
   - name: description
     type: textarea
     default: ''
