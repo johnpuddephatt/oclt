@@ -17,6 +17,9 @@
 .block--people--item {
   flex: 0 0 33.333%;
   list-style-type: none;
+  &::before {
+    content: none !important;
+  }
   // text-align: center;
   position: relative;
   // padding: $base-spacing $small-spacing;
@@ -52,5 +55,9 @@
 }
 
 .block--people--description {
-  font-size: modular-scale(-1)
+  font-size: modular-scale(-1);
+  p {
+    font-size: modular-scale(0) !important;
+    font-weight: 500 !important;
+  }
 }
