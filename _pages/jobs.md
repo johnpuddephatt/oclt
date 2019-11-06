@@ -42,9 +42,9 @@ Location is negotiable as much of the work is virtual. OCLT has a hot desk at [M
 
 Find out more about Community led Housing [here](https://www.communityledhomes.org.uk). If you have any questions about the application process please [contact us](https://www.oclt.org.uk/contact/) and we would be happy to arrange a phone conversation.
 
-**Download the application form by clicking the below link. Return to us either by email or post using the details at the bottom of the application form.**
+**Download the job pack (three forms in one word document) by clicking the below button. Return to us either by email or post using the details at the bottom of the application form (p2).**
 
-{% include button.html link="/uploads/OCLT Coordinator Application Form.docx" text="APPLY HERE" %}
+{% include button.html link="/uploads/OCLT Coordinator Job Pack (Nov2019).docx" text="APPLICATION FORM" %}
 
 ## **Job Description**
 
