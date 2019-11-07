@@ -1,5 +1,12 @@
 ---
 people:
+- name: Alison Matthias
+  role: Non-Exec Director
+  image: "/uploads/Alison Matthias SQUARE.jpg"
+  description: |-
+    Alison has had a career in housing property development for housing associations. She has 20 years experience including project management of housing development schemes: large scale major repairs and re-improvement programmes, multi-million pound new-build housing development programmes, developing and managing housing for vulnerable people, and developing housing for older people. She has housing management experience for an Inner London local authority. As Development and New Business Director at Oxford Citizens Housing Association she managed development programmes and procured new business. She has project managed stock transfer of a local authority estate to a Registered Provider.
+
+    Alison also has twelve years experience in Housing Policy and Strategy at Homes England, managing policy on environmental sustainability and existing homes. She completed a secondment as an Area Manager at HE, managing funding contracts with Registered Providers.
 - name: Bryony Harrington
   role: Non-Exec Director
   image: "/uploads/Bryony Harrington headshot BH 2019.jpg"
@@ -89,16 +96,6 @@ people:
     communities with urban planning and regeneration. Sue has been a board member
     of Oxford Citizens Housing Association since 2003 and before moving to Oxford
     worked with community organisations in London’s Docklands.
-- name: Larry Sanders
-  role: Non-Exec Director
-  image: "/uploads/people/larry.jpg"
-  description: 'Larry was a county councillor for four years and was the Leader of
-    the Green Group on Oxfordshire County Council. He has used his position to bring
-    Land Trusts into discussion, particularly in meeting the increasing need for accommodation
-    for Older People. He sees that community land trusts tackle two of the major issues
-    of our time: the need for homes at a price that most people can afford and the
-    building of community. He is a trained lawyer and social worker. He has been a
-    university lecturer in Social Work and Social and Health Care Law.'
 - name: Jock Coats
   role: Non-Exec Director
   image: "/uploads/people/Jock.jpg"
