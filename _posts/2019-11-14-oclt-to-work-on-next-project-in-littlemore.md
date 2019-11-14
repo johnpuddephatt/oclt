@@ -2,7 +2,10 @@
 layout: post
 title: 'Next project: a new model for empty garage sites in Oxford'
 image: "/uploads/Annotation 2019-11-12 152038.png"
-tags: []
+tags:
+- champions ways
+- " littlemore"
+- empty garages
 
 ---
 While OCLT awaits the final planning permission to proceed with Dean Court we are delighted to announce another project which got formal approval from Oxford City Council's Cabinet last night.
