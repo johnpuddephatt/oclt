@@ -20,4 +20,4 @@ On Wednesday 13th November the proposal went to[ Oxford City Council's Cabinet](
 
 Having worked with Transition by Design on the Wolvercote Paper Mill and Irving Building projects, we are very happy to be partnering with them once again.
 
-We will be partnering with Oxford City Council and the CoHoHub to formally launch both the Routes to Delivery report and announce plans for Community Led Housing in the city and beyond on Thursday 16th January in the Town Hall at 6.30pm.
+We will be formally launching both the Routes to Delivery report and announce plans for Community Led Housing in the city and beyond on Thursday 16th January in the Town Hall at 6.30pm with Oxford City Council and the [CoHoHub](collaborativehousing.org.uk).
