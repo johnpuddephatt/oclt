@@ -6,7 +6,9 @@ subtitle: ''
 ---
 ### Interested in developing a community-led model of affordable housing provision?
 
-Join the OCLT Board as Treasurer and work with us to shape and deliver much needed affordable housing and to build sustainable communities in Oxfordshire. We are at a key stage in the life of the organisation, about to commence our first housing project and with a second project just announced. We expect to grow at pace over the next few years.
+<p>
+
+##### Join the OCLT Board as Treasurer and work with us to shape and deliver much needed affordable housing and to build sustainable communities in Oxfordshire. We are at a key stage in the life of the organisation, about to commence our first housing project and with a second project just announced. We expect to grow at pace over the next few years.
 
 <div class="pullout-box">
 
@@ -23,6 +25,8 @@ Join the OCLT Board as Treasurer and work with us to shape and deliver much need
 </ul>
 
 </div>
+
+**Please send us a CV and an explanation of your interest in this role by email to** [**fran.ryan@oclt.org.uk**](mailto:fran.ryan@oclt.org.uk)
 
 Oxfordshire Community Land Trust (OCLT) is looking for a highly-organised, motivated and incisive accountant to undertake a central role in moving the CLT to the next stage of development. We need someone who can focus on our financial systems and compliance as well as our financing structure and strategy.
 
@@ -42,48 +46,30 @@ Find out more about Community-led Housing [here](https://www.communityledhomes.o
 
 #### **Overall**
 
-o Participate as a member of the Board with joint responsibility for the organisation
-
-o Oversee the financial affairs of OCLT and ensure they are legal, constitutional, and within accepted accounting and sector practice.
-
-o Ensure proper records are kept and that effective financial procedures are in place.
-
-o Monitor and report on the financial health of the organisation.
-
-o Oversee the production of necessary financial reports/returns, accounts and audits.
+* Participate as a member of the Board with joint responsibility for the organisation
+* Oversee the financial affairs of OCLT and ensure they are legal, constitutional, and within accepted accounting and sector practice.
+* Ensure proper records are kept and that effective financial procedures are in place.
+* Monitor and report on the financial health of the organisation.
+* Oversee the production of necessary financial reports/returns, accounts and audits.
 
 #### **Specifically**
 
-o Participate in Board meetings as a Director
-
-o Chair the Finance and Development Committee (FDC) of the Board
-
-o Report the financial position at Board and committee meetings (balance sheet, cash flow, funding, debt management etc).
-
-o Lead the appraisal of the financial viability of plans, proposals and feasibility studies at FDC as needed.
-
-o Liaise with relevant Board and committee members and/or staff, consultants or volunteers to monitor the financial viability of the organisation.
-
-o Work with Board to produce an annual budget and propose its adoption at the AGM for the upcoming year.
-
-o Supervise the CLT Co-ordinator and Board to ensure proper, up to date records are kept and that effective financial procedures and controls are in place.
-
-o Lead on appointing and liaising with the independent examiner/auditors.
-
-o Lead on developing and maintaining an appropriate investment strategy for surplus funds
+* Participate in Board meetings as a Director
+* Chair the Finance and Development Committee (FDC) of the Board
+* Report the financial position at Board and committee meetings (balance sheet, cash flow, funding, debt management etc).
+* Lead the appraisal of the financial viability of plans, proposals and feasibility studies at FDC as needed.
+* Liaise with relevant Board and committee members and/or staff, consultants or volunteers to monitor the financial viability of the organisation.
+* Work with Board to produce an annual budget and propose its adoption at the AGM for the upcoming year.
+* Supervise the CLT Co-ordinator and Board to ensure proper, up to date records are kept and that effective financial procedures and controls are in place.
+* Lead on appointing and liaising with the independent examiner/auditors.
+* Lead on developing and maintaining an appropriate investment strategy for surplus funds
 
 #### **Qualities and Qualification**
 
-o A qualified accountant in good standing with a UK professional body and with relevant accounting experience
-
-o Good financial analysis skills and a focus on detail
-
-o Ability to produce reports and communicate clearly
-
-o Ability to work constructively in a team, supervise team members and to lead areas of work independently
-
-o Ability to critically challenge advice and information
-
-o Committed to the delivery of sustainable communities
-
-o It would be ideal though not essential to have some accounting experience in a housing development context, especially social housing.
+* A qualified accountant in good standing with a UK professional body and with relevant accounting experience
+* Good financial analysis skills and a focus on detail
+* Ability to produce reports and communicate clearly
+* Ability to work constructively in a team, supervise team members and to lead areas of work independently
+* Ability to critically challenge advice and information
+* Committed to the delivery of sustainable communities
+* It would be ideal though not essential to have some accounting experience in a housing development context, especially social housing.
