@@ -16,8 +16,6 @@ Join the OCLT Board as Treasurer and work with us to shape and deliver much need
 
 <li>Term: Negotiable but we’d love someone to take the role for 2 years</li>
 
-<li>Obligation: One monthly board meeting and a one hour finance working group</li>
-
 <li>Salary: This is an unpaid role and reasonable expenses will be reimbursed</li>
 
 <li>Start date: By agreement and ideally in January 2020</li>
