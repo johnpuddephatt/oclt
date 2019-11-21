@@ -13,7 +13,7 @@ OCLT has a strong board and excellent governance arrangements. Most recently, be
 
 We currently have a vacancy on the board for a voluntary treasurer. Click the below for more details.
 
-{% include button.html link="http://oclt.org.uk/vacancy-treasurer-voluntary" text="Click here" %}
+<li>{% include button.html link="http://oclt.org.uk/vacancy-treasurer-voluntary" text="Click here" %}</li>
 
 </div>
 
