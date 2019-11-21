@@ -4,9 +4,9 @@ title: 'Vacancy: Treasurer (voluntary)'
 subtitle: ''
 
 ---
-### Interested in developing a community-led model of affordable housing provision? 
+### Interested in developing a community-led model of affordable housing provision?
 
-Join OCLT Board as Treasurer and work with us to shape and deliver much needed affordable housing and to build sustainable communities in Oxfordshire. We are at a key stage in the life of the organisation, about to commence our first housing project and with a second project just announced. We expect to grow at pace over the next few years.
+Join the OCLT Board as Treasurer and work with us to shape and deliver much needed affordable housing and to build sustainable communities in Oxfordshire. We are at a key stage in the life of the organisation, about to commence our first housing project and with a second project just announced. We expect to grow at pace over the next few years.
 
 <div class="pullout-box">
 
@@ -26,7 +26,7 @@ Join OCLT Board as Treasurer and work with us to shape and deliver much needed a
 
 </div>
 
-Oxfordshire Community Land Trust (OCLT) ([https://www.oclt.org.uk/](https://www.oclt.org.uk/ "https://www.oclt.org.uk/") ) is looking for a highly organised, motivated and incisive accountant to undertake a central role in moving the CLT to the next stage of development. We need someone who can focus on our financial systems and compliance as well as our financing structure and strategy.
+Oxfordshire Community Land Trust (OCLT) is looking for a highly-organised, motivated and incisive accountant to undertake a central role in moving the CLT to the next stage of development. We need someone who can focus on our financial systems and compliance as well as our financing structure and strategy.
 
 You will be part of an experienced Board of 11 members coming from various complementary backgrounds including social housing, property development, HR, project finance and law, and will be supported by our bookkeeper, external firm of accountants and our staff team as we recruit. You will have the opportunity to shape our existing financial systems (we currently use Xero, Senta and Float) and reports as we grow.
 
