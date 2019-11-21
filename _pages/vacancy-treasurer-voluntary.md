@@ -6,10 +6,8 @@ subtitle: ''
 ---
 ### Interested in developing a community-led model of affordable housing provision?
 
-<p>
-
 ##### Join the OCLT Board as Treasurer and work with us to shape and deliver much needed affordable housing and to build sustainable communities in Oxfordshire. We are at a key stage in the life of the organisation, about to commence our first housing project and with a second project just announced. We expect to grow at pace over the next few years.
-
+<p>
 <div class="pullout-box">
 
 <h3>Headline details</h3>
