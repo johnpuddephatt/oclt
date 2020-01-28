@@ -1,16 +1,5 @@
 ---
 people:
-- name: Graham Burgess
-  role: CLT Co-ordinator
-  image: "/uploads/headshot.jpg"
-  description: Graham joined the team as CLT Co-ordinator in January 2020. He has
-    a varied background, including a physics degree, a spell in the Department for
-    Transport and an internship in Oxford with an Intellectual Property Consultancy.
-    Graham is new to the community-led housing arena but has volunteered on several
-    homelessness projects in the South East, including co-running a campaign to help
-    homeless people to vote in the 2017 UK General Election. Graham has recently returned
-    to the UK after cycling to Tokyo and brings plenty of energy and enthusiasm to
-    help push the work forwards.
 - name: John Bloxsom
   role: Development Manager
   description: John Bloxsom is a housing professional with wide ranging experience
@@ -53,6 +42,17 @@ people:
     professional by background has developed considerable expertise in alternative
     approaches to affordable housing provision and is passionate about avoiding Right
     to Buy in order to retain permanent affordability.
+- name: Graham Burgess
+  role: CLT Co-ordinator
+  image: "/uploads/headshot.jpg"
+  description: Graham joined the team as CLT Co-ordinator in January 2020. He has
+    a varied background, including a physics degree, a spell in the Department for
+    Transport and an internship in Oxford with an Intellectual Property Consultancy.
+    Graham is new to the community-led housing arena but has volunteered on several
+    homelessness projects in the South East, including co-running a campaign to help
+    homeless people to vote in the 2017 UK General Election. Graham has recently returned
+    to the UK after cycling to Tokyo and brings plenty of energy and enthusiasm to
+    help push the work forwards.
 - name: Ron Gibbons
   role: Exec Team
   image: "/uploads/people/rongibbons.jpg"
