@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Invest
+title: Join us
 subtitle: Be part of changing Oxfordshire's housing system
 
 ---
