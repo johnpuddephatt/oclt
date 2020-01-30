@@ -2,6 +2,7 @@
 layout: page
 title: 'Vacancy: Treasurer (voluntary)'
 subtitle: ''
+published: false
 
 ---
 ### Interested in developing a community-led model of affordable housing provision?
