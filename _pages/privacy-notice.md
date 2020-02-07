@@ -2,7 +2,7 @@
 layout: page
 title: OCLT Data Privacy Notice
 subtitle: ''
-date: 2019-01-25 16:15:49 +0000
+date: '2019-01-25T16:15:49.000+00:00'
 
 ---
 ## Introduction
@@ -116,4 +116,4 @@ However, there are some situations where this will occur including, but not excl
 
   We may change this Data Privacy Notice from time to time. If we make any significant changes in the way we treat your personal information, we will make this clear on our website or by contacting you directly. If you have any questions, comments or suggestions, please let us know by contacting: OCLT 55 Henley Avenue, Oxford OX4 4DJ, 07889 209448 or info@oclt.org.uk
 
-_Oxfordshire Community Land Trust is the trading name of OCLT Ltd, registered as an Industrial and Provident Society for the benefit of the community \[30158R\] and a HMRC registered charity \[EW19031\]_
+_Oxfordshire Community Land Trust is the trading name of OCLT Ltd, registered as an Industrial and Provident Society for the benefit of the community \[30158R\] and a HMRC registered charity \[EW19031\]._
