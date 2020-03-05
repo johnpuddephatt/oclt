@@ -5,8 +5,8 @@ fields:
 - name: people
   type: field_group_list
   config:
-    min:
-    max:
+    min: 
+    max: 
     labelField: name
   label: List of people
   fields:
@@ -27,6 +27,6 @@ fields:
     type: file
     hidden: false
     default: ''
-    description:
+    description: 
 pages:
 - _data/people.yml
