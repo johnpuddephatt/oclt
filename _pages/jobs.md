@@ -39,7 +39,7 @@ Find out more about Community led Housing [here](https://www.communityledhomes.o
 
 **How to apply**
 
-Download the application form by clicking the below button. Return to us either by email or post using the details at the bottom of the application form.
+Download the application form by following the link below and then downloading the form. Return to us either by email or post using the details at the bottom of the application form.
 
 [APPLICATION FORM](https://drive.google.com/file/d/1BVCNvHD1B3EEWnNiTa5QwRBY82cKIYSA/view?usp=sharing "Application form")
 
