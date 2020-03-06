@@ -28,5 +28,14 @@ fields:
     hidden: false
     default: ''
     description: 
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Description
 pages:
 - _data/people.yml
