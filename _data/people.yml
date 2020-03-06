@@ -1,8 +1,5 @@
 ---
 people:
-- name: Graham Burgess
-  role: CLT Co-ordinator
-  image: "/uploads/2020-01-27-1.jpg"
 - name: John Bloxsom
   role: Development Manager
   description: John Bloxsom is a housing professional with wide ranging experience
@@ -88,6 +85,9 @@ people:
     Alison has had a career in housing property development for housing associations. She has 20 years experience including project management of housing development schemes: large scale major repairs and re-improvement programmes, multi-million pound new-build housing development programmes, developing and managing housing for vulnerable people, and developing housing for older people. She has housing management experience for an Inner London local authority. As Development and New Business Director at Oxford Citizens Housing Association she managed development programmes and procured new business. She has project managed stock transfer of a local authority estate to a Registered Provider.
 
     Alison also has twelve years experience in Housing Policy and Strategy at Homes England, managing policy on environmental sustainability and existing homes. She completed a secondment as an Area Manager at HE, managing funding contracts with Registered Providers.
+- name: Graham Burgess
+  role: CLT Co-ordinator
+  image: "/uploads/2020-01-27-1.jpg"
 - name: Dr Sue Brownill
   role: Non-Exec Director
   image: "/uploads/people/suebrownill.jpg"
