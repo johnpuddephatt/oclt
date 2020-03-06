@@ -40,6 +40,10 @@ sections:
   label: People
   templates:
   - people
+- type: document
+  path: _includes/people.html
+  label: people (html)
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
