@@ -11,8 +11,9 @@
     margin: 2 * $base-spacing 0 $small-spacing;
   }
   h3 {
-    margin-top: $base-spacing;
-    margin-bottom: 0;
+    font-size: modular-scale(0);
+    margin: 1.5 * $base-spacing 0 $small-spacing;
+    font-family: $base-font-family;
     font-weight: 600;
   }
   ul {

@@ -1,4 +1,5 @@
-@include font-face("Aleo OCLT", "/assets/fonts/aleo-bold-webfont", $file-formats: woff2 woff)
+@include font-face("Aleo OCLT", "/assets/fonts/aleo-bold-webfont", $file-formats: woff2 woff);
+
 @include font-face("Neue Hans Kendrick OCLT", "/assets/fonts/neue_hans_kendrick_regular", $file-formats: woff2 woff){
   font-style: normal;
   font-weight: 400;

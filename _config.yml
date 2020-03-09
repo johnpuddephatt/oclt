@@ -62,6 +62,7 @@ exclude:
   - shipitfile.js
   - Gemfile
   - Gemfile.lock
+  - vendor
 
 keep_files:           [".git", ".svn"]
 encoding:             "utf-8"

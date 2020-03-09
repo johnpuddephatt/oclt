@@ -4,8 +4,11 @@ layout: default
 <header class="page-header page-header__home">
   <div class="page-header--inner">
     <div class="container container__narrow">
-      <h1 class="page-title page-title__home">Land for our common future</h1>
-      <div class="page-subtitle page-subtitle__home">We’re a group of local people working to acquire and manage land for community use in Oxfordshire – creating affordable and sustainable space for housing, work, food production and leisure.</div>
+      <h1 class="page-title page-title__home">{{ page.title }}</h1>
+      <div class="page-subtitle page-subtitle__home">{{ page.subtitle }}</div>
+      {% if page.button_text and page.button_link %}
+        <a class="button" href="{{page.button_link}}">{{page.button_text}}</a>
+      {% endif %}
     </div>
     {% include svg/header-curves.svg class='page-header--curves' %}
 
