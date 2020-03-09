@@ -3,4 +3,4 @@ _site
 .jekyll-metadata
 node_modules/
 yarn-error.log
-vendor
+vendor/**
