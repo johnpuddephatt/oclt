@@ -31,3 +31,5 @@ fields:
       required: false
     label: Button link
   label: Button
+pages:
+- _pages/index.md
