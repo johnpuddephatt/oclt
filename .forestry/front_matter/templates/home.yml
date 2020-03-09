@@ -2,12 +2,12 @@
 label: Home
 hide_body: true
 fields:
-- name: title
+- name: heading
   type: text
   config:
     required: true
-  label: Title
-- name: subtitle
+  label: Main heading
+- name: subheading
   type: textarea
   default: ''
   config:
@@ -15,17 +15,17 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Subtitle
+  label: Main subtitle
 - name: button
   type: field_group
   config: {}
   fields:
-  - name: button_text
+  - name: text
     type: text
     config:
       required: false
     label: Button text
-  - name: button_link
+  - name: link
     type: text
     config:
       required: false
