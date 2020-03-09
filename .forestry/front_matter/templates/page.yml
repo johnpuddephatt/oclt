@@ -19,7 +19,6 @@ fields:
   default: ''
 pages:
 - _pages/apply-to-join-the-board.md
-- _pages/invest.md
 - _pages/jobs.md
 - _pages/privacy-notice.md
 - _pages/thanks-for-subscribing-to-our-newsletter.md
