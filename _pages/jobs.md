@@ -4,7 +4,7 @@ title: Jobs
 subtitle: ''
 
 ---
-**OCLT Co-ordinator**
+**Coordinator**
 
 Join us and help build a community-led model of affordable housing in the city and beyond. You will be at the centre of growing our membership and developing the organisation. You will work primarily with the Board to make this happen, but will also engage with local stakeholders.
 
