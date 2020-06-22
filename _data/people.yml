@@ -1,5 +1,14 @@
 ---
 people:
+- name: Alice Hemming
+  role: Coordinator
+  image: "/uploads/img_1548.JPG"
+  description: 'Alice joined OCLT in May 2020 as the part-time Coordinator. Her professional
+    background includes supporting community organisations at The CAG Project Oxfordshire;
+    doing community-led green space development at Groundwork London and setting up
+    The Children''s Allotment, a childcare cooperative in Oxford. She also lives in
+    Dragonfly Housing Coop in Oxford and is involved in the Radical Routes housing
+    cooperative network. '
 - name: John Bloxsom
   role: Development Manager
   description: John Bloxsom is a housing professional with wide ranging experience
