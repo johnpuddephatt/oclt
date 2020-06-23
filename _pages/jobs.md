@@ -6,7 +6,7 @@ subtitle: ''
 ---
 ## **Treasurer - Voluntary**
 
-Do you want to help create a more affordable and environmentally sustainable approach to housing? Do you want to use your skills to change the way that land is owned and developed in Oxfordshire? 
+Do you want to help create a more affordable and environmentally sustainable approach to housing? Do you want to use your skills to change the way that land is owned and developed in Oxfordshire?
 
 **We are inviting applications to join the Oxfordshire Community Land Trust Board as our voluntary Treasurer.**
 
@@ -22,4 +22,4 @@ You will be part of a skilled and motivated Board of [10 members](https://www.oc
 
 If you have any questions about the role, please contact us and we would be happy to arrange a phone conversation.
 
-To apply please read the full [role description here](https://drive.google.com/file/d/1XcnyMfMoQuI0I3w3aicdo-5JlkfaH3pV/view?usp=sharing) and send a CV and covering letter to [info@oclt.org.uk](mailto:info@oclt.org.uk). There is no closing date as we will review applications on submission and be in touch, but expect to formally appoint at the September AGM.
+To apply please read the full [role description here](https://drive.google.com/file/d/1XcnyMfMoQuI0I3w3aicdo-5JlkfaH3pV/view?usp=sharing) and send a CV and covering letter to [info@oclt.org.uk](mailto:info@oclt.org.uk). There is no closing date as we will review applications on submission and be in touch, but expect to formally appoint at the September AGM. 
