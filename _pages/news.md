@@ -5,3 +5,4 @@ subtitle: Read our latest news and blogs
 published: false
 
 ---
+{% include posts.html %}
