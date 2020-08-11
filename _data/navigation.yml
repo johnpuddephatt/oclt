@@ -1,8 +1,8 @@
 ---
 footer_menu:
-- page: pages/news.md
 - page: pages/about.md
 - page: pages/contact.md
+- page: pages/news.md
 header_menu:
 - page: pages/about.md
 - page: pages/news.md
