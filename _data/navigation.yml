@@ -1,5 +1,6 @@
 ---
 footer_menu:
+- page: pages/news.md
 - page: pages/about.md
 - page: pages/contact.md
 header_menu:
