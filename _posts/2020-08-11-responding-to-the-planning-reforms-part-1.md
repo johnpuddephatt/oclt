@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Responding to the planning reforms (Part 1)
-image: "/uploads/wrong-answers.jpg"
+image: "/uploads/41174869.jpg"
 tags:
 - planning
 - reform
