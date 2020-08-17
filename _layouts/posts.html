@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+  <header class="page-header">
+    <div class="page-header--inner">
+      <div class="container">
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+        <div class="page-subtitle">{{ page.subtitle | escape }}</div>
+      </div>
+      {% include svg/header-curves.svg class='page-header--curves' %}
+    </div>
+  </header>
+
+
+  <div class="post-content section">
+    <div class="container">
+
+    {% for post in site.posts %}
+      <a href="{% if post.external_link %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}" class="blog--item blog--item__horizontal">
+        <div class="blog--item--image">
+          <img src="{{ post.image }}" />
+        </div>
+        <div>
+          <h3 class="blog--item--title">{{ post.title }}</h3>
+          <p class="blog--item--excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 120 }} </p>
+          <div class="blog--item--date">{{ post.date | date: site.data.config.date_format }}</div>
+        </div>
+      </a>
+    {% endfor %}
+    </div>
+  </div>
+
+

@@ -1,9 +1,5 @@
 ---
-layout: page
+layout: posts
 title: News
 subtitle: Read our latest news and blogs
-
 ---
-{% include posts.html %}
-
-Oxfordshire CLT

@@ -1,3 +1,28 @@
+.blog--item {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2em;
+
+  &:first-child {
+    margin-top: 6em;
+  }
+}
+
+.blog--item--image {
+  margin-top: 0em;
+  margin-right: 1.5em;
+  flex: 0 0 10em;
+
+  img {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 10em;
+    height: 10em;
+    object-fit: cover;
+    object-position: center;
+  }
+}
+
 .page-content, .post-content {
   font-size: modular-scale(1);
   padding: 2 * $base-spacing 0;
@@ -79,7 +104,6 @@
 
 .page-header, .post-header {
   padding-bottom: 4 * $base-spacing;
-  overflow: hidden;
 
   .page-header--inner {
     position: relative;
