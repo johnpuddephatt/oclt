@@ -2,7 +2,6 @@
 layout: page
 title: OCLT's Annual Reports
 subtitle: Read our annual reports from the last few years
-published: false
 
 ---
 Read our annual reports from the last few years
