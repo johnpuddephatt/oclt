@@ -5,9 +5,11 @@ image: "/uploads/2020-goals-1024x512.jpg"
 tags: []
 
 ---
-OCLT held its Annual General Meeting on the 14th of September 2020, for the first time online.
+OCLT held its Annual General Meeting on the 14th of September 2020, for the first time online, due to the Covid-19 pandemic. 
 
-![](/uploads/annual-report-infographic-19_20-1.png)Our Chair, Bob Colenutt presented our successes from the year and our Treasurer, Jock Coats gave a summary of our finances.
+![](/uploads/annual-report-infographic-19_20-1.png)
+
+Our Chair, Bob Colenutt presented our successes from the year and our Treasurer, Jock Coats gave a summary of our finances.
 
 See our infographic above for our yearly round up at the glance. You can also [read our full annual report here]( "https://www.oclt.org.uk/uploads/oclt-annual-report-2020.pdf").
 
