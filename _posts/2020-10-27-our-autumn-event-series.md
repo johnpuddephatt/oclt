@@ -9,7 +9,7 @@ Over the Autumn 2020, OCLT have put on a series of online events looking at land
 
 ##### **Planning Reform: The impact on meeting Oxford's housing need**
 
-This webinar explored what the Government's "Planning The Future" White Paper will mean for community-led and affordable housing in Oxford with: Professor Sue Brownill (OCLT & Oxford Brookes University), Councillor Alex Hollingsworth (Oxford City Council) & Peter Thompson (Oxford Civic Society). 
+This webinar explored what the Government's "Planning The Future" White Paper will mean for community-led and affordable housing in Oxford with: Professor Sue Brownill (OCLT & Oxford Brookes University), Councillor Alex Hollingsworth (Oxford City Council) & Peter Thompson (Oxford Civic Society).
 
 [**_Watch the event recording here_**](https://www.facebook.com/589830504402520/videos/733214690600966/)
 
@@ -25,4 +25,4 @@ In our follow-up event to our online film showing of PUSH, we brought campaign g
 ##### **Boats & Coops: What if moorings were community-owned?**
 
 At this event we asked - could more affordable, cooperative residential moorings be the answer to Oxford's housing crisis? We heard from [Surge Cooperative](https://www.surge.coop/), a group aiming to create community-led moorings for larger boats in East London, and Mark Simmonds from [Coop Culture](https://www.culture.coop/), who supported a boaters coop in Calderdale to set up. Co-hosted with the [Collaborative Housing Hub](https://collaborativehousing.org.uk/).  
-[**_View the event recording here_**](https://www.facebook.com/oxfordshireclt/videos/3415051898593558/) **_and the_** [**_chat thread here_**](/uploads/community-moorings-recording.mp4) **_for resources and link_**
+[**_View the event recording here_**](https://www.facebook.com/oxfordshireclt/videos/3415051898593558/) **_and the_** [**_chat thread here_**](/uploads/boats-coops.pdf) **_for resources and link_**
