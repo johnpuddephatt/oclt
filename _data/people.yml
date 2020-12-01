@@ -1,5 +1,12 @@
 ---
 people:
+- name: Miriam Mutizwa
+  role: Non-exec Director
+  image: "/uploads/miriam.jpeg"
+  description: 'Miriam is an IT Systems Engineer with 15+ years’ experience in various
+    IT Sectors. She is a former MicroBanker and horticulturalist. Miriam has worked
+    in the construction sector in Africa since 2011. She is currently working in Project
+    Management in Health and Social Care, Procurement and Environment sectors. '
 - name: Piotr Smok
   role: Non-exec Director
   image: "/uploads/1.jpg"
