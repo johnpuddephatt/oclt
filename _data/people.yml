@@ -1,27 +1,5 @@
 ---
 people:
-- name: Miriam Mutizwa
-  role: Non-exec Director
-  image: "/uploads/miriam.jpeg"
-  description: 'Miriam is an IT Systems Engineer with 15+ years’ experience in various
-    IT Sectors. She is a former MicroBanker and horticulturalist. Miriam has worked
-    in the construction sector in Africa since 2011. She is currently working in Project
-    Management in Health and Social Care, Procurement and Environment sectors. '
-- name: Piotr Smok
-  role: Non-exec Director
-  image: "/uploads/1.jpg"
-  description: 'Piotr is a qualified ACCA accountant with significant financial experience
-    gained through work in different industries and set ups. For the past four years,
-    he has been working for Graven Hill Village Development Company – the largest
-    self and custom build developer in the UK. Joining Graven Hill at the beginning
-    of its journey, gave him the opportunity to be involved in setting up financial
-    procedures and controls in place, as well as playing a key role in the preparation
-    and updating of the project''s lifelong financial model. His previous roles including
-    at the Orders of St John Care Trust, gave him good knowledge of financial strategy
-    in charitable organisations. Having lived in Oxfordshire for ten years, Piotr
-    understands how crucial it is to bring more affordable and community-led housing
-    into the area. He is keen to use his technical skills and  work experience to
-    contribute towards change in the way the land is owned and developed in the county. '
 - name: John Bloxsom
   role: Development Manager
   description: John Bloxsom is a housing professional with wide ranging experience
@@ -89,6 +67,13 @@ people:
     Alison has had a career in housing property development for housing associations. She has 20 years experience including project management of housing development schemes: large scale major repairs and re-improvement programmes, multi-million pound new-build housing development programmes, developing and managing housing for vulnerable people, and developing housing for older people. She has housing management experience for an Inner London local authority. As Development and New Business Director at Oxford Citizens Housing Association she managed development programmes and procured new business. She has project managed stock transfer of a local authority estate to a Registered Provider.
 
     Alison also has twelve years experience in Housing Policy and Strategy at Homes England, managing policy on environmental sustainability and existing homes. She completed a secondment as an Area Manager at HE, managing funding contracts with Registered Providers.
+- name: Miriam Mutizwa
+  role: Non-exec Director
+  image: "/uploads/miriam.jpeg"
+  description: 'Miriam is an IT Systems Engineer with 15+ years’ experience in various
+    IT Sectors. She is a former MicroBanker and horticulturalist. Miriam has worked
+    in the construction sector in Africa since 2011. She is currently working in Project
+    Management in Health and Social Care, Procurement and Environment sectors. '
 - name: Fran Ryan
   role: Secretary
   image: "/uploads/people/fran.png"
@@ -108,6 +93,21 @@ people:
     Planning students at Oxford Brookes University 1973 to  1989. He has extensive
     director experience as a Board Member and is currently a Board Member of South
     West Foundation, and The Old Bakehouse Trust Co-operatively managed workspaces.
+- name: Piotr Smok
+  role: Non-exec Director
+  image: "/uploads/1.jpg"
+  description: 'Piotr is a qualified ACCA accountant with significant financial experience
+    gained through work in different industries and set ups. For the past four years,
+    he has been working for Graven Hill Village Development Company – the largest
+    self and custom build developer in the UK. Joining Graven Hill at the beginning
+    of its journey, gave him the opportunity to be involved in setting up financial
+    procedures and controls in place, as well as playing a key role in the preparation
+    and updating of the project''s lifelong financial model. His previous roles including
+    at the Orders of St John Care Trust, gave him good knowledge of financial strategy
+    in charitable organisations. Having lived in Oxfordshire for ten years, Piotr
+    understands how crucial it is to bring more affordable and community-led housing
+    into the area. He is keen to use his technical skills and  work experience to
+    contribute towards change in the way the land is owned and developed in the county. '
 - name: Deborah Glass Woodin
   role: Director
   image: "/uploads/people/DGW.jpg"
