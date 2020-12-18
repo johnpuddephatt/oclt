@@ -9,7 +9,7 @@ OCLT is delighted to welcome two new members to the board of Directors for 2020.
 
 Piotr Smok joined us at the September AGM and Miriam Mutizwa was co-opted in November.
 
-They both bring so much value to OCLT in their experience and knowledge. You can read more about them below:
+They both bring so much value to OCLT in their experience and knowledge and we are excited to be working with them in the new year. You can read their bios below:
 
 **Piotr Smok**
 
