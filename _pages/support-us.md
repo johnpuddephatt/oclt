@@ -28,7 +28,7 @@ We value all donations however large or small. You can even make a donation as a
 
 ## Do you have land or a property?
 
-Would you like to see your home help provide affordable housing for generations to come? If you are looking to sell or even bequeath your house so it can be kept in community-ownership please contact us to find out more.
+Would you like to see your home or land help provide affordable housing for generations to come? If you are looking to sell or even bequeath your house so it can be kept in community-ownership please contact us to find out more.
 
 <br><br>
 
