@@ -2,7 +2,6 @@
 layout: page
 title: Support us
 subtitle: ''
-published: false
 
 ---
 Your can become a supporter here
