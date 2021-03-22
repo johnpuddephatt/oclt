@@ -4,7 +4,7 @@ title: Support us
 subtitle: "...and be part of changing Oxfordshire's housing system"
 
 ---
-By becoming a “Supporter”, and giving a regular or one-off donation, you can help us to continue our pioneering work. 
+By becoming a “Supporter”, and giving a regular or one-off donation, you can help us to continue our pioneering work.
 
 As a small, mostly voluntarily-run organisation we rely on grants and generous donations to maintain our year-to-year operational costs.
 
@@ -14,13 +14,13 @@ We know that many people feel powerless in the face of the extreme housing need 
 
 So that we can manage our work creating more affordable housing in Oxfordshire, we appreciate the security that regular donations provide. You can give monthly or yearly to support our work.
 
-[Sign-up to be a regular Supporter here](https://app.donorfy.com/form/J7EEWBHW62/Q58RQ)
+<br> <br> <a class="button btn" href="[https://app.donorfy.com/form/J7EEWBHW62/Q58RQ](https://app.donorfy.com/form/J7EEWBHW62/Q58RQ "https://app.donorfy.com/form/J7EEWBHW62/Q58RQ")">Become a Supporter</a>
 
 ## Make a one-off donation
 
-We value all donations however large or small. You can even make a donation as a gift or in memory of a loved one. 
+We value all donations however large or small. You can even make a donation as a gift or in memory of a loved one.
 
-[Sign-up to a be donor here](https://app.donorfy.com/form/J7EEWBHW62/FDOB4)
+<br> <br> <a class="button btn" href="[https://app.donorfy.com/form/J7EEWBHW62/FDOB4](https://app.donorfy.com/form/J7EEWBHW62/FDOB4 "https://app.donorfy.com/form/J7EEWBHW62/FDOB4")">Make a donation</a>
 
 ## Do you have land or a property?
 
