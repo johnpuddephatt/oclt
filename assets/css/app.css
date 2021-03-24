@@ -925,21 +925,21 @@ label[for=nav-trigger] {
   }
 }
 
-.page-header .container--buttons,
-.post-header .container--buttons {
+.page-header--buttons,
+.post-header--buttons {
   margin-top: 1.5rem;
 }
 
-.page-header .container .button,
-.post-header .container .button {
+.page-header .button,
+.post-header .button {
   display: inline-block;
   width: auto;
   margin-bottom: 0.75rem;
   margin-right: 0.375rem;
 }
 
-.page-header .container .button + .button,
-.post-header .container .button + .button {
+.page-header .button + .button,
+.post-header .button + .button {
   background-color: #4D8E38;
 }
 

@@ -134,21 +134,20 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
+  }
+  
+  &--buttons {
+    margin-top: $base-spacing;
+  }
 
+  .button {
+    display: inline-block;
+    width: auto;
+    margin-bottom: $small-spacing;
+    margin-right: $small-spacing/2;
 
-    &--buttons {
-      margin-top: $base-spacing;
-    }
-
-    .button {
-      display: inline-block;
-      width: auto;
-      margin-bottom: $small-spacing;
-      margin-right: $small-spacing/2;
-
-      + .button {
-        background-color: $mid-green;
-      }
+    + .button {
+      background-color: $mid-green;
     }
   }
 }
