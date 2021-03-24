@@ -15,7 +15,9 @@
   }
 
   &--buttons {
-    display: flex;
+    @media screen and (min-width: $large-screen) {
+      display: flex;
+    }
 
   }
 
@@ -28,7 +30,7 @@
       margin-top: $small-spacing;
       background-color: $mid-green;
 
-      @media screen and (min-width: $medium-screen) {
+      @media screen and (min-width: $large-screen) {
         margin-top: $base-spacing;
         margin-left: $small-spacing/2;
       }
