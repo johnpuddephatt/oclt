@@ -9,5 +9,6 @@ subheading: We're a group of local people working to acquire and manage land for
 button:
   text: Become a member for £1
   link: "/join/"
+button_2: ''
 
 ---
