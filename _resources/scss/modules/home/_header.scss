@@ -15,25 +15,17 @@
   }
 
   &--buttons {
-    @media screen and (min-width: $large-screen) {
-      display: flex;
-    }
-
+    margin-top: $spacing;
   }
 
   .button {
     display: inline-block;
     width: auto;
-    margin-top: $base-spacing;
+    margin-bottom: $small-spacing;
+    margin-right: $spallg-spacing/2;
 
     + .button {
-      margin-top: $small-spacing;
       background-color: $mid-green;
-
-      @media screen and (min-width: $large-screen) {
-        margin-top: $base-spacing;
-        margin-left: $small-spacing/2;
-      }
     }
   }
 
