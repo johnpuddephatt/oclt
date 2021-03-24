@@ -1,12 +1,10 @@
 {
-    "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css",
-    "/fonts/aleo-bold-webfont.woff": "/fonts/aleo-bold-webfont.woff",
-    "/fonts/aleo-bold-webfont.woff2": "/fonts/aleo-bold-webfont.woff2",
-    "/fonts/neue_hans_kendrick_bold.woff": "/fonts/neue_hans_kendrick_bold.woff",
-    "/fonts/neue_hans_kendrick_bold.woff2": "/fonts/neue_hans_kendrick_bold.woff2",
-    "/fonts/neue_hans_kendrick_regular.woff": "/fonts/neue_hans_kendrick_regular.woff",
-    "/fonts/neue_hans_kendrick_regular.woff2": "/fonts/neue_hans_kendrick_regular.woff2",
-    "/images/arrow-right.svg": "/images/arrow-right.svg",
-    "/images/countryside.jpg": "/images/countryside.jpg"
+    "/fonts/aleo-bold-webfont.woff": "/fonts/aleo-bold-webfont.woff?id=f10e0423649a0e4b9b53",
+    "/fonts/aleo-bold-webfont.woff2": "/fonts/aleo-bold-webfont.woff2?id=8443115fcc4132f22c92",
+    "/fonts/neue_hans_kendrick_bold.woff": "/fonts/neue_hans_kendrick_bold.woff?id=c4e26235f0089dfeede4",
+    "/fonts/neue_hans_kendrick_bold.woff2": "/fonts/neue_hans_kendrick_bold.woff2?id=5992ba798a9a7b0645ba",
+    "/fonts/neue_hans_kendrick_regular.woff": "/fonts/neue_hans_kendrick_regular.woff?id=b5a715750013704e0bd2",
+    "/fonts/neue_hans_kendrick_regular.woff2": "/fonts/neue_hans_kendrick_regular.woff2?id=52b899520a465d86fe4b",
+    "/images/arrow-right.svg": "/images/arrow-right.svg?id=0e7de36dbe8af3bd4f56",
+    "/images/countryside.jpg": "/images/countryside.jpg?id=39082c3526a7a0d43fb5"
 }

@@ -1045,28 +1045,19 @@ label[for=nav-trigger] {
   }
 }
 
-@media screen and (min-width: 960px) {
-  .page-header__home--buttons {
-    display: flex;
-  }
+.page-header__home--buttons {
+  margin-top: 1.5rem;
 }
 
 .page-header__home .button {
   display: inline-block;
   width: auto;
-  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  margin-right: 0.375rem;
 }
 
 .page-header__home .button + .button {
-  margin-top: 0.75rem;
   background-color: #4D8E38;
-}
-
-@media screen and (min-width: 960px) {
-  .page-header__home .button + .button {
-    margin-top: 1.5rem;
-    margin-left: 0.375rem;
-  }
 }
 
 .page-header--curves {

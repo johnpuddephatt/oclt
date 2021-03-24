@@ -15,14 +15,14 @@
   }
 
   &--buttons {
-    margin-top: $spacing;
+    margin-top: $base-spacing;
   }
 
   .button {
     display: inline-block;
     width: auto;
     margin-bottom: $small-spacing;
-    margin-right: $spallg-spacing/2;
+    margin-right: $small-spacing/2;
 
     + .button {
       background-color: $mid-green;
