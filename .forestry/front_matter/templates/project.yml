@@ -25,4 +25,5 @@ fields:
   config:
     required: true
 pages:
+- _projects/champion-way.md
 - _projects/dean-court-oxford.md
