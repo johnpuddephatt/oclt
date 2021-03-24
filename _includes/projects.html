@@ -1,6 +1,6 @@
 <div>
 {% assign latestprojects = (site.projects | sort: 'date') | reverse %}
-{% for project in latestprojects limit:3%}
+{% for project in latestprojects limit: include.limit %}
   {% assign projectcontent = project.content | strip_newlines%}
   {% if projectcontent != '' %}
     <a href="{% if project.external_link %}{{ project.external_link }}{% else %}{{ project.url | replace: 'index.html', '' }}{% endif %}" class="home-projects--item">

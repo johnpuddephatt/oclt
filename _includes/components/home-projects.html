@@ -6,7 +6,9 @@
 
     <div class="home-projects--text">
       <h2 class="section-heading">{{ include.title | default: 'Projects' }}</h2>
-      {% include projects.html %}
+      {% include projects.html limit="3"  %}
+
+      <a href="/projects" class="button">View all projects</a>
     </div>
   </div>
 </div>
