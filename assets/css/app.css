@@ -925,6 +925,24 @@ label[for=nav-trigger] {
   }
 }
 
+.page-header .container--buttons,
+.post-header .container--buttons {
+  margin-top: 1.5rem;
+}
+
+.page-header .container .button,
+.post-header .container .button {
+  display: inline-block;
+  width: auto;
+  margin-bottom: 0.75rem;
+  margin-right: 0.375rem;
+}
+
+.page-header .container .button + .button,
+.post-header .container .button + .button {
+  background-color: #4D8E38;
+}
+
 .post-header .container {
   justify-content: flex-end;
 }
@@ -1043,21 +1061,6 @@ label[for=nav-trigger] {
   .page-header__home .container > * {
     width: 60%;
   }
-}
-
-.page-header__home--buttons {
-  margin-top: 1.5rem;
-}
-
-.page-header__home .button {
-  display: inline-block;
-  width: auto;
-  margin-bottom: 0.75rem;
-  margin-right: 0.375rem;
-}
-
-.page-header__home .button + .button {
-  background-color: #4D8E38;
 }
 
 .page-header--curves {
