@@ -31,5 +31,12 @@ fields:
       required: false
     label: Button link
   label: Button
+- name: button_2
+  type: text
+  config:
+    required: false
+  label: Button 2
+  description: '&lt;br&gt; &lt;br&gt; &lt;a class="button btn" href="https://www.oclt.org.uk/support-us/"&gt;Become
+    a Supporter&lt;/a&gt;'
 pages:
 - _pages/index.md
