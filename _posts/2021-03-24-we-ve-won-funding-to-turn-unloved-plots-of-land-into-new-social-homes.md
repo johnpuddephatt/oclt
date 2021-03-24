@@ -17,7 +17,9 @@ For the first stage of the project Transition By Design will be bringing the bes
 
 Collectively, we estimate that Oxford’s neighbourhoods have over a hundred small plots of land that could be used for new social housing. These are small sites, often with many tricky barriers to overcome, but our need for housing in Oxford trumps the challenges and there is no more important time to try. We think that together, these sites could provide at least 50 new homes.
 
-Receiving the HAP funding will allow the partnership to turn ideas into action and get stuck in to figuring out how we can turn these unloved corners of Oxford into environmentally sustainable, comfortable, and well-designed social homes. 
+![](/uploads/screen-shot-2021-03-17-at-15-58-10-768x431.png)
+
+Receiving the HAP funding will allow the partnership to turn ideas into action and get stuck in to figuring out how we can turn these unloved corners of Oxford into environmentally sustainable, comfortable, and well-designed social homes.
 
 Community-led housing means that local people play a leading and lasting part in helping deliver the homes that communities need. Oxfordshire Community Land Trust’s experience of community-led development and governance means it will be well placed to lead on involving local people in the design and planning of potential projects. The planning phase will also draw on our [Homemaker Oxford](https://transitionbydesign.org/projects/homemaker-oxford/) programme which involves homeless people in creating solutions to their housing needs.
 
