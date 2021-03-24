@@ -38,5 +38,29 @@ fields:
   label: Button 2
   description: '&lt;br&gt; &lt;br&gt; &lt;a class="button btn" href="https://www.oclt.org.uk/support-us/"&gt;Become
     a Supporter&lt;/a&gt;'
-pages:
-- _pages/index.md
+- name: button
+  type: field_group
+  fields:
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Button text
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Button link
+- name: button2
+  type: field_group
+  fields:
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Button text
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Button link

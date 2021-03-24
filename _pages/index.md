@@ -11,5 +11,5 @@ button:
   link: "/join/"
 button2:
   text: Find out how you can support us
-  link: "/support/"
+  link: "/support-us/"
 ---
