@@ -44,3 +44,5 @@ fields:
     config:
       required: false
     label: Button link
+pages:
+- _pages/index.md
