@@ -9,7 +9,7 @@ We know that many people feel powerless in the face of the extreme housing need 
 
 The pandemic and all the inequalities laid bare by it, have underlined the critical need to create more affordable and decent homes. Community Land Trusts (CLTs) are part of the solution to this and your local CLT needs you right now.
 
-\\\\
+<br>
 
 **How you can help**
 
@@ -17,11 +17,13 @@ You can become a member of OCLT for just £1. As a member you will receive regul
 
 {% include button.html link="[https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID](https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID "https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID")" text="Become a Member" %}
 
+<br>
+
 To get to the next stage we aim to raise a total of £12,000 to take us to March 2022. This is simply to cover essentials such as membership of our professional body [NCLT,](http://www.communitylandtrusts.org.uk/) insurance, bookkeeping, and online communication costs. We would love you to become a supporter member and make a regular small or large donation. Any amount will help. So please…
 
 {% include button.html link="[https://app.donorfy.com/form/J7EEWBHW62/Q58RQ](https://app.donorfy.com/form/J7EEWBHW62/Q58RQ "https://app.donorfy.com/form/J7EEWBHW62/Q58RQ")" text="Become a Regular Donor" %}
 
-\\\\
+<br>
 
 **Many have contributed to the story so far**
 
@@ -31,11 +33,14 @@ In 2020, we had more success with a grant from the Cohesive Communities Fund. Th
 
 And **a fundamental part of OCLT is its members: we are a member-owned organisation and we draw our powerbase from you**.
 
-We aim to break ground and start the build of the 8 Dean Court, much needed affordable homes by Autumn 2021. Our vision, that by Christmas 2022 the first residents will be moving into their new homes is within sight!
+We aim to break ground and start the build of the 8 Dean Court, much needed affordable homes by Autumn 2021. Our vision, that by Christmas 2022 the first residents will be moving into their new homes is within sight!  
+<br>
 
 ***
 
 **Join up**
+
+<br>
 
 {% include button.html link="[https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID](https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID "https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID")" text="Become a Member" %}
 
