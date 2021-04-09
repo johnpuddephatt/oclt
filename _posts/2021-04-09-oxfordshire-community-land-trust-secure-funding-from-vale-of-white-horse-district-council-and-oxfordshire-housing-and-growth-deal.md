@@ -6,9 +6,9 @@ image: "/uploads/aprilpr_image.png"
 tags: []
 
 ---
-OCLT is delighted to announce success in securing funding for eight affordable apartments in Dean Court from the Vale of White Horse District Council and the Oxfordshire Growth Board. 
+OCLT is delighted to announce success in securing funding for eight affordable apartments in Dean Court from the Vale of White Horse District Council and the Oxfordshire Growth Board.
 
-<br>
+    <br>
 
 On March 24th, Vale of White Horse DC’s Full Council [agreed to grant the sum of £304,000](https://www.whitehorsedc.gov.uk/uncategorised/vale-of-white-horse-to-give-344000-towards-building-affordable-homes-in-botley/) to support the delivery of this project. OCLT also has support from the Oxfordshire Housing and Growth Deal fund for £600,000. This is subject to OCLT successfully gaining Registered Provider status with the Regulator of Social Housing (RSH).
 
