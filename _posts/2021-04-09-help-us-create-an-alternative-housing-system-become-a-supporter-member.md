@@ -5,7 +5,9 @@ image: "/uploads/oclt_logo.png"
 tags: []
 
 ---
-We know that many people feel powerless in the face of the extreme housing need and lack of affordability in our city and county. The pandemic and all the inequalities laid bare by it, have underlined the critical need to create more affordable and decent homes. Community Land Trusts (CLTs) are part of the solution to this and your local CLT needs you right now.
+We know that many people feel powerless in the face of the extreme housing need and lack of affordability in our city and county. 
+
+The pandemic and all the inequalities laid bare by it, have underlined the critical need to create more affordable and decent homes. Community Land Trusts (CLTs) are part of the solution to this and your local CLT needs you right now.
 
 \**  
 How you can help**
