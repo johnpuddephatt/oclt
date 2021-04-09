@@ -15,13 +15,13 @@ The pandemic and all the inequalities laid bare by it, have underlined the criti
 
 You can become a member of OCLT for just £1. As a member you will receive regular updates about our work and have the chance to influence the future work of OCLT through attending AGMs and voting on major decisions. You’ll also be invited to other events for example celebratory events when we start on site. You’ll also have the chance to look at and comment on our plans before they’re finalised.
 
-{% include button.html link="[https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID](https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID "https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID")" text="Become a Member" %}
+{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID" text="Become a Member" %}
 
     <br>
 
 To get to the next stage we aim to raise a total of £12,000 to take us to March 2022. This is simply to cover essentials such as membership of our professional body [NCLT,](http://www.communitylandtrusts.org.uk/) insurance, bookkeeping, and online communication costs. We would love you to become a supporter member and make a regular small or large donation. Any amount will help. So please…
 
-{% include button.html link="[https://app.donorfy.com/form/J7EEWBHW62/Q58RQ](https://app.donorfy.com/form/J7EEWBHW62/Q58RQ "https://app.donorfy.com/form/J7EEWBHW62/Q58RQ")" text="Become a Regular Donor" %}
+{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/Q58RQ" text="Become a Regular Donor" %}
 
     <br>
 
@@ -43,6 +43,6 @@ We aim to break ground and start the build of the 8 Dean Court, much needed affo
 
     <br>
 
-{% include button.html link="[https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID](https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID "https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID")" text="Become a Member" %}
+{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID" text="Become a Member" %}
 
-{% include button.html link="[https://app.donorfy.com/form/J7EEWBHW62/Q58RQ](https://app.donorfy.com/form/J7EEWBHW62/Q58RQ "https://app.donorfy.com/form/J7EEWBHW62/Q58RQ")" text="Become a Regular Donor" %}
+{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/Q58RQ" text="Become a Regular Donor" %}
