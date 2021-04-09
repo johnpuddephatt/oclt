@@ -9,7 +9,7 @@ We know that many people feel powerless in the face of the extreme housing need 
 
 The pandemic and all the inequalities laid bare by it, have underlined the critical need to create more affordable and decent homes. Community Land Trusts (CLTs) are part of the solution to this and your local CLT needs you right now.
 
-**How you can help**
+### How you can help
 
 You can become a member of OCLT for just £1. As a member you will receive regular updates about our work and have the chance to influence the future work of OCLT through attending AGMs and voting on major decisions. You’ll also be invited to other events for example celebratory events when we start on site. You’ll also have the chance to look at and comment on our plans before they’re finalised.
 
@@ -19,7 +19,7 @@ To get to the next stage we aim to raise a total of £12,000 to take us to March
 
 {% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/Q58RQ" text="Become a Regular Donor" %}
 
-**Many have contributed to the story so far**
+### Many have contributed to the story so far
 
 Lots of people have helped get the project this far. The late [Tony Crofts](https://www.oclt.org.uk/2021/03/29/tribute-to-tony-crofts.html) who some of us remember with his wonderful energy and verve, found our main site at Dean Court. Since then, the board of OCLT, all volunteers, have worked tirelessly to make it happen. We estimate that the time contribution of the Board every year is upwards of 2000 hours. More recently in 2019, we were helped with a large and generous donation from two benefactors to fund the work that took the Dean Court site successfully through planning. It also enabled us to undertake the detailed development appraisal which was essential for the funding applications. We are grateful to John Bloxsom for his outstanding leadership of this work.
 
@@ -31,7 +31,7 @@ We aim to break ground and start the build of the 8 Dean Court, much needed affo
 
 ***
 
-**Join up**
+### Join up
 
 {% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID" text="Become a Member" %}
 
