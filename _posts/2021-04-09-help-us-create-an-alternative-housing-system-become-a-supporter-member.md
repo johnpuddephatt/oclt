@@ -37,5 +37,6 @@ We aim to break ground and start the build of the 8 Dean Court, much needed affo
 
 <br>
 <center>{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID" text="Become a Member" %}</center>
-    
+<br>
+
 <center>{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/Q58RQ" text="Become a Regular Donor" %}</center>
