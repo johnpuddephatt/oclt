@@ -26,10 +26,13 @@ To get to the next stage we aim to raise a total of £12,000 to take us to March
 
 Lots of people have helped get the project this far. The late [Tony Crofts](https://www.oclt.org.uk/2021/03/29/tribute-to-tony-crofts.html) who some of us remember with his wonderful energy and verve, found our main site at Dean Court. Since then, the board of OCLT, all volunteers, have worked tirelessly to make it happen. We estimate that the time contribution of the Board every year is upwards of 2000 hours. More recently in 2019, we were helped with a large and generous donation from two benefactors to fund the work that took the Dean Court site successfully through planning. It also enabled us to undertake the detailed development appraisal which was essential for the funding applications. We are grateful to John Bloxsom for his outstanding leadership of this work.
 <br>
+
 In 2020, we had more success with a grant from the Cohesive Communities Fund. This helped us to do more work towards our long term vision. We grew the membership by 50%. And in partnership with Oxford City Council and local architects Transition by Design we also secured further funding to develop garage sites with Oxford City Council. Read more [here](https://transitionbydesign.org/articles/weve-won-funding-to-turn-unloved-plots-of-land-into-new-social-homes/). We were delighted to have Alice Hemming leading this work and we will miss her very capable hands now that she has moved on. We’ve also had fantastic support from our accountants Critchleys who until very recently did our books every year pro bono. Other local suppliers have also given us discounts on printing, web design and administrative costs.
 <br>
+
 **And a fundamental part of OCLT is its members: we are a member-owned organisation and we draw our powerbase from you**.
 <br>
+
 We aim to break ground and start the build of the 8 Dean Court, much needed affordable homes by Autumn 2021. Our vision, that by Christmas 2022 the first residents will be moving into their new homes is within sight!
 <br>
 
