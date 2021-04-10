@@ -17,7 +17,7 @@ You can become a member of OCLT for just £1. As a member you will receive regul
 
 To get to the next stage we aim to raise a total of £12,000 to take us to March 2022. This is simply to cover essentials such as membership of our professional body [NCLT,](http://www.communitylandtrusts.org.uk/) insurance, bookkeeping, and online communication costs. We would love you to become a supporter member and make a regular small or large donation. Any amount will help. So please…
 
-<p style="text-align=center">{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/Q58RQ" text="Become a Regular Donor" %}</p>
+<center>{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/Q58RQ" text="Become a Regular Donor" %}</center>
 
 ### Many have contributed to the story so far
 
@@ -31,8 +31,8 @@ We aim to break ground and start the build of the 8 Dean Court, much needed affo
 
 ***
 
-### 
+### JOIN UP
 
-<p style="text-align=center">{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID" text="Become a Member" %}</p>
+<center>{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID" text="Become a Member" %}</center>
     
-<p style="text-align=center">{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/Q58RQ" text="Become a Regular Donor" %}</p>
+<center>{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/Q58RQ" text="Become a Regular Donor" %}</center>
