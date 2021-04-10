@@ -13,6 +13,7 @@ The pandemic and all the inequalities laid bare by it, have underlined the criti
 
 You can become a member of OCLT for just £1. As a member you will receive regular updates about our work and have the chance to influence the future work of OCLT through attending AGMs and voting on major decisions. You’ll also be invited to other events for example celebratory events when we start on site. You’ll also have the chance to look at and comment on our plans before they’re finalised.
 <br>
+
 <center>{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID" text="Become a Member" %}</center>
 <br>
 <br>
@@ -31,7 +32,9 @@ In 2020, we had more success with a grant from the Cohesive Communities Fund. Th
 <br>
 We aim to break ground and start the build of the 8 Dean Court, much needed affordable homes by Autumn 2021. Our vision, that by Christmas 2022 the first residents will be moving into their new homes is within sight!
 <br>
+
 ***
+
 <br>
 <center>{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/53NSK?mc_cid=a858633f39&mc_eid=UNIQID" text="Become a Member" %}</center>
     
