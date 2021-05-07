@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Frequently Asked Questions
-subtitle: ''
+title: FAQ
+subtitle: Frequently Asked Questions
 
 ---
 ### How do community land trusts work?
