@@ -6,7 +6,6 @@ excerpt: 'An ambitious bid to buy land from Oxford University for a 260-home eco
 
 '
 layout: project
-published: false
 
 ---
 <div class="pullout-box">
