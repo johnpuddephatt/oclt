@@ -1,6 +1,5 @@
 ---
 title: Why do we need community land trusts?
-published: false
 
 ---
 One of the biggest needs, especially in this time of post-recession, is to provide land for affordable housing. Increasing numbers of working people find it difficult or impossible to find a secure and affordable place to live. There is also a great shortage of social housing and many working families have no access to them.
