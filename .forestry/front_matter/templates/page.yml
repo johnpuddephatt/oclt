@@ -19,6 +19,7 @@ fields:
   default: ''
 pages:
 - _pages/apply-to-join-the-board.md
+- _pages/faq.md
 - _pages/jobs.md
 - _pages/news.md
 - _pages/oclt-s-annual-reports.md
