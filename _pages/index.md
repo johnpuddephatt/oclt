@@ -14,6 +14,6 @@ button2:
   link: "/support-us/"
 button3:
   text: Volunteer
-  link: "/Volunteer/"
+  link: "/contact/"
 
 ---
