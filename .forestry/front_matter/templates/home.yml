@@ -44,5 +44,20 @@ fields:
     config:
       required: false
     label: Button link
+- name: button3
+  type: field_group
+  config: {}
+  fields:
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Button text
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Button link
+  label: Homepage button three
 pages:
 - _pages/index.md
