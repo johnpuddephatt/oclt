@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Proudly Supported by
-subtitle: ''
+subtitle: ""
 published: false
-
+permalink: /supported-by/index.html
 ---

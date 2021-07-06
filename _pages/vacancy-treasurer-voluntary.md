@@ -1,9 +1,10 @@
 ---
 layout: page
-title: 'Vacancy: Treasurer (voluntary)'
-subtitle: ''
-
+title: "Vacancy: Treasurer (voluntary)"
+subtitle: ""
+permalink: /jobs/treasurer/index.html
 ---
+
 ### Interested in developing a community-led model of affordable housing provision?
 
 Join the OCLT Board as Treasurer and work with us to shape and deliver much needed affordable housing and to build sustainable communities in Oxfordshire. We are at a key stage in the life of the organisation, about to commence our first housing project and with a second project just announced. We expect to grow at pace over the next few years.

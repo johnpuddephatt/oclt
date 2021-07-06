@@ -2,8 +2,9 @@
 layout: page
 title: Support us
 subtitle: "...and be part of changing Oxfordshire's housing system"
-
+permalink: /support-us/index.html
 ---
+
 By becoming a “Supporter”, and giving a regular or one-off donation, you can help us to continue our pioneering work.
 
 OCLT will eventually have a small income from rents. That will take some time and until then, we remain a small, mostly voluntarily-run organisation we rely on grants and generous donations to maintain our year-to-year operational costs.

@@ -2,8 +2,9 @@
 layout: page
 title: Join us
 subtitle: Get involved in a movement creating community-led affordable homes
-
+permalink: /join/index.html
 ---
+
 ## Become a member
 
 As a Community Benefit Society, we are proud to be owned by our members. We are currently owned by a group of over 100 people from across the county of Oxfordshire.

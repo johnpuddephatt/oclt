@@ -2,8 +2,9 @@
 layout: page
 title: Join the board
 subtitle: Applications now open for a range of roles on the OCLT board
-
+permalink: /apply-to-join-the-board/index.html
 ---
+
 <div class="pullout-box">  
 <h2>Non-executive roles available</h2>  
 <p>Role type: <b>Non-executive</b></p>  

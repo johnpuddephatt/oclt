@@ -1,10 +1,11 @@
 ---
 layout: page
 title: OCLT Data Privacy Notice
-subtitle: ''
-date: '2019-01-25T16:15:49.000+00:00'
-
+subtitle: ""
+date: "2019-01-25T16:15:49.000+00:00"
+permalink: /privacy-notice/index.html
 ---
+
 ## Introduction
 
 Oxfordshire Community Land Trust (OCLT) (“we”) promises to respect any personal data that you share with us, and to keep it safe. We aim to be clear when we collect your data and not do anything you wouldn’t reasonably expect. In May 2018, we will be moving to be an ‘opt-in’ communication policy. This means that we will only send marketing communications to those that have explicitly stated that they are happy for us to do so via their preferred channel(s) (email, text message, phone or post). We will also use ‘Legitimate Interest’ for communications relating to grant-making, donations etc. Our communications include information about our latest projects, including related fundraising activity, events, appeals and research. If you would like to receive such communications but have not opted in, please email us on info@oclt.org.uk or ring 07889 209448
@@ -19,10 +20,10 @@ OCLT is known as the ‘controller’ of the personal data you provide to us. We
 
 However, there are some situations where this will occur including, but not exclusively, if:
 
-* An accident or incident occurs on our property, at one of our events or involving one of our staff (including volunteers)
-* You are attending one of our events and have disclosed specific access or dietary needs
-* Data around an individual’s health is directly relevant to our work with you (for example access to our housing).
-* If this does occur we will be clear with you that we wish to collect such information, our reason for collecting such information, and that we will only do so with your specific consent and permission. We will also take care to ensure your privacy rights are protected.
+- An accident or incident occurs on our property, at one of our events or involving one of our staff (including volunteers)
+- You are attending one of our events and have disclosed specific access or dietary needs
+- Data around an individual’s health is directly relevant to our work with you (for example access to our housing).
+- If this does occur we will be clear with you that we wish to collect such information, our reason for collecting such information, and that we will only do so with your specific consent and permission. We will also take care to ensure your privacy rights are protected.
 
   ### When you give it to us indirectly
 
@@ -53,18 +54,20 @@ However, there are some situations where this will occur including, but not excl
   ### Members
 
   If you join OCLT member we will usually collect:
-* Your name
-* Your contact details
-* Your date of birth
-* Any relevant organisations to which you are connected
-* Information about how you found out about us, or people in our network with whom you are connected.
+
+- Your name
+- Your contact details
+- Your date of birth
+- Any relevant organisations to which you are connected
+- Information about how you found out about us, or people in our network with whom you are connected.
 
   We will mainly use your data to:
-* Provide you with the services, products or information you asked for
-* Administer any donation and reclaim any Gift Aid
-* Keep a record of your relationship with us
-* Ensure we know how you prefer to be contacted
-* Understand how we can improve our services, products or information.
+
+- Provide you with the services, products or information you asked for
+- Administer any donation and reclaim any Gift Aid
+- Keep a record of your relationship with us
+- Ensure we know how you prefer to be contacted
+- Understand how we can improve our services, products or information.
 
   If you enter your details onto one of our online forms, and you don’t ‘send’ or ‘submit’ the form, we may contact you to see if we can help with any problems you may be experiencing with the form or our websites.
 
