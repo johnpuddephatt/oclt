@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: Summer Updates
 image: "/uploads/oclt_logo.png"
@@ -13,18 +14,11 @@ We are making good progress on all fronts. Massive thanks to the 72 heroes who h
 
 <br>
 
-<<<<<<< HEAD
-## News and Project updates
-
-<br>
-#### AGM Save the date
-=======
 <br>
 
 #### News and Project updates
 
 ### AGM Save the date
->>>>>>> 5e3a0f8a139f47b004dc0512d456f4f938474991
 
 Monday September 20th. At 6.30-7.30 PM. This will be online again this year.
 
@@ -56,10 +50,6 @@ A reminder that you, our members and supporters, are a key part of what we do. W
 
 <br>
 
-<<<<<<< HEAD
-{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/FDOB4?mc_cid=24067cee66&mc_eid=551b15e2ce" text="Donate here" %}<br>
-=======
 <center>{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/FDOB4?mc_cid=24067cee66&mc_eid=551b15e2ce" text="Donate here" %}</center>
 
 <br>
->>>>>>> 5e3a0f8a139f47b004dc0512d456f4f938474991
