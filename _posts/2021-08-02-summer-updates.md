@@ -3,9 +3,7 @@ layout: post
 title: Summer Updates
 image: "/uploads/oclt_logo.png"
 tags: []
-
----
-## Community led housing is already having a hugely positive impact on communities and lives across the country. It has proved that another way is possible and that there is hope.
+---## Community led housing is already having a hugely positive impact on communities and lives across the country. It has proved that another way is possible and that there is hope.
 
 We are making good progress on all fronts. Massive thanks to the 72 heroes who have given donations, and some have signed up to be regular donors - you are making a big difference. Until we have homes generating enough rental income to cover essential management costs, we need your donations. If you want to be part of this, please sign up here.
 
@@ -15,8 +13,9 @@ We are making good progress on all fronts. Massive thanks to the 72 heroes who h
 
 <br>
 
-### News and Project updates
+## News and Project updates
 
+<br>
 #### AGM Save the date
 
 Monday September 20th. At 6.30-7.30 PM. This will be online again this year.
