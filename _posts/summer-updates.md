@@ -37,8 +37,8 @@ The Dean Court Project is progressing steadily. Sadly, our Development Manager, 
 
 **Champion Way and garage sites**
 
-Having secured planning permission for our design for Champion Way, it emerged that there is a huge water main under the site which prevents our development from going ahead. The existing plans cannot be used, and this is indefinitely postponed.  
-   
+Having secured planning permission for our design for Champion Way, it emerged that there is a huge water main under the site which prevents our development from going ahead. The existing plans cannot be used, and this is indefinitely postponed.
+
 Champion Way may be in the doldrums but the desire to use underused and unloved empty spaces continues with the work on the Garage Sites in Blackbird Leys. Working with Oxford City Council (who own the land) and architects Transition by Design we are soon to shortlist another two sites for further feasibility work. This will be followed by a face-to-face consultation event with people living near the chosen sites.
 
 Read also [here](https://www.theguardian.com/uk-news/2021/jun/16/bristol-to-build-gap-homes-on-garage-sites-to-tackle-housing-crisis?mc_cid=24067cee66&mc_eid=551b15e2ce) about a similar project that Bristol City Council is doing.
@@ -48,3 +48,11 @@ Read also [here](https://www.theguardian.com/uk-news/2021/jun/16/bristol-to-buil
 ### **Finally**
 
 A reminder that you, our members and supporters, are a key part of what we do. We are keen to grow the numbers of people who want to work with us to build an alternative and parallel system of community owned and permanently affordable homes. Spread the word and help us recruit more members! - and donors!
+
+<br>
+
+<center>{% include button.html link="[https://www.oclt.org.uk/support-us/?mc_cid=24067cee66&mc_eid=551b15e2ce](https://www.oclt.org.uk/support-us/?mc_cid=24067cee66&mc_eid=551b15e2ce "https://www.oclt.org.uk/support-us/?mc_cid=24067cee66&mc_eid=551b15e2ce")" text="Click here to support us now!" %}</center> <br>
+
+<br>
+
+<center>{% include button.html link="[https://app.donorfy.com/form/J7EEWBHW62/FDOB4?mc_cid=24067cee66&mc_eid=551b15e2ce](https://app.donorfy.com/form/J7EEWBHW62/FDOB4?mc_cid=24067cee66&mc_eid=551b15e2ce "Donate")" text="Donate here" %}</center> <br>
