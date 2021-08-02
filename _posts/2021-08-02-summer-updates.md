@@ -37,7 +37,7 @@ Having secured planning permission for our design for Champion Way, it emerged t
 
 Champion Way may be in the doldrums but the desire to use underused and unloved empty spaces continues with the work on the Garage Sites in Blackbird Leys. Working with Oxford City Council (who own the land) and architects Transition by Design we are soon to shortlist another two sites for further feasibility work. This will be followed by a face-to-face consultation event with people living near the chosen sites.
 
-[Read about a similar project that Bristol City Council is doing.](https://www.theguardian.com/uk-news/2021/jun/16/bristol-to-build-gap-homes-on-garage-sites-to-tackle-housing-crisis?mc_cid=24067cee66&mc_eid=551b15e2ce)
+[Read here about a similar project by Bristol City Council.](https://www.theguardian.com/uk-news/2021/jun/16/bristol-to-build-gap-homes-on-garage-sites-to-tackle-housing-crisis?mc_cid=24067cee66&mc_eid=551b15e2ce)
 
 <br>
 
