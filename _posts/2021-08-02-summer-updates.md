@@ -13,22 +13,30 @@ We are making good progress on all fronts. Massive thanks to the 72 heroes who h
 
 <br>
 
+<<<<<<< HEAD
 ## News and Project updates
 
 <br>
 #### AGM Save the date
+=======
+<br>
+
+#### News and Project updates
+
+### AGM Save the date
+>>>>>>> 5e3a0f8a139f47b004dc0512d456f4f938474991
 
 Monday September 20th. At 6.30-7.30 PM. This will be online again this year.
 
-#### Registered Provider (RP) status
+### Registered Provider (RP) status
 
 Our application for Registered Provider status is being actively assessed. This is a detailed process; the upside of it is that we are paying forensic attention to our governance and finances, and confirming that we have a firm foundation to go forward. Once we’ve cleared that hurdle, then we can draw down the funding (see previous newsletters) and put everything else in place to start building.
 
-#### Dean Court
+### Dean Court
 
 The Dean Court Project is progressing steadily. Sadly, our Development Manager, John Bloxsom, is gradually handing over to a new Project Manager (watch out for future news on this). We have been very lucky to have John and thank him for his hugely detailed and committed input to OCLT, most particularly the Dean Court Project, and we congratulate him on his success in the Local Government elections to Gloucestershire County Council.
 
-#### Champion Way and garage sites
+### Champion Way and garage sites
 
 Having secured planning permission for our design for Champion Way, it emerged that there is a huge water main under the site which prevents our development from going ahead. The existing plans cannot be used, and this is indefinitely postponed.
 
@@ -36,14 +44,22 @@ Champion Way may be in the doldrums but the desire to use underused and unloved 
 
 [Read about a similar project that Bristol City Council is doing.](https://www.theguardian.com/uk-news/2021/jun/16/bristol-to-build-gap-homes-on-garage-sites-to-tackle-housing-crisis?mc_cid=24067cee66&mc_eid=551b15e2ce)
 
+<br>
+
 #### Finally
 
 A reminder that you, our members and supporters, are a key part of what we do. We are keen to grow the numbers of people who want to work with us to build an alternative and parallel system of community owned and permanently affordable homes. Spread the word and help us recruit more members! - and donors!
 
 <br>
 
-{% include button.html link="https://www.oclt.org.uk/support-us/?mc_cid=24067cee66&mc_eid=551b15e2ce" text="Click here to support us now!" %}<br>
+<center>{% include button.html link="https://www.oclt.org.uk/support-us/?mc_cid=24067cee66&mc_eid=551b15e2ce" text="Click here to support us now!" %}</center>
 
 <br>
 
+<<<<<<< HEAD
 {% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/FDOB4?mc_cid=24067cee66&mc_eid=551b15e2ce" text="Donate here" %}<br>
+=======
+<center>{% include button.html link="https://app.donorfy.com/form/J7EEWBHW62/FDOB4?mc_cid=24067cee66&mc_eid=551b15e2ce" text="Donate here" %}</center>
+
+<br>
+>>>>>>> 5e3a0f8a139f47b004dc0512d456f4f938474991

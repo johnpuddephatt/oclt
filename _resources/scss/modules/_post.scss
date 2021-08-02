@@ -23,7 +23,8 @@
   }
 }
 
-.page-content, .post-content {
+.page-content,
+.post-content {
   font-size: modular-scale(1);
   padding: 2 * $base-spacing 0;
   p:first-child {
@@ -41,6 +42,9 @@
     font-family: $base-font-family;
     font-weight: 600;
   }
+  h4 {
+    margin-top: 1.5 * $base-spacing;
+  }
   ul {
     margin-top: $base-spacing;
     margin-bottom: $base-spacing;
@@ -55,13 +59,13 @@
     margin-left: 1.5 * $base-spacing;
     list-style-position: outside;
     &::before {
-      content: '';
+      content: "";
       display: block;
       float: left;
       width: $base-spacing;
       height: $base-spacing;
-      margin-top: .3em;
-      padding: .3em;
+      margin-top: 0.3em;
+      padding: 0.3em;
       margin-left: -1.5 * $base-spacing;
       margin-right: $small-spacing;
       background-color: $mid-green;
@@ -69,22 +73,22 @@
     }
   }
   .pullout-box {
-      margin: 2 * $base-spacing 0;
-      background-color: $light-green;
-      padding: 2 * $base-spacing;
-      h2 {
-        margin-top: 0;
-      }
-      .button {
-        margin-top: $base-spacing;
-      }
-      .g-recaptcha > div {
-        margin: $base-spacing auto;
-      }
-      &.centre {
-        text-align: center;
-      }
+    margin: 2 * $base-spacing 0;
+    background-color: $light-green;
+    padding: 2 * $base-spacing;
+    h2 {
+      margin-top: 0;
     }
+    .button {
+      margin-top: $base-spacing;
+    }
+    .g-recaptcha > div {
+      margin: $base-spacing auto;
+    }
+    &.centre {
+      text-align: center;
+    }
+  }
   .container {
     @media screen and (min-width: $medium-screen) {
       width: 80%;
@@ -95,21 +99,27 @@
     @media screen and (min-width: $xl-screen) {
       width: 60%;
     }
-
   }
   *:last-child {
     margin-bottom: 0;
   }
 }
 
-.page-header, .post-header {
+.page-header,
+.post-header {
   padding-bottom: 4 * $base-spacing;
 
   .page-header--inner {
     position: relative;
     border-top: $base-border;
     padding: 2 * $base-spacing 0;
-    background-image: repeating-linear-gradient(to bottom, #fff, #fff .9em, $white-green, $white-green 1em);
+    background-image: repeating-linear-gradient(
+      to bottom,
+      #fff,
+      #fff 0.9em,
+      $white-green,
+      $white-green 1em
+    );
   }
   .container {
     height: 40vh;
@@ -128,14 +138,13 @@
       width: 60%;
     }
     > * {
-
     }
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
   }
-  
+
   &--buttons {
     margin-top: $base-spacing;
   }
@@ -156,7 +165,8 @@
   justify-content: flex-end;
 }
 
-.page-title, .post-title {
+.page-title,
+.post-title {
   font-size: modular-scale(4);
   margin-bottom: 0;
 }
@@ -166,7 +176,6 @@
   line-height: $heading-line-height;
   font-size: modular-scale(0);
 }
-
 
 .page-subtitle {
   font-size: modular-scale(1);
