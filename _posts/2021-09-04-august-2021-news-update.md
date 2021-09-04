@@ -3,8 +3,8 @@ layout: post
 title: August 2021 News Update
 image: "/uploads/2aa93cad-ac8d-462c-90eb-c540a4f7f894.png"
 tags: []
-
 ---
+
 **Moorings Research**
 
 OCLT is supporting an important piece of research by the [Collaborative Housing Hub](https://collaborativehousing.org.uk/) to produce and present Oxford City Council with a proposal for community owned and/or managed residential moorings in the city.

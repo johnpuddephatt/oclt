@@ -1,10 +1,11 @@
 ---
-
 layout: post
 title: July 2021 News Update
 image: "/uploads/oclt*logo.png"
 tags: []
----\*\*\_Community led housing is already having a hugely positive impact on communities and lives across the country. It has proved that another way is possible and that there is hope.*\*\*
+---
+
+Community led housing is already having a hugely positive impact on communities and lives across the country. It has proved that another way is possible and that there is hope.
 
 We are making good progress on all fronts. Massive thanks to the 72 heroes who have given donations, and some have signed up to be regular donors - you are making a big difference. Until we have homes generating enough rental income to cover essential management costs, we need your donations. If you want to be part of this, please sign up here.
 
