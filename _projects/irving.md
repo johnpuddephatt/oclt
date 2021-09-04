@@ -9,8 +9,7 @@ layout: project
 <div class="pullout-box">
 <h2>Key information</h2>
 <ul>
-<li>Site Location: Hertford Street, East Oxford</li>
-<li>Homes: 26</li>
+<li>Site Location: Hertford Street, East Oxford</li><li>Status: Project unsuccessful - Sadly we didn't win the bid for the Wolvercote Paper Mill project but do read on to see what the City is missing out on...</li> <li>Homes: 26</li>
 <li>Mechanism: Cohousing, CLT, Tenant Management Co-operatives</li>
 </ul>
 </div>
