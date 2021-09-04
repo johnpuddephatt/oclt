@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summer Updates
+title: July 2021 News Update
 image: "/uploads/oclt_logo.png"
 tags: []
 
