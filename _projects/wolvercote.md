@@ -1,10 +1,8 @@
 ---
 title: Wolvercote Paper Mill
 date: 2016-08-23T09:30:33.000+00:00
-excerpt: 'An ambitious bid to buy land from Oxford University for a 260-home eco-village
+excerpt: A previous bid to buy land from Oxford University for a 260-home eco-village
   in Wolvercote.
-
-'
 layout: project
 
 ---
