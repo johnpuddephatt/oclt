@@ -1,7 +1,7 @@
 ---
 layout: post
 title: July 2021 News Update
-image: "/uploads/oclt*logo.png"
+image: "/uploads/oclt_logo.png"
 tags: []
 ---
 
