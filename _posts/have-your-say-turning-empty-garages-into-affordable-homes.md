@@ -1,0 +1,30 @@
+---
+layout: post
+title: 'Have your say: Turning empty garages into affordable homes?'
+image: "/uploads/bbl-flyer-rough-draft-1.jpg"
+tags: []
+
+---
+Drop in event at Blackbird Leys Community Centre, Jack Argent Room
+
+**Saturday 30th October 11-2pm**
+
+_Tea, Coffee and food from The Damascus Rose Kitchen_
+
+### **Could disused garages provide space for new affordable homes?**
+
+###### The Oxford Community Land Trust was set up to create **permanently affordable housing** that is owned by its community.
+
+The Oxfordshire Community Land Trust, Transition by Design and Oxford City Council are working together to identify **disused or underused pieces of brownfield land** such as garage sites owned by City Council that could be repurposed for housing.
+
+Some of the sites being suggested are in your neighbourhood in Blackbird Leys.
+
+**We want to hear from local people** what they’d like to see there - whether it’s housing or other community facilities.
+
+Take part in the event or the **online survey** to:
+
+→ Help us look at potential sites
+
+→ Share information about the needs in your area
+
+→ Give feedback about the type of housing or community facilities you’d like to see
