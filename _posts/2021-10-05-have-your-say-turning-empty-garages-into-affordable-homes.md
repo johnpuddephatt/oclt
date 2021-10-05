@@ -21,7 +21,7 @@ Some of the sites being suggested are in your neighbourhood in Blackbird Leys.
 
 **We want to hear from local people** what they’d like to see there - whether it’s housing or other community facilities.
 
-Take part in the event or the **online survey** to:
+Take part in the event or the **online survey \[link coming here soon\]** to:
 
 → Help us look at potential sites
 
