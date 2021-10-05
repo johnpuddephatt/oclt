@@ -13,7 +13,7 @@ _Tea, Coffee and food from The Damascus Rose Kitchen_
 
 ### **Could disused garages provide space for new affordable homes?**
 
-###### The Oxford Community Land Trust was set up to create **permanently affordable housing** that is owned by its community.
+The Oxford Community Land Trust was set up to create **permanently affordable housing** that is owned by its community.
 
 The Oxfordshire Community Land Trust, Transition by Design and Oxford City Council are working together to identify **disused or underused pieces of brownfield land** such as garage sites owned by City Council that could be repurposed for housing.
 
