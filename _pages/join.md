@@ -2,9 +2,9 @@
 layout: page
 title: Join us
 subtitle: Get involved in a movement creating community-led affordable homes
-permalink: /join/index.html
----
+permalink: "/join/index.html"
 
+---
 ## Become a member
 
 As a Community Benefit Society, we are proud to be owned by our members. We are currently owned by a group of over 100 people from across the county of Oxfordshire.
@@ -12,6 +12,8 @@ As a Community Benefit Society, we are proud to be owned by our members. We are 
 As a member you can have a say and support OCLT through attending and voting at our Annual General Meeting (AGM), as well as standing for election to the board of directors. We also welcome members to get more involved in the organisation through volunteering your time.
 
 Membership is open to any individual over 16 or any organisation within the County of Oxfordshire. To become a member you buy a £1 share which entitles you to a single vote in the company. The £1 is the limit of personal liability. <br> <br> <a class="button btn" href="https://app.donorfy.com/form/J7EEWBHW62/53NSK">Become a member</a>
+
+**Could you support us further by making a monthly or one-off donation?** [**Become a Supporter**](Did you see our good news about becoming a Registered Provider of Affordable Housing?  You can support us to carry on this exciting work by signing up to be a monthly Supporter: https://www.oclt.org.uk/support-us/)**.**
 
 ## Become a subscriber
 
