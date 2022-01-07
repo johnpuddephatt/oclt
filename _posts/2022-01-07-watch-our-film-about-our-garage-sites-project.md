@@ -24,5 +24,3 @@ A film was made by a local film-maker (Urban Music Foundation) about the event a
 Further information on the findings of the research will be shared in early 2022.
 
 Watch our film here:
-
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/xUMjnENGC5Q](https://www.youtube.com/embed/xUMjnENGC5Q "https://www.youtube.com/embed/xUMjnENGC5Q")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
