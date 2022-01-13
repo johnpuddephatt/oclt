@@ -1,12 +1,12 @@
 ---
+
 layout: project
 title: Garage Sites in Blackbird Leys
-date: 
-excerpt: This partnership project aims to identify brownfield sites for affordable
-  housing
-
----
-<div class="pullout-box">
+date: 2021-01-12 23:00:00 +0000
+excerpt:
+This partnership project aims to identify brownfield sites for affordable
+housing
+---<div class="pullout-box">
 
 <h2>Key information</h2> <ul> <li>Location: Blackbird Leys, Oxford</li> <li>Status: Research & Community Engagement</li> <li>Partners: Transition by Design & Oxford City Council</li> <li>Funder: Housing Advisors Programme</li>  </ul> </div>
 
@@ -22,10 +22,10 @@ Transition by Design bring their expertise in low-carbon design and will develop
 
 The project is still in the early stages and the partnership have been gathering support and ideas from the Blackbird Leys community.
 
-In September 2021, a community event was held at the Blackbird Leys Community Centre to ask local residents what they thought of the ideas. 
+In September 2021, a community event was held at the Blackbird Leys Community Centre to ask local residents what they thought of the ideas.
 
 A film was made by a local film-maker (Urban Music Foundation) about the event and project.
 
-Further information on the findings of the research will be shared in early 2022. 
+Further information on the findings of the research will be shared in early 2022.
 
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/xUMjnENGC5Q](https://www.youtube.com/embed/xUMjnENGC5Q "https://www.youtube.com/embed/xUMjnENGC5Q")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
