@@ -2,31 +2,31 @@
 label: project
 hide_body: false
 fields:
-  - name: title
-    label: Title
-    type: text
-    hidden: false
-    default: ""
-  - name: date
-    label: Date
-    type: datetime
-    hidden: false
-    config:
-      required: true
-    default: ""
-  - name: excerpt
-    label: Excerpt
-    type: text
-    hidden: false
-    default: ""
-  - name: layout
-    label: Layout
-    type: text
-    hidden: true
-    default: project
-    config:
-      required: true
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  config:
+    required: true
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: project
+  config:
+    required: true
 pages:
-  - _projects/champion-way.md
-  - _projects/dean-court-oxford.md
-  - _projects/garage-sites-in-blackbird-leys.md
+- _projects/champion-way.md
+- _projects/dean-court-oxford.md
+- _projects/garage-sites-in-blackbird-leys.md
