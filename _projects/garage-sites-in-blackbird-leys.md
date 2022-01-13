@@ -2,9 +2,7 @@
 layout: project
 title: Garage Sites in Blackbird Leys
 date: 2022-01-12 23:00:00 +0000
-excerpt:
-This partnership project aims to identify brownfield sites for affordable
-housing
+excerpt: This partnership project aims to identify brownfield sites for affordable housing
 ---
 
 <div class="pullout-box">
