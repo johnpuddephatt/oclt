@@ -13,7 +13,7 @@ As a member you can have a say and support OCLT through attending and voting at 
 
 Membership is open to any individual over 16 or any organisation within the County of Oxfordshire. To become a member you buy a £1 share which entitles you to a single vote in the company. The £1 is the limit of personal liability. <br> <br> <a class="button btn" href="https://app.donorfy.com/form/J7EEWBHW62/53NSK">Become a member</a>
 
-**Could you support us further by making a monthly or one-off donation?** [**Become a Supporter**](Did you see our good news about becoming a Registered Provider of Affordable Housing?  You can support us to carry on this exciting work by signing up to be a monthly Supporter: https://www.oclt.org.uk/support-us/)**.**
+**Could you support us further by making a monthly or one-off donation?** [**Become a Supporter**](Did you see our good news about becoming a Registered Provider of Affordable Housing?  You can support us to carry on this exciting work by signing up to be a https://www.oclt.org.uk/support-us/)**.**
 
 ## Become a subscriber
 
