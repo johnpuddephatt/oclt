@@ -11,8 +11,8 @@ The construction phase for the 8 affordable rent apartments is likely to be comp
 
 The apartments will provide much needed homes to people on the Vale of White Horse District Council’s Housing Register. Preference will be given to people with a connection to the local area, Dean Court, Cumnor Parish and the immediately adjacent parishes in VWHDC.
 
-At the end of the autumn we plan to launch a Community Share Offer that will reduce the development costs of the site and provide investors with the opportunity to support these much needed affordable rented homes.   
+At the end of the autumn we plan to launch a Community Share Offer that will provide investors with the opportunity to support these much needed affordable rented homes.
 
-The development would not have been possible without funding and support from The Community Housing Fund Revenue Programme 2021/22 (funded by the Department for Levelling Up, Housing and Communities), Vale of White Horse District Council, Oxfordshire Growth Board, Homes England, Low Carbon Hub, the Ecology Building Society and the public who have become members.
+The development would not have been possible without funding and support from the Vale of White Horse District Council, Oxfordshire Growth Board, Homes England, Low Carbon Hub, the Ecology Building Society, the Community Housing Fund Revenue Programme 2021/22 (funded by the Department for Levelling Up, Housing and Communities), and members of the public who have become members of OCLT.
 
 Photography by ©Ian Miles www.flashpointpictures.co.uk who was commissioned for a project by the Community Land Trust Network.
