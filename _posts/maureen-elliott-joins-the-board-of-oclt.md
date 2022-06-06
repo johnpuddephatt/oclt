@@ -9,4 +9,4 @@ We are excited to announce the appointment of Maureen Elliott to the Board of Di
 
 She has recently stood down from the board of Oxfordshire Community and Voluntary Association after nine years in the role of treasurer.
 
-We also would like to express our deepest gratitude to our former Director Chris Bright who for many years worked tirelessly to help OCLT reach its current position of starting construction on its first site of affordable rented homes. Chris has had to step down due to his existing commitments, but we will forever be grateful for his significant contribution.
+We also would like to express our deepest gratitude to our former Director Chris Bright who for several years worked tirelessly to help OCLT reach its current position of starting construction on its first site of affordable rented homes. Chris has had to step down due to his existing commitments, but we will forever be grateful for his significant contribution.
