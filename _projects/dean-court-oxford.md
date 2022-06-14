@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Dean Court
-date: 2022-06-14 16:00:00 +0000
+date: 2022-06-13 16:00:00 +0000
 excerpt: Developing eight affordable co-operative apartments for people in West Oxford.
 
 ---
