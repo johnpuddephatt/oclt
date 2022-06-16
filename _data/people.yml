@@ -1,17 +1,5 @@
 ---
 people:
-- name: Mark Child
-  role: 'Consultant Co-ordinator '
-  image: "/uploads/p1010725-2.JPG"
-  description: OCLT is pleased to have secured the services of Mark Child to project
-    manage the delivery of our key objectives. Mark has over 13 years housebuilding
-    and renewable energy development experience both in the UK and US. He is a qualified
-    barrister and until recently a practising solicitor specialising in planning and
-    public law for Dentons. Mark has community organising experience in planning,
-    housing, environmental and economic issues. He is primarily focusing on delivery
-    of OCLT's first development in Oxford, and launch of its first Community Share
-    Offer. He is also keen to source new opportunities to grow community led housing
-    in Oxfordshire.
 - name: Professor Sue Brownill
   role: Director
   image: "/uploads/people/suebrownill.jpg"
@@ -104,3 +92,15 @@ people:
     member of the Chartered Institute of Public Finance and Accountancy. She has recently
     stood down from the board of Oxfordshire Community and Voluntary Association after
     nine years in the role of treasurer.
+- name: Mark Child
+  role: 'Consultant Co-ordinator '
+  image: "/uploads/p1010725-2.JPG"
+  description: OCLT is pleased to have secured the services of Mark Child to project
+    manage the delivery of our key objectives. Mark has over 13 years housebuilding
+    and renewable energy development experience both in the UK and US. He is a qualified
+    barrister and until recently a practising solicitor specialising in planning and
+    public law for Dentons. Mark has community organising experience in planning,
+    housing, environmental and economic issues. He is primarily focusing on delivery
+    of OCLT's first development in Oxford, and launch of its first Community Share
+    Offer. He is also keen to source new opportunities to grow community led housing
+    in Oxfordshire.
