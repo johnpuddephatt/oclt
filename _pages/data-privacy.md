@@ -123,9 +123,9 @@ Remember you can change the way you hear from us or withdraw your permission for
 
 **Keeping your information up to date**
 
-We really appreciate it if you let us know if your contact details change. **YOUR RIGHT TO KNOW WHAT WE KNOW ABOUT YOU, MAKE CHANGES OR ASK US TO**
+We really appreciate it if you let us know if your contact details change. 
 
-**STOP USING YOUR DATA**
+**YOUR RIGHT TO KNOW WHAT WE KNOW ABOUT YOU, MAKE CHANGES OR ASK US TO STOP USING YOUR DATA**
 
 You have a right to ask us to stop processing your personal data, and if it’s not necessary for the purpose you provided it to us for (e.g. processing your donation or grant application, or registering you for an event) we will do so. Contact us **info@oclt.org.uk** if you have any concerns.
 
