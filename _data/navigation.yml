@@ -1,5 +1,6 @@
 ---
 footer_menu:
+- page: pages/data-privacy.md
 - page: pages/about.md
 - page: pages/contact.md
 - page: pages/news.md
