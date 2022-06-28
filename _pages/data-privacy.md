@@ -2,7 +2,6 @@
 layout: page
 title: Data Privacy
 subtitle: Data Privacy Policy
-published: false
 
 ---
 **INTRODUCTION**
