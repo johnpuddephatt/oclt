@@ -2,6 +2,7 @@
 layout: page
 title: Data Privacy
 subtitle: Data Privacy Policy
+permalink: "/data-privacy/index.html"
 
 ---
 **INTRODUCTION**
