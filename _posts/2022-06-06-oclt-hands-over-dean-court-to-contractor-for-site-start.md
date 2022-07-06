@@ -15,4 +15,6 @@ At the end of the autumn we plan to launch a Community Share Offer that will pro
 
 The development would not have been possible without funding and support from the Vale of White Horse District Council, Oxfordshire Growth Board, Homes England, Low Carbon Hub, the Ecology Building Society, the Community Housing Fund Revenue Programme 2021/22 (funded by the Department for Levelling Up, Housing and Communities), and members of the public who have become members of OCLT.
 
+![](/uploads/breaking-ground-better-pic-oxford-clt-april22-5312.jpg)
+
 Photography by ©Ian Miles www.flashpointpictures.co.uk who was commissioned for a project by the Community Land Trust Network.
