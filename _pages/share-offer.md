@@ -5,7 +5,7 @@ subtitle: Become a Community Investor and Bring New Affordable Homes to Oxford!
 published: false
 
 ---
-Our Share Offer launched on 3 October 2022.
+**Our Share Offer launched on 3 October 2022.**
 
 There is currently a housing crisis in Oxford. It is ranked the second least affordable city in Britain. Oxford's affordability ratio is 15.3, meaning that average house prices are 15.3 times that of average salaries. Amongst other factors this has been fuelled by over 900 houses in the city being second homes (nearly 3,000 in the county) alongside a surge in the number of holiday lets.
 
@@ -14,6 +14,13 @@ Our approach is to provide sustainable and genuinely affordable housing using a 
 We are currently accepting share capital investment for the development of Crofts Court - eight co-operatively managed apartments at affordable rents for people in the Dean Court area of West Oxford in Cumnor Parish.
 
 Our investment opportunity is now live on Ethex, which can be found here \[inset url\].
+
+**Your investment will:**
+
+1. Help us tackle the housing crisis in Oxford and permanently home up to 17 local people in housing need.
+2. Support the environment and help address climate change by contributing more low-impact environmentally sustainable homes to the city.
+3. Make a real difference to the lives of low income workers who are currently priced out of the city and endure long commutes.
+4. Earn a potential annual return of up to 3%.
 
 You can also view the relevant documents on the links below:
 
