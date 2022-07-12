@@ -13,7 +13,7 @@ This is not good enough for the workers who sustain our city!
 
 Our approach is to provide sustainable and genuinely affordable housing using a community land trust model meaning that the right to buy does not apply and housing remains affordable in perpetuity and available to those in need. It also means greater involvement and ownership in decision making by those who live there and significantly reduces tenant turnover.
 
-We are currently accepting share capital investment for the development of Crofts Court - eight co-operatively managed apartments at affordable rents for people in the Dean Court area of West Oxford in Cumnor Parish.
+We are currently accepting share capital investment for the development of Crofts Court - eight co-operatively managed apartments at affordable rents for people in the Dean Court area of West Oxford in Cumnor Parish. The development is well underway and we're really excited about our new tenants moving in by June 2023.
 
 Our investment opportunity is now live on Ethex, which can be found here \[inset url\].
 
