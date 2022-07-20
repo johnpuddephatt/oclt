@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Share Offer
+title: 'Crofts Court '
 subtitle: Become a Community Investor and Bring New Affordable Homes to Oxford!
-published: false
 
 ---
 **Our Share Offer launched on 3 October 2022.**
