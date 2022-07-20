@@ -47,4 +47,4 @@ We have a detailed Comms Plan which gives more detail about all these actions. W
 
 Remuneration dependent on experience and agreed upon weekly workload.
 
-To apply please send your CV and cover letter to Mark Child at [mark@oclt.org.uk](mailto:mark@oclt.org.uk) by 25 July 2022.
+To apply please send your CV and cover letter to Mark Child at [mark@oclt.org.uk](mailto:mark@oclt.org.uk) by 1 August 2022.
