@@ -3,11 +3,11 @@ people:
 - name: Professor Sue Brownill
   role: Director
   image: "/uploads/people/suebrownill.jpg"
-  description: Sue Brownill is a Reader in Urban Policy and Governance at Oxford Brookes
-    University, whose research and teaching interests focus on the interaction of
-    communities with urban planning and regeneration. Sue has been a board member
-    of Oxford Citizens Housing Association since 2003 and before moving to Oxford
-    worked with community organisations in London’s Docklands.
+  description: Sue is a Reader in Urban Policy and Governance at Oxford Brookes University,
+    whose research and teaching interests focus on the interaction of communities
+    with urban planning and regeneration. Sue was a board member of Oxford Citizens
+    Housing Association until 2013 and before moving to Oxford worked with community
+    organisations in London’s Docklands.
 - name: Jock Coats
   role: Director
   image: "/uploads/people/Jock.jpg"
