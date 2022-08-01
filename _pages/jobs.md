@@ -5,7 +5,7 @@ subtitle: We are hiring!
 permalink: "/jobs/index.html"
 
 ---
-**Social Media – remote and consultant position**
+**Social Media Role – remote and consultant position**
 
 Oxfordshire Community Land Trust (OCLT) needs YOU now to help run the social media side of a Community Share Offer to be launched in October 2022. The exact workload is to be agreed, which will depend on the efficiency/ experience of the appointed person, but we estimate that an average of 7 hours per week will be required. How the weekly workload is distributed is to be agreed between the parties.
 
