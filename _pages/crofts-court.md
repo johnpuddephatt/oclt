@@ -35,7 +35,7 @@ Our investment opportunity is now live on Ethex, which can be found here [http:/
 
 [Share Offer Audited Accounts for 2021](https://drive.google.com/file/d/1S2QY_z2K6UPCvEeUZr00Vgc9hc0psQDc/view?usp=sharing)
 
-[OCLT’s Constitutional Rules]()
+[OCLT’s Constitutional Rules](https://drive.google.com/file/d/1czp7zfSz13FuVLKFIbXhuA9uOI4ND4mX/view?usp=sharing)
 
 [Risk Register](https://docs.google.com/spreadsheets/d/1L-b8mUlnaeB0piyNAePtc4xZ62FeJthT/edit?usp=sharing&ouid=100976263688228205056&rtpof=true&sd=true)
 
