@@ -37,8 +37,8 @@ Our investment opportunity is now live on Ethex, which can be found here [http:/
 
 [OCLT’s Constitutional Rules](https://drive.google.com/file/d/1czp7zfSz13FuVLKFIbXhuA9uOI4ND4mX/view?usp=sharing)
 
-[Risk Register](https://docs.google.com/spreadsheets/d/1L-b8mUlnaeB0piyNAePtc4xZ62FeJthT/edit?usp=sharing&ouid=100976263688228205056&rtpof=true&sd=true)
+[Risk Register](https://drive.google.com/file/d/18oiIH8r9P077-IJLRvSJnAxRzA3qa5aG/view?usp=sharing)
 
-[OCLT's Reserves Policy](https://docs.google.com/document/d/1ByzHJ6Bu38vn9UUDc2lwieTBb1z0xnKMiu_RG8OZytA/edit?usp=sharing)
+[OCLT's Reserves Policy](https://drive.google.com/file/d/1F6E8rwp2HhPiOLAJ24SB5PKHSkvvSw_i/view?usp=sharing)
 
 [OCLT's Privacy Policy](https://www.oclt.org.uk/data-privacy/)
