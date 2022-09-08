@@ -43,4 +43,4 @@ Our investment opportunity is now live on Ethex, which can be found here [http:/
 
 [OCLT's Reserves Policy](https://drive.google.com/file/d/17fN4F1OP_TFYkYtCl66IVoCuR1w-eHlY/view?usp=sharing)
 
-[OCLT's Privacy Policy](https://drive.google.com/file/d/17JLgyfPLsGd03YNMVti5iQ0dDNqt8v95/view?usp=sharing)
+[OCLT's Privacy Policy](https://drive.google.com/file/d/1JVa1530u7_rDBGc3U3gH5z62ZqJvYKUp/view?usp=sharing)
