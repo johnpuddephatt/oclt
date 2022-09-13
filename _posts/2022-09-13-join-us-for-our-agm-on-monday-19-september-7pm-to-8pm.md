@@ -21,7 +21,7 @@ Join us at 7pm to 8pm in the **Orange Room at the Dean Court Community Centre, P
 
 **(c) Resolutions**
 
-      **(i) To disapply s.83 (duty to appoint auditors)**
+(i) to disapply s.83 (duty to appoint auditors)
 
 **(d) Election of Directors**
 
