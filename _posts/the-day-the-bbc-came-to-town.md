@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The day the BBC came to town!
-image: ''
+image: "/uploads/img_1409.JPG"
 tags: []
 
 ---
