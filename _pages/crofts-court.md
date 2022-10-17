@@ -4,7 +4,7 @@ title: Share Offer - Crofts Court
 subtitle: Become a Community Investor and Bring New Affordable Homes to Oxford!
 
 ---
-**Our Share Offer launched on 6 October 2022.**
+**Our Share Offer launched on 2 November 2022.**
 
 There is currently a housing crisis in Oxford. It is ranked the second least affordable city in Britain. Oxford's affordability ratio is 15.3, meaning that average house prices are 15.3 times that of average salaries. Amongst other factors this has been fuelled by over 900 houses in the city being second homes (nearly 3,000 in the county) alongside a surge in the number of holiday lets.
 
@@ -25,9 +25,9 @@ Our investment opportunity is now live on Ethex, which can be found here [http:/
 
 **You can also view the relevant documents on the links below:**
 
-[Share Offer Document](https://drive.google.com/file/d/11EyZhDGb9w-OpUISVE1gCDI8BclUeasl/view?usp=sharing)
+[Share Offer Document](https://docs.google.com/document/d/1OxaDV7sZKma3aoDFkZkRz86CFK7Zf5Nc/edit?usp=sharing&ouid=100976263688228205056&rtpof=true&sd=true)
 
-[Share Offer Business Plan](https://drive.google.com/file/d/12gxb-5DmOyAfjvQTZOe7vorPRdP1LdXy/view?usp=sharing)
+[Share Offer Business Plan](https://docs.google.com/document/d/15YhGIdUfwnT_FWUh4_K4DsTODO6Z-BSx/edit?usp=sharing&ouid=100976263688228205056&rtpof=true&sd=true)
 
 [Share Offer Audited Accounts for 2019](https://drive.google.com/file/d/1Xz3ikVfSkg_6l3AAlNSvbOnPLVqej0A1/view?usp=sharing)
 
@@ -35,12 +35,12 @@ Our investment opportunity is now live on Ethex, which can be found here [http:/
 
 [Share Offer Audited Accounts for 2021](https://drive.google.com/file/d/1NmHxaReZ-g8dMACXTGeZpp0dF1ZLSz5j/view?usp=sharing)
 
-[Draft Accounts for 2022](https://drive.google.com/file/d/1JZ1hjwCSnuygX2M1e5wmMK9eo96b9pbm/view?usp=sharing)
+[Accounts for 2022](https://drive.google.com/file/d/1XNdoUNM4QG_I36ECjXwqMOBV7Td8X9YN/view?usp=sharing)
 
 [OCLT’s Constitutional Rules](https://drive.google.com/file/d/1Tl1dF-8aDQ-1z7ZYkr3v6UwGU1h3d40i/view?usp=sharing)
 
 [Risk Register](https://drive.google.com/file/d/1IlxdkrBbEiB-WcqUfmSeLaie981Zyuw-/view?usp=sharing)
 
-[OCLT's Reserves Policy](https://drive.google.com/file/d/17fN4F1OP_TFYkYtCl66IVoCuR1w-eHlY/view?usp=sharing)
+[OCLT's Reserves Policy](https://drive.google.com/file/d/1uXl_ti3lwMq5d_I2P1N0r_beMaKJGNRf/view?usp=sharing)
 
 [OCLT's Privacy Policy](https://drive.google.com/file/d/1JVa1530u7_rDBGc3U3gH5z62ZqJvYKUp/view?usp=sharing)
