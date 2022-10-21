@@ -25,9 +25,9 @@ Our investment opportunity is now live on Ethex, which can be found here [http:/
 
 **You can also view the relevant documents on the links below:**
 
-[Share Offer Document](https://drive.google.com/file/d/1pkbzZgc2HnT26Ir_m86Kf4bUCB0jgUxy/view?usp=sharing)
+[Share Offer Document](https://drive.google.com/file/d/1cVpLCsi_BBtIQyspR81XLg3_sa4V6546/view?usp=sharing)
 
-[Share Offer Business Plan](https://drive.google.com/file/d/1k7r6kWJMeD9keSpGeU7gAijAbfdNMHO-/view?usp=sharing)
+[Share Offer Business Plan](https://drive.google.com/file/d/1yN30Ps_j12Bz2IMHH_r6Pg58wjYvnVcu/view?usp=sharing)
 
 [Share Offer Audited Accounts for 2019](https://drive.google.com/file/d/1Xz3ikVfSkg_6l3AAlNSvbOnPLVqej0A1/view?usp=sharing)
 
