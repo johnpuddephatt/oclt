@@ -6,22 +6,26 @@ subtitle: Become a Community Investor and Bring New Affordable Homes to Oxford!
 ---
 **Our Share Offer launched on 2 November 2022.**
 
+WE NEED YOUR HELP AND INVESTMENT!
+
 There is currently a housing crisis in Oxford. It is ranked the second least affordable city in Britain. Oxford's affordability ratio is 15.3, meaning that average house prices are 15.3 times that of average salaries. Amongst other factors this has been fuelled by over 900 houses in the city being second homes (nearly 3,000 in the county) alongside a surge in the number of holiday lets.
 
 This is not good enough for the workers who sustain our city!
 
-Our approach is to provide sustainable and genuinely affordable housing using a community land trust model meaning that the right to buy does not apply and housing remains affordable in perpetuity and available to those in need. It also means greater involvement and ownership in decision making by those who live there and significantly reduces tenant turnover.
+Our approach is to provide sustainable and genuinely affordable housing using a community land trust model meaning that housing remains affordable in perpetuity and available to those in need. It also means greater involvement and ownership in decision making by those who live there.
 
-We are currently accepting share capital investment for the development of Crofts Court - eight co-operatively managed apartments at affordable rents for people in the Dean Court area of West Oxford in Cumnor Parish. The development is well underway and we're really excited about our new tenants moving in by June 2023.
+Our construction of our first development, Crofts Court (eight co-operatively managed apartments at affordable rents for people in the Dean Court area of West Oxford in Cumnor Parish), is now underway, but we are vulnerable to increasing bank interest rates that are part financing the scheme. We need social investors like you to take a stake in the scheme, support fairer and more sustainable housing in Oxford whilst earning a return on your investment.
+
+We're really excited about our new tenants moving in by June 2023, but we need your help to access more affordable finance and successfully complete the homes.
 
 Our investment opportunity is now live on Ethex, which can be found here [http://www.ethex.org.uk/invest/OCLT](http://www.ethex.org.uk/invest/OCLT "http://www.ethex.org.uk/invest/OCLT").
 
 **Your investment will:**
 
-1. Help us tackle the housing crisis in Oxford and permanently home up to 17 local people in housing need.
-2. Support the environment and help address climate change by contributing more low-impact environmentally sustainable homes to the city.
-3. Make a real difference to the lives of low income workers who are currently priced out of the city and endure long commutes.
-4. Earn a potential annual return of up to 3%.
+1. Help take action against the cost of living and housing crises by creating permanently affordable rental homes around Oxford, where rents are increasingly unaffordable.
+2. Tackle climate change by promoting sustainable living through a housing community that is committed to energy-efficient practices.
+3. Support the community-led housing model that can be replicated around the UK as a viable alternative approach to affordable housing.
+4. Earn a potential return. Investments in the share offer target an annual return of 3%
 
 **You can also view the relevant documents on the links below:**
 
