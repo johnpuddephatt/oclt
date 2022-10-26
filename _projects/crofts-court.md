@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Crofts Court
-date: 2022-06-13 16:00:00 +0000
+date: 2022-06-13T16:00:00.000+00:00
 excerpt: Developing eight affordable co-operative apartments for people in West Oxford.
 
 ---
@@ -15,6 +15,6 @@ The intention is to set rents at levels comparable with the Local Housing Allowa
 
 The site had planning consent for six homes granted on 25 September 2014. This design was improved upon and on 8 April 2020 full planning permission was granted. Lettings will be from the local Housing Register, subject to an agreed local lettings policy that prioritises people with a local connection, and a requirement that applicants are willing to join a tenant co-operative.
 
-Our contractor Lifebuild Solutions Limited are now on site with the homes set to be completed by summer 2023. In the autumn of 2022 there will be an opportunity for social investors to invest in the project to make the scheme more cost effective. If you would like further information on supporting this development please contact us.
+Our contractor Lifebuild Solutions Limited are now on site with the homes set to be completed by summer 2023. **On 2 November 2022 there will be an opportunity for social investors to invest in the project to make the scheme more cost effective. If you would like further information on supporting this development please contact us, otherwise we will launch a dedicated community share offer page available from 2 November with all the details!**
 
 {% include button.html link="http://www.whitehorsedc.gov.uk/java/support/Main.jsp?MODULE=ApplicationDetails&REF=P19/V0424/FUL" text="**P19/V0424/FUL**" %}
