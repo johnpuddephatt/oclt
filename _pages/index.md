@@ -10,6 +10,7 @@ button:
   text: Become a member for £1
   link: "/join/"
 button2:
-  text: SUPPORT US HERE!
+  text: Support us here
   link: "/support-us/"
+
 ---
