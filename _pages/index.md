@@ -12,8 +12,4 @@ button:
 button2:
   text: SUPPORT US HERE!
   link: "/support-us/"
-button3:
-  text: Volunteer
-  link: "/contact/"
-
 ---
