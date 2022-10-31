@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Share Offer - Crofts Court
-subtitle: Become a Community Investor and Bring New Affordable Homes to Oxford!
+subtitle: Become a Community Investor and Bring New Affordable Homes to Oxfordshire!
 
 ---
 **Our Share Offer launched on 2 November 2022.**
 
 WE NEED YOUR HELP AND INVESTMENT!
 
-There is currently a housing crisis in Oxford. It is ranked the second least affordable city in Britain. Oxford's affordability ratio is 15.3, meaning that average house prices are 15.3 times that of average salaries. Amongst other factors this has been fuelled by over 900 houses in the city being second homes (nearly 3,000 in the county) alongside a surge in the number of holiday lets.
+There is currently a housing crisis in Oxfordshire. The city is ranked the second least affordable city in Britain. Oxford's affordability ratio is 15.3, meaning that average house prices are 15.3 times that of average salaries. Amongst other factors this has been fuelled by over 900 houses in the city being second homes (nearly 3,000 in the county) alongside a surge in the number of holiday lets.
 
 This is not good enough for the workers who sustain our city!
 
@@ -16,7 +16,7 @@ Our approach is to provide sustainable and genuinely affordable housing using a 
 
 Our construction of our first development, Crofts Court (eight co-operatively managed apartments at affordable rents for people in the Dean Court area of West Oxford in Cumnor Parish), is now underway, but we are vulnerable to increasing bank interest rates that are part financing the scheme. We need social investors like you to take a stake in the scheme, support fairer and more sustainable housing in Oxford whilst earning a return on your investment.
 
-We're really excited about our new tenants moving in by June 2023, but we need your help to access more affordable finance and successfully complete the homes.
+We're really excited about our new tenants from the Vale of White Horse's Housing Register moving in by June 2023, but we need your help to access more affordable finance and successfully complete the homes.
 
 Our investment opportunity is now live on Ethex, which can be found here [http://www.ethex.org.uk/invest/OCLT](http://www.ethex.org.uk/invest/OCLT "http://www.ethex.org.uk/invest/OCLT").
 
@@ -29,9 +29,9 @@ Our investment opportunity is now live on Ethex, which can be found here [http:/
 
 **You can also view the relevant documents on the links below:**
 
-[Share Offer Document](https://drive.google.com/file/d/1cVpLCsi_BBtIQyspR81XLg3_sa4V6546/view?usp=sharing)
+[Share Offer Document](https://drive.google.com/file/d/11YdbqT27VqjwPXeJsWbKWCyVmeX5F6pB/view?usp=share_link)
 
-[Share Offer Business Plan](https://drive.google.com/file/d/1yN30Ps_j12Bz2IMHH_r6Pg58wjYvnVcu/view?usp=sharing)
+[Share Offer Business Plan](https://drive.google.com/file/d/1LpNQsPzr7hQIOC_Ul-EFUamXZELBxb3J/view?usp=share_link)
 
 [Share Offer Audited Accounts for 2019](https://drive.google.com/file/d/1Xz3ikVfSkg_6l3AAlNSvbOnPLVqej0A1/view?usp=sharing)
 
