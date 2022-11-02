@@ -14,7 +14,7 @@ This is not good enough for the workers who sustain our city!
 
 Our approach is to provide sustainable and genuinely affordable housing using a community land trust model meaning that housing remains affordable in perpetuity and available to those in need. It also means greater involvement and ownership in decision making by those who live there.
 
-Our construction of our first development, Crofts Court (eight co-operatively managed apartments at affordable rents for people in the Dean Court area of West Oxford in Cumnor Parish), is now underway, but we are vulnerable to increasing bank interest rates that are part financing the scheme. We need social investors like you to take a stake in the scheme, support fairer and more sustainable housing in Oxford whilst earning a return on your investment.
+Our construction of our first development, Crofts Court (eight co-operatively managed apartments at affordable rents for people in the Dean Court area of West Oxford in Cumnor Parish), is now underway, but we are vulnerable to increasing bank interest rates that are part financing the scheme. We need social investors like you to take a stake in the scheme, support fairer and more sustainable housing in Oxfordshire whilst earning a return on your investment.
 
 We're really excited about our new tenants from the Vale of White Horse's Housing Register moving in by June 2023, but we need your help to access more affordable finance and successfully complete the homes.
 
