@@ -2,10 +2,11 @@
 layout: home
 permalink: "/"
 title: Home
-heading: Land for our common future
-subheading: We're a group of local people working to acquire and manage land for community
-  use in Oxfordshire – creating affordable and sustainable space for housing, work,
-  food production and leisure.
+heading: We need your help and investment
+subheading: Our community share offer has now launched to bring much needed affordable
+  homes to Dean Court in the Cummor Parish of west Oxford. The offer aims to raise
+  at least £500,000 to help support this first community-led development, and OCLT
+  as a whole.
 button:
   text: Become a member for £1
   link: "/join/"
