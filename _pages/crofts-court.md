@@ -22,7 +22,7 @@ Our investment opportunity is now live on Ethex, which can be found here [http:/
 
 **Your investment will:**
 
-1. Help take action against the cost of living and housing crises by creating permanently affordable rental homes around Oxford, where rents are increasingly unaffordable.
+1. Help take action against the cost of living and housing crises by creating permanently affordable rental homes around the city and beyond, where rents are increasingly unaffordable.
 2. Tackle climate change by promoting sustainable living through a housing community that is committed to energy-efficient practices.
 3. Support the community-led housing model that can be replicated around the UK as a viable alternative approach to affordable housing.
 4. Earn a potential return. Investments in the share offer target an annual return of 3%
