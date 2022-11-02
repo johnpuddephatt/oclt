@@ -8,10 +8,10 @@ subheading: Our community share offer has now launched to bring much needed affo
   at least £500,000 to help support this first community-led development, and OCLT
   as a whole.
 button:
-  text: Become a member for £1
-  link: "/join/"
+  text: Find out more and invest
+  link: "/crofts-court/"
 button2:
-  text: Support us here
-  link: "/support-us/"
+  text: ''
+  link: ''
 
 ---
