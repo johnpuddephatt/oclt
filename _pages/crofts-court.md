@@ -8,17 +8,25 @@ subtitle: Become a Community Investor and Bring New Affordable Homes to Oxfordsh
 
 WE NEED YOUR HELP AND INVESTMENT!
 
+**The problem we're addressing**
+
 There is currently a housing crisis in Oxfordshire. The city is ranked the second least affordable city in Britain. Oxford's affordability ratio is 15.3, meaning that average house prices are 15.3 times that of average salaries. Amongst other factors this has been fuelled by over 900 houses in the city being second homes (nearly 3,000 in the county) alongside a surge in the number of holiday lets.
 
 This is not good enough for the workers who sustain our city!
 
 Our approach is to provide sustainable and genuinely affordable housing using a community land trust model meaning that housing remains affordable in perpetuity and available to those in need. It also means greater involvement and ownership in decision making by those who live there.
 
+**Crofts Court progress**
+
 Our construction of our first development, Crofts Court (eight co-operatively managed apartments at affordable rents for people in the Dean Court area of West Oxford in Cumnor Parish), is now underway, but we are vulnerable to increasing bank interest rates that are part financing the scheme. We need social investors like you to take a stake in the scheme, support fairer and more sustainable housing in Oxfordshire whilst earning a return on your investment.
 
 We're really excited about our new tenants from the Vale of White Horse's Housing Register moving in by June 2023, but we need your help to access more affordable finance and successfully complete the homes.
 
+**Your chance to invest!**
+
 Our investment opportunity is now live on Ethex, which can be found here [http://www.ethex.org.uk/invest/OCLT](http://www.ethex.org.uk/invest/OCLT "http://www.ethex.org.uk/invest/OCLT").
+
+Please consider investing, as every share really helps! Also, please do tell your friends and network because this is about communities standing together with those less fortunate.
 
 **Your investment will:**
 
