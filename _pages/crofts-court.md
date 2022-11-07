@@ -20,6 +20,8 @@ Our approach is to provide sustainable and genuinely affordable housing using a 
 
 Our construction of our first development, Crofts Court (eight co-operatively managed apartments at affordable rents for people in the Dean Court area of West Oxford in Cumnor Parish), is now underway, but we are vulnerable to increasing bank interest rates that are part financing the scheme. We need social investors like you to take a stake in the scheme, support fairer and more sustainable housing in Oxfordshire whilst earning a return on your investment.
 
+![](/uploads/221019-straight-front-elevation.JPG)
+
 We're really excited about our new tenants from the Vale of White Horse's Housing Register moving in by June 2023, but we need your help to access more affordable finance and successfully complete the homes.
 
 **Your chance to invest!**
@@ -27,6 +29,8 @@ We're really excited about our new tenants from the Vale of White Horse's Housin
 Our investment opportunity is now live on Ethex, which can be found here [http://www.ethex.org.uk/invest/OCLT](http://www.ethex.org.uk/invest/OCLT "http://www.ethex.org.uk/invest/OCLT").
 
 Please consider investing, as every share really helps! Also, please do tell your friends and network because this is about communities standing together with those less fortunate.
+
+![](/uploads/front-page-share-offer.jpg)
 
 **Your investment will:**
 
