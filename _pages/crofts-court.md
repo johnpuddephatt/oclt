@@ -6,9 +6,9 @@ subtitle: Become a Community Investor and Bring New Affordable Homes to Oxfordsh
 ---
 **Our Community Share Offer launched on 2 November 2022.**
 
-WE NEED YOUR HELP AND INVESTMENT!
+WE NEED YOUR HELP AND INVESTMENT
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/xUMjnENGC5Q](https://youtu.be/IQ8C9cDT-Hk "https://youtu.be/IQ8C9cDT-Hk")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch more here](https://www.youtube.com/watch?v=IQ8C9cDT-Hk)
 
 **The problem we're addressing**
 
