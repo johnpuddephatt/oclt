@@ -62,5 +62,3 @@ Please consider investing, as every share really helps! Also, please do tell you
 [OCLT's Reserves Policy](https://drive.google.com/file/d/1uXl_ti3lwMq5d_I2P1N0r_beMaKJGNRf/view?usp=sharing)
 
 [OCLT's Privacy Policy](https://drive.google.com/file/d/1JVa1530u7_rDBGc3U3gH5z62ZqJvYKUp/view?usp=sharing)
-
-[**WATCH OUR APPEAL VIDEO HERE!**](https://www.youtube.com/watch?v=_3ZaFCrsR5E)
