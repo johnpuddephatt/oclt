@@ -8,6 +8,8 @@ subtitle: Become a Community Investor and Bring New Affordable Homes to Oxfordsh
 
 WE NEED YOUR HELP AND INVESTMENT!
 
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/xUMjnENGC5Q](https://youtu.be/IQ8C9cDT-Hk "https://youtu.be/IQ8C9cDT-Hk")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **The problem we're addressing**
 
 There is currently a housing crisis in Oxfordshire. The city is ranked the second least affordable city in Britain. Oxford's affordability ratio is 15.3, meaning that average house prices are 15.3 times that of average salaries. Amongst other factors this has been fuelled by over 900 houses in the city being second homes (nearly 3,000 in the county) alongside a surge in the number of holiday lets.
