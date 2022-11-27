@@ -3,6 +3,7 @@ layout: page
 title: Join us
 subtitle: Get involved in a movement creating community-led affordable homes
 permalink: "/join/index.html"
+published: false
 
 ---
 ## Become a member
