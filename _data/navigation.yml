@@ -7,9 +7,6 @@ footer_menu:
 header_menu:
 - page: pages/about.md
 - page: pages/news.md
-- page: pages/jobs.md
 - page: pages/projects.md
-- page: pages/join.md
 - page: pages/support-us.md
-- page: pages/faq.md
 - page: pages/contact.md
