@@ -52,6 +52,11 @@ hr {
   margin: $base-spacing 0;
 }
 
+blockquote {
+  padding-left: 1em;
+  border-left: 0.5rem solid $action-color;
+}
+
 
 .section-heading {
   font-size: modular-scale(3);
