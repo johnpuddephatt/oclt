@@ -10,10 +10,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 > Quote from supporter 1 goes here. Quote from supporter goes here. Quote from supporter goes here. Quote from supporter goes here. Quote from supporter goes here. Quote from supporter goes here.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/PQlzYJ-pp-g](https://www.youtube.com/embed/PQlzYJ-pp-g "https://www.youtube.com/embed/PQlzYJ-pp-g")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PQlzYJ-pp-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Supporter name 2
 
 > Quote from supporter 2 goes here. Quote from supporter goes here. Quote from supporter goes here. Quote from supporter goes here. Quote from supporter goes here. Quote from supporter goes here.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/cSXPj93ZJyI](https://www.youtube.com/embed/cSXPj93ZJyI "https://www.youtube.com/embed/cSXPj93ZJyI")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cSXPj93ZJyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
