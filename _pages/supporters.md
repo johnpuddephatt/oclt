@@ -1,19 +1,12 @@
 ---
 layout: page
 title: Supporters
-subtitle: Subtitle goes here
+subtitle: 'Messages from our supporters '
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Supporter name 1
+## Sophi
 
-> Quote from supporter 1 goes here. Quote from supporter goes here. Quote from supporter goes here. Quote from supporter goes here. Quote from supporter goes here. Quote from supporter goes here.
+> "I work 60 hours a week most weeks....I am currently on the Council's Housing List... I'm told I'm not a priority and that I should move to Swindon.... I can't do that because I care for my disabled grandmother... I saved up enough for a 10% deposit for a flat but was told that since I'm on minimum wage I wouldn't be able to borrow enough".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PQlzYJ-pp-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Supporter name 2
-
-> Quote from supporter 2 goes here. Quote from supporter goes here. Quote from supporter goes here. Quote from supporter goes here. Quote from supporter goes here. Quote from supporter goes here.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cSXPj93ZJyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
