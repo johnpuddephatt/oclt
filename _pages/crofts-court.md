@@ -8,7 +8,7 @@ subtitle: Become a Community Investor and Bring New Affordable Homes to Oxfordsh
 
 WE NEED YOUR HELP AND INVESTMENT
 
-[Watch more here](https://www.youtube.com/watch?v=IQ8C9cDT-Hk)
+Watch our short appeal video [here](https://youtu.be/IQ8C9cDT-Hk)
 
 **The problem we're addressing**
 
