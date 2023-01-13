@@ -28,6 +28,8 @@ Our construction of our first development, Crofts Court (eight co-operatively ma
 
 We're really excited about our new tenants from the Vale of White Horse's Housing Register moving in by June 2023, but we need your help to access more affordable finance and successfully complete the homes.
 
+[Find out more about our development at Crofts Court](https://www.oclt.org.uk/projects/crofts-court/).
+
 **Your chance to invest!**
 
 Our investment opportunity is now live on Ethex, which can be found here [http://www.ethex.org.uk/invest/OCLT](http://www.ethex.org.uk/invest/OCLT "http://www.ethex.org.uk/invest/OCLT").
