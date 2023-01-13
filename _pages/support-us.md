@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support us
+title: Join us
 subtitle: "...and be part of changing Oxfordshire's housing system"
 permalink: "/support-us/index.html"
 
