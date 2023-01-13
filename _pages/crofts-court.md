@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Share Offer
+title: Share Offer – Crofts Court
 subtitle: Become a Community Investor and Bring New Affordable Homes to Oxfordshire!
 
 ---
