@@ -10,7 +10,7 @@ tags: []
 
 Come and hear guest speakers and learn more about our community share offer, and what Aspire has achieved working with people affected by homelessness in Oxfordshire.
 
-This is a ticket only event, so to avoid disappointment please book here for free [Community Led Affordable Housing and Combating Homelessness in Oxfordshire Tickets, Wed 15 Feb 2023 at 18:00 | Eventbrite](https://us7.mailchimp.com/mctx/clicks?url=https%3A%2F%2Fwww.eventbrite.co.uk%2Fe%2Fcommunity-led-affordable-housing-and-combating-homelessness-in-oxfordshire-tickets-512999434117%3Faff%3Debdssbdestsearch&xid=a9d201b9d8&uid=19692607&iid=131909&pool=template_test&v=2&c=1674216037&h=d599b797234c2d26c9936d307f1ad90152c5188176b74702ddd0031778e529af)
+This is a ticket only event, so to avoid disappointment please book here for free [Community Led Affordable Housing and Combating Homelessness in Oxfordshire Tickets, Wed 15 Feb 2023 at 18:00 | Eventbrite](https://www.eventbrite.co.uk/manage/events/512999434117/details)
 
 1\. **Can't Stop, Won't Stop** - Come and learn more about Oxfordshire Community Land Trust's work - **community-led affordable housing** coming to Cumnor Parish and the rest of Oxfordshire and **WHY WE NEED YOUR HELP!**
 
