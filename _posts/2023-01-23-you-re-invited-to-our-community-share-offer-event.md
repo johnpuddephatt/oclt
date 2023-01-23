@@ -1,6 +1,7 @@
 ---
 layout: post
-title: You're invited to our Community Share Offer event!
+title: You're invited to our Community Share Offer event - Wednesday 15 February 6pm
+  to 8pm, Trinity College!
 image: "/uploads/conferences.jpg"
 tags: []
 
