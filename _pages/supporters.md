@@ -12,12 +12,12 @@ subtitle: 'Messages from our supporters '
 
 ## Rachel
 
-"...to prevent people from being homeless, that's massive. We need more places like that..... if that succeeded and that really worked, there would be more built..... There just needs to be more places for people, there shouldn't be homeless people, not in 2022."
+**"...to prevent people from being homeless, that's massive. We need more places like that..... if that succeeded and that really worked, there would be more built..... There just needs to be more places for people, there shouldn't be homeless people, not in 2022."**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/920xBxfGGzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Karen
 
-"I was evicted from my place about two years ago. I became homeless in Oxford.... When you're on the streets, you are lonely and you don't know many people to trust.... Everybody needs help with something, you know if you can just start with 8 and build it up... the waiting lists are very long"
+**"I was evicted from my place about two years ago. I became homeless in Oxford.... When you're on the streets, you are lonely and you don't know many people to trust.... Everybody needs help with something, you know if you can just start with 8 and build it up... the waiting lists are very long"**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tWVJh4t5Cjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
