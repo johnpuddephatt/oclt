@@ -29,7 +29,7 @@ For work specification see [here](https://drive.google.com/file/d/1VRlJde5PaMYDu
 
 Closing date - 8am 20 February 2023
 
-How to apply - send a cover letter and your CV to info@oclt.org.uk
+How to apply - send a cover letter and your CV to info@oclt.org.uk or to the same email address for any questions
 
 Interviews - 24 February and week commencing 27 February 2023
 
