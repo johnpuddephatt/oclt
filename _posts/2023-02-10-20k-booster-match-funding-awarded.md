@@ -13,7 +13,7 @@ The second bit of good news is that we have hit the 67% mark. That means we have
 
 But we still have £166,750 to go and still aiming to get there by February 28th.
 
-Watch this [60 second update video](https://www.youtube.com/watch?app=desktop&v=eiLIXVbE-4k) from OCLT Secretary and Director Fran Ryan. 
+Watch this 60 second update video from OCLT Secretary and Director Fran Ryan. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eiLIXVbE-4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
