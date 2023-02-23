@@ -39,3 +39,19 @@ _“I'm supporting OCLT because I want to end homelessness in Oxfordshire for go
 **"I was evicted from my place about two years ago. I became homeless in Oxford.... When you're on the streets, you are lonely and you don't know many people to trust.... Everybody needs help with something, you know if you can just start with 8 and build it up... the waiting lists are very long"**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tWVJh4t5Cjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## A highlight reel of supporter videos from Caroline Lucas MP, Andrew Bibby, Randi Berild and George Marshall
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y0Bb-sLC0eY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Larry Sanders
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OsrvhrKVdok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Chris Church
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Usdwcnxdycw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Some of the messages from our Trinity College Share Offer event
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2nfBnyTh6Q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
