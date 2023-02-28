@@ -6,7 +6,13 @@ subtitle: Become a Community Investor and Bring New Affordable Homes to Oxfordsh
 ---
 **Our Community Share Offer launched on 2 November 2022.**
 
-**UPDATE: As of 9 January 2023 we had raised 53% of our target, which puts us about on track to hit our minimum raise with the same amount of effort and support by 28 February 2023!!!**
+**UPDATE: Update Feb 28th 2023**
+
+OCLT is delighted that the Crofts Court Share Offer has raised just over of £500,000 to date and has met its minimum milestone. Thank you to everyone that has already invested. We've been overwhelmed by the response and the number of people who want to support our work and take a stake in our first development which brings community-owned permanently affordable homes to Oxfordshire.
+
+We've also been contacted by a number of people who still want to invest but haven't been able to so far.
+
+As noted as a possibility in the Crofts Court Business Plan, we have decided to extend the community shares deadline to 12 April 2023. This will allow any additional investment to help pay down even more of our construction loan and make Crofts Court more cost effective. It will also enable greater numbers of members to join and support our work going forward to help bring forward more sites. That way we can start to make a real difference in the local housing crisis.
 
 WE STILL NEED YOUR HELP AND INVESTMENT
 
@@ -24,7 +30,7 @@ Our approach is to provide sustainable and genuinely affordable housing using a 
 
 Our construction of our first development, Crofts Court (eight co-operatively managed apartments at affordable rents for people in the Dean Court area of West Oxford in Cumnor Parish), is now underway, but we are vulnerable to increasing bank interest rates that are part financing the scheme. We need social investors like you to take a stake in the scheme, support fairer and more sustainable housing in Oxfordshire whilst earning a return on your investment.
 
-![](/uploads/221019-straight-front-elevation.JPG)
+![](/uploads/img_2316.JPG)
 
 We're really excited about our new tenants from the Vale of White Horse's Housing Register moving in by June 2023, but we need your help to access more affordable finance and successfully complete the homes.
 
