@@ -1,5 +1,9 @@
 ---
 people:
+- name: Hannah Jones
+  role: Freelance Coordinator
+  image: ''
+  description: ''
 - name: Professor Sue Brownill
   role: Director
   image: "/uploads/people/suebrownill.jpg"
