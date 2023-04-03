@@ -1,9 +1,5 @@
 ---
 people:
-- name: Hannah Jones
-  role: Freelance Coordinator
-  image: ''
-  description: ''
 - name: Professor Sue Brownill
   role: Director
   image: "/uploads/people/suebrownill.jpg"
@@ -81,3 +77,7 @@ people:
     solicitor specialising in planning and public law for a major international law
     firm. Mark has community organising experience in planning, housing, environmental
     and economic issues. '
+- name: Hannah Jones
+  role: Freelance Coordinator
+  image: ''
+  description: ''
