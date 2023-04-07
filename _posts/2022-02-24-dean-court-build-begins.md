@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Crofts Court Build Begins
+date: 2022-02-24 00:00:00 Z
+layout: post
 image: "/uploads/oclt-icons_8.jpg"
-tags: []
-
 ---
+
 We are so pleased to be able to tell you that the **Crofts Court build is about to start**!
 
 We have **signed the funding agreements** with the Vale of White Horse District Council, secured private finance, and entered into a Building Contract to construct eight apartments for affordable rent in Dean Court, Botley. Hooray!

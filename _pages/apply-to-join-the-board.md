@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Join the board
+permalink: "/apply-to-join-the-board/index.html"
+layout: page
 subtitle: Applications now open for a range of roles on the OCLT board
-permalink: /apply-to-join-the-board/index.html
 ---
 
 <div class="pullout-box">  

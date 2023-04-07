@@ -1,11 +1,10 @@
 ---
-layout: post
 title: January Update
+date: 2019-01-25 14:53:20 Z
+layout: post
 image: "/uploads/20171005_202215-1.jpg"
-tags: []
-date: 2019-01-25 14:53:20 +0000
-
 ---
+
 Belated greetings for 2019. It’s been a long time since we were in touch but we think the news today will more than make up for the long period of silence.
 
 ### Dean Court Update

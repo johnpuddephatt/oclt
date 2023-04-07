@@ -1,10 +1,10 @@
 ---
-layout: post
 title: OCLT secures the services of Diane Montrose
+date: 2022-08-24 00:00:00 Z
+layout: post
 image: "/uploads/img_0756.JPG"
-tags: []
-
 ---
+
 We're delighted to announce that Diane Montrose of DiddyRox Marketing has agreed to provide Social Media consultancy services to OCLT.
 
 Diane has a number of local Oxfordshire clients, an extensive network of media contacts and brings invaluable skills across a variety of Social Media platforms.

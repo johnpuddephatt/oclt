@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Share Offer minimum milestone reached!
+date: 2023-03-03 00:00:00 Z
+layout: post
 image: "/uploads/front-page-share-offer.jpg"
-tags: []
-
 ---
+
 **An incredible effort**
 
 OCLT is delighted that the Crofts Court Share Offer has raised just over of £500,000 to date and has met its minimum milestone. Thank you to everyone that has already invested. We’ve been overwhelmed by the response and the number of people who want to support our work and take a stake in our first development which brings community-owned permanently affordable homes to Oxfordshire.

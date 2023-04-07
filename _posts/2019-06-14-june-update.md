@@ -1,10 +1,10 @@
 ---
-layout: post
 title: June Update
+date: 2019-06-14 00:00:00 Z
+layout: post
 image: "/uploads/wolvercote_image_2.jpg"
-tags: []
-
 ---
+
 **First new build community-led housing development**
 
 Recently OCLT submitted plans to Vale of White Horse DC for eight flats on a small site in Dean Court Botley. Earlier this year OCLT finally bought the site after a long wrangle with the Charity Commission. OCLT received sizable donations from two local philanthropists, enough to employ a project manager (John Bloxsom).

@@ -1,10 +1,10 @@
 ---
-layout: page
 title: Jobs
-subtitle: ''
 permalink: "/jobs/index.html"
-
+layout: page
+subtitle: ''
 ---
+
 ### **We're not currently hiring**
 
 #### 

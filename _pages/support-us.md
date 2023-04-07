@@ -1,10 +1,10 @@
 ---
-layout: page
 title: Join us
-subtitle: "...and be part of changing Oxfordshire's housing system"
 permalink: "/support-us/index.html"
-
+layout: page
+subtitle: "...and be part of changing Oxfordshire's housing system"
 ---
+
 ## Become a member
 
 As a Community Benefit Society, we are proud to be owned by our members. We are currently owned by a group of over 100 people from across the county of Oxfordshire.

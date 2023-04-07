@@ -1,126 +1,84 @@
+---
 title: Oxfordshire <br/>Community <br/>Land Trust
-
-gcaptcha: "6LdNn1AUAAAAAA-VLy7CCzufqQi7EhPyoWQwcHIM"
-cloudinary: letsdance
-
-# # # Where things are
-source:          .
-destination:     ./_site
-plugins_dir:     _plugins
-layouts_dir:     _layouts
-data_dir:        _data
-includes_dir:    _includes
+timezone: UTC
 collections:
-  posts:
-    output: true
-  pages:
-    output: true
-    permalink: /:title/index.html
-  projects:
-    output: true
-    permalink: /projects/:title/index.html
   faqs:
+    title: Faqs
     output: false
-
-
-
-
-# Defaults
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "pages" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "page"
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "projects" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "project"
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "post"
-
-# Handling Reading
-safe:                 false
+  pages:
+    title: Pages
+    output: true
+    permalink: "/:title/index.html"
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+    permalink: "/projects/:title/index.html"
+  uploads:
+    title: Uploads
+    output: true
+gcaptcha: 6LdNn1AUAAAAAA-VLy7CCzufqQi7EhPyoWQwcHIM
+cloudinary: letsdance
+source: "."
+destination: "./_site"
+plugins_dir: _plugins
+layouts_dir: _layouts
+data_dir: _data
+includes_dir: _includes
+safe: false
 include:
-  - .htaccess
-  - _pages
+- ".htaccess"
+- _pages
 exclude:
-  - node_modules/
-  - package-lock.json
-  - package.json
-  - webpack.mix.js
-  - yarn.lock
-  - readme.md
-  - shipitfile.js
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-
-keep_files:           [".git", ".svn"]
-encoding:             "utf-8"
-markdown_ext:         "markdown,mkdown,mkdn,mkd,md"
+- node_modules/
+- package-lock.json
+- package.json
+- webpack.mix.js
+- yarn.lock
+- readme.md
+- shipitfile.js
+- Gemfile
+- Gemfile.lock
+- vendor
+keep_files:
+- ".git"
+- ".svn"
+encoding: utf-8
+markdown_ext: markdown,mkdown,mkdn,mkd,md
 strict_front_matter: false
-
-
-# Plugins
 whitelist: []
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-
-
-# Conversion
-markdown:    kramdown
+- jekyll-feed
+- jekyll-seo-tag
+markdown: kramdown
 highlighter: rouge
-lsi:         false
+lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
-# Serving
-detach:  false
-port:    4000
-host:    127.0.0.1
-baseurl: "/" # does not include hostname
+detach: false
+port: 4000
+host: 127.0.0.1
+baseurl: "/"
 show_dir_listing: false
-
-# Outputting
-permalink:     date
-paginate_path: /page:num
-timezone:      null
-
+permalink: date
+paginate_path: "/page:num"
 local: false
-quiet:    false
-verbose:  true
-defaults: []
-
+quiet: false
+verbose: true
 liquid:
   error_mode: warn
-
-# Markdown Processors
 rdiscount:
   extensions: []
-
 redcarpet:
   extensions: []
-
 kramdown:
-  auto_ids:       true
-  entity_output:  as_char
-  toc_levels:     1..6
-  smart_quotes:   lsquo,rsquo,ldquo,rdquo
-  input:          GFM
-  hard_wrap:      false
-  footnote_nr:    1
-  show_warnings:  false
-
-
-
+  auto_ids: true
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  hard_wrap: false
+  footnote_nr: 1
+  show_warnings: false

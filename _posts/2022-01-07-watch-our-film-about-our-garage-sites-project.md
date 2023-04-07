@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Watch our film about our garage sites project
+date: 2022-01-07 00:00:00 Z
+layout: post
 image: "/uploads/screen-shot-2022-01-07-at-12-21-01.png"
-tags: []
-
 ---
+
 Oxfordshire Community Land Trust, Transition by Design and Oxford City Council are working together to identify brownfield sites – like disused council garages – that could be reclaimed for new homes.
 
 The partnership project was funded by the [Housing Advisers Programme](https://www.local.gov.uk/housingadvisersprogramme) in early 2021. The project will develop a strategy for reclaiming underused land for affordable and sustainable housing.

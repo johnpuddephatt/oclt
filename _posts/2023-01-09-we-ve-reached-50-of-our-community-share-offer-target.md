@@ -1,10 +1,10 @@
 ---
-layout: post
 title: We've reached 50% of our Community Share Offer target!
+date: 2023-01-09 00:00:00 Z
+layout: post
 image: "/uploads/half-time.png"
-tags: []
-
 ---
+
 With your help we've managed to hit our halfway mark total of £250,000 pretty much right on time by the end of December 2022.
 
 It's taken a remarkable amount of work to speak to every and any sympathetic organisation, appear on local news and radio, flyer drop at relevant events and encourage all of our friends, family and supporters to spread the word and invest if they are able to.

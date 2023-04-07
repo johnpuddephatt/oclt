@@ -1,10 +1,10 @@
 ---
-layout: page
 title: Data Privacy
-subtitle: Data Privacy Policy
 permalink: "/data-privacy/index.html"
-
+layout: page
+subtitle: Data Privacy Policy
 ---
+
 **INTRODUCTION**
 
 Oxfordshire Community Land Trust (OCLT) (“we”) promises to respect any personal data that you share with us, and to keep it safe. We aim to be clear when we collect your data and not do anything you wouldn’t reasonably expect.

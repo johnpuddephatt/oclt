@@ -1,10 +1,10 @@
 ---
-layout: post
 title: We are recruiting!
+date: 2022-04-04 00:00:00 Z
+layout: post
 image: "/uploads/bbl-flyer-rough-draft-1.jpg"
-tags: []
-
 ---
+
 Oxfordshire Community Land Trust (OCLT) is at an **exciting stage of development** as we are about to start construction of [Dean Court](https://www.oclt.org.uk/projects/dean-court-oxford/), our first development of 8 low carbon homes for affordable rent in Botley.
 
 We are looking for an experienced **freelance consultant** to come on board to support us during this phase. You will project manage the development of the Dean Court housing project and support the creation of the tenant selection process and unique tenant management cooperative. You will also work with other consultants to raise funds through a community share offer.

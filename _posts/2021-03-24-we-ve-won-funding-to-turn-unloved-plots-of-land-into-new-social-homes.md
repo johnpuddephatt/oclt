@@ -1,10 +1,10 @@
 ---
-layout: post
 title: We’ve won funding to turn unloved plots of land into new social homes
+date: 2021-03-24 00:00:00 Z
+layout: post
 image: "/uploads/screen-shot-2021-03-17-at-15-58-10-768x431.png"
-tags: []
-
 ---
+
 Last month we got the exciting news that Oxford City Council had successfully applied to the Housing Advisors Program (HAP) for £19,994 to work with us and [Transition By Design](https://transitionbydesign.org/) to develop a blueprint for reclaiming disused land for innovative, sustainable council housing.
 
 This project will be building on our work on [Champion Way](https://www.oxford.gov.uk/news/article/1241/city_council_to_provide_land_to_pilot_community-led_housing_project_in_oxford), a project in Littlemore in East Oxford which is looking to transform an unused garage site into five new social homes and received planning permission in November.

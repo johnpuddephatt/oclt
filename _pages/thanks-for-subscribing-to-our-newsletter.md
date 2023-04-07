@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Thanks for subscribing to our newsletter
-subtitle: ""
-permalink: /thank-you/index.html
+permalink: "/thank-you/index.html"
+layout: page
+subtitle: ''
 ---
 
 You're now going to be really clued up on what we're doing in Oxfordshire but we have one more thing to ask of you.

@@ -1,10 +1,10 @@
 ---
-layout: post
 title: "£20k Booster Match Funding awarded!!"
+date: 2023-02-10 00:00:00 Z
+layout: post
 image: "/uploads/front-page-share-offer.jpg"
-tags: []
-
 ---
+
 **OCLT awarded £20,000 from Community Shares Booster Fund**
 
 Two bits of good news today. OCLT has just heard that we have been awarded £20,000 from the [Booster Fund](https://oclt.us7.list-manage.com/track/click?u=705f7de83867afe997c4f8eba&id=a2420bb0f1&e=8607cab1ab) towards the Crofts Court Community Share Offer. This is great news and comes at a good moment.

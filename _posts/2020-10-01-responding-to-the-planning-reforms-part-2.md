@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Responding to the planning reforms (Part 2)
+date: 2020-10-01 00:00:00 Z
+layout: post
 image: "/uploads/sue-brownill.jpg"
-tags: []
-
 ---
+
 You may have read about the dramatic proposal for planning reforms in the news recently. But what do they mean for community-led housing and democratic planning?
 
 One our of Directors, Professor Sue Brownill joined other academics to respond to the proposals and counter misconceptions driving the Government’s planning reform agenda, in a report "[The Wrong Answers to the Wrong Questions](https://www.tcpa.org.uk/the-wrong-answers-to-the-wrong-questions)".

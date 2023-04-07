@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Successful AGM
+date: 2022-09-26 00:00:00 Z
+layout: post
 image: "/uploads/letterhead-logo.jpg"
-tags: []
-
 ---
+
 On Monday 19 September we held our AGM for the year 2021/22 at Dean Court Community Centre.
 
 Despite it being a bank holiday and the Queen's funeral taking place earlier in the day, we still had a very good turnout.

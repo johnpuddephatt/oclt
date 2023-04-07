@@ -1,13 +1,14 @@
 ---
-layout: post
 title: 'Next project: a new model for empty garage sites in Oxford'
-image: "/uploads/Annotation 2019-11-12 152038.png"
+date: 2019-11-14 00:00:00 Z
 tags:
 - champions ways
 - " littlemore"
 - empty garages
-
+layout: post
+image: "/uploads/Annotation 2019-11-12 152038.png"
 ---
+
 While OCLT awaits the final planning permission to proceed with Dean Court we are delighted to announce another project which got formal approval from Oxford City Council's Cabinet last night.
 
 Earlier this year local architecture practice [Transition by Design](http://www.transitionbydesign.org) (TbD), who are national leaders in talking about and researching issues around citizen-led housing, came to OCLT with a proposal.

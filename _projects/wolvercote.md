@@ -1,11 +1,11 @@
 ---
 title: Wolvercote Paper Mill
-date: 2016-08-23T09:30:33.000+00:00
+date: 2016-08-23 09:30:33 Z
 excerpt: A previous bid to buy land from Oxford University for a 260-home eco-village
   in Wolvercote.
 layout: project
-
 ---
+
 <div class="pullout-box"> <h2>Key information</h2> <ul> <li>Site Location: Wolvercote, North Oxford</li> <li>Status: Project unsuccessful - Sadly we didn't win the bid for the Wolvercote Paper Mill project but do read on to see what the City is missing out on...</li> <li>Homes: 260</li> <li>Mechanism: Cohousing, CLT, Tenant Management Co-operatives</li> </ul> </div>
 
 Taking inspiration from Amsterdam, Freiburg, and other innovative developments in the UK, Homes for Oxford offered a vision worthy of the city of dreaming spires: a new neighbourhood that would have been beautiful, equitable and sustainable.

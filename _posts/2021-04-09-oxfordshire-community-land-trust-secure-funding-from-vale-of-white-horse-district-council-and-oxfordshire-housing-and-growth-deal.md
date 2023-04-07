@@ -1,11 +1,11 @@
 ---
-layout: post
 title: Oxfordshire Community Land Trust secure funding from Vale of White Horse District  Council
   and Oxfordshire Housing and Growth Deal
+date: 2021-04-09 00:00:00 Z
+layout: post
 image: "/uploads/aprilpr_image.png"
-tags: []
-
 ---
+
 OCLT is delighted to announce success in securing funding for eight affordable apartments in Dean Court from the Vale of White Horse District Council and the Oxfordshire Growth Board.
 
 <br>

@@ -1,10 +1,12 @@
 ---
 title: Meet our new Project Manager, John Bloxsom
+date: 2018-02-15 00:00:00 Z
+tags:
+- news
 image: "/uploads/john_bloxsom.jpg"
-tags: news
 layout: post
-
 ---
+
 We are pleased to announce the appointment of John Bloxsom to work as a part-time Project Officer with OCLT for at least the next six months. This has been possible due to generous donations by two of our benefactors. Thanks so much to both of them.
 
 John will work on getting the Dean Court project back on track. He will also be working with our collaborators Community First Oxfordshire to pull together the many community-led housing strands across the county and beyond to form a community-led housing network with a view to securing funding to set up an office with expert staff to drive further development of this sector.

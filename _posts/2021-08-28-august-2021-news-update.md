@@ -1,8 +1,8 @@
 ---
-layout: post
 title: August 2021 News Update
+date: 2021-08-28 00:00:00 Z
+layout: post
 image: "/uploads/2aa93cad-ac8d-462c-90eb-c540a4f7f894.png"
-tags: []
 ---
 
 **Moorings Research**

@@ -1,11 +1,11 @@
 ---
-layout: post
 title: Vale of White Horse and South Oxfordshire showing the way for Community-Led
   Housing
+date: 2022-12-15 00:00:00 Z
+layout: post
 image: "/uploads/vale.webp"
-tags: []
-
 ---
+
 Vale of White Horse and South Oxfordshire District Council assessment of community-led housing:  
   
 **_“A community led approach can help to build an understanding and shared support for why housing is needed in an area and how best to achieve it. This can increase the available affordable housing and generate a better understanding of the factors that contribute to people feeling that somewhere is a good place to live. It can bring communities together who share a common interest, for example communal housing for older people. It can also promote newer approaches to housebuilding, improved design and architectural features, building more carbon efficient homes, and include communal facilities, and can strengthen connections between residents, foster inter-generational links, and help to combat isolation.”_**  

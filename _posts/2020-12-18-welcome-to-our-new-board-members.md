@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Welcome to our new board members!
+date: 2020-12-18 00:00:00 Z
+layout: post
 image: "/uploads/untitled-design.png"
-tags: []
-
 ---
+
 OCLT is delighted to welcome two new members to the board of Directors for 2020.
 
 Piotr Smok joined us at the September AGM and Miriam Mutizwa was co-opted in November.

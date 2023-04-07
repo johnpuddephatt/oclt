@@ -1,11 +1,11 @@
 ---
-layout: project
 title: Champion Way
-date: 2021-03-24 10:25:00 +0000
+date: 2021-03-24 10:25:00 Z
+layout: project
 excerpt: This is an innovative project unlocking disused garages to provide affordable
   homes
-
 ---
+
 <div class="pullout-box">
 
 <h2>Key information</h2> <ul> <li>Site Location: Littlemore, Oxford</li> <li>Grid Reference: 51°43′25″N , 001°13′05″W"W</li> <li>Status: Planning</li> <li>Homes: 4</li> <li>Tenure: Rent</li> <li>Mechanism: Community Land Trust</li> </ul> </div>

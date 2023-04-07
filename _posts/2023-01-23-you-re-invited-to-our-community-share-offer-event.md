@@ -1,11 +1,11 @@
 ---
-layout: post
 title: You're invited to our Community Share Offer event - Wednesday 15 February 6pm
   to 8pm, Trinity College!
+date: 2023-01-23 00:00:00 Z
+layout: post
 image: "/uploads/conferences.jpg"
-tags: []
-
 ---
+
 **COMMUNITY SHARE OFFER EVENT WEDNESDAY 15 FEBRUARY 6PM TO 8PM AT TRINITY COLLEGE, OXFORD**
 
 Come and hear guest speakers and learn more about our community share offer, and what Aspire has achieved working with people affected by homelessness in Oxfordshire.

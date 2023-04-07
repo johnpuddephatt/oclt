@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Proudly Supported by
-subtitle: ""
+permalink: "/supported-by/index.html"
 published: false
-permalink: /supported-by/index.html
+layout: page
+subtitle: ''
 ---
+

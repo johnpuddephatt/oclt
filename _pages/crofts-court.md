@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Share Offer – Crofts Court
+layout: page
 subtitle: Become a Community Investor and Bring New Affordable Homes to Oxfordshire!
-
 ---
+
 **Our Community Share Offer launched on 2 November 2022.**
 
 **UPDATE: Update Feb 28th 2023**

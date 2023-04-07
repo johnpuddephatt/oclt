@@ -1,10 +1,10 @@
 ---
-layout: post
 title: 'Want to live in Crofts Court? '
+date: 2022-08-15 00:00:00 Z
+layout: post
 image: "/uploads/aprilpr_image.png"
-tags: []
-
 ---
+
 Oxfordshire Community Land Trust is delighted to tell you that in May this year building started on its development of apartments now called Crofts Court. They are due to be ready for the first residents in June 2023.  There will be 3 x two bed (3 person) flats, 3 x 1 bed (2 person) flats and 2 x1 bed (1 person) flats.
 
 The apartments will be rented at no more than the Local Housing Allowance and if you’re interested and you can meet the following requirements then watch out on the Vale of White Horse Homechoice website for when the project is advertised.  Meanwhile please get in touch and let us know of your interest.

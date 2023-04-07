@@ -1,10 +1,10 @@
 ---
-layout: post
 title: OCLT becomes a Registered Provider of Affordable Housing
+date: 2021-11-23 00:00:00 Z
+layout: post
 image: "/uploads/7.png"
-tags: []
-
 ---
+
 ##### **Exciting news... Oxfordshire Community Land Trust awarded Registered Provider status!**
 
 ##### **But now we need your help more than ever...**

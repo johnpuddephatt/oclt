@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Tribute to Tony Crofts
+date: 2021-03-29 00:00:00 Z
+layout: post
 image: "/uploads/tony-photo.jpeg"
-tags: []
-
 ---
+
 **Tony Crofts, a founder member of OCLT,** died in Bristol at the start of February. Fran has written the following tribute which was published on the [NCLT website](). 
 
   

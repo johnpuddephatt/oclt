@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Could community-owned land help us feed Oxfordshire?
+date: 2020-12-01 00:00:00 Z
+layout: post
 image: "/uploads/land-event-1.png"
-tags: []
-
 ---
+
 **OCLT are organising a webinar exploring access and ownership of land for food production hosted by Oxfordshire Community Land Trust and Good Food Oxford**
 
 _9 December 2020 @ 19:00 – 20:30 on Zoom_

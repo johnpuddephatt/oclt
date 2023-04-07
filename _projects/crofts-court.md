@@ -1,10 +1,10 @@
 ---
-layout: project
 title: Crofts Court
-date: 2022-06-13T16:00:00.000+00:00
+date: 2022-06-13 16:00:00 Z
+layout: project
 excerpt: Developing eight affordable co-operative apartments for people in West Oxford.
-
 ---
+
 <div class="pullout-box">
 
 <h2>Key information</h2> <ul> <li>Site Location: Dean Court, West Oxford</li> <li>Grid Reference: 51°44'57.1"N 1°18'44.5"W</li> <li>Status: Planning</li> <li>Homes: 8</li> <li>Tenure: Rent</li> <li>Mechanism: Tenant Management Co-operative and Community Land Trust</li> </ul> </div>

@@ -1,10 +1,10 @@
 ---
-layout: post
 title: OCLT's Yearly Round Up
+date: 2020-09-15 00:00:00 Z
+layout: post
 image: "/uploads/2020-goals-1024x512.jpg"
-tags: []
-
 ---
+
 OCLT held its Annual General Meeting on the 14th of September 2020, for the first time online, due to the Covid-19 pandemic. 
 
 ![](/uploads/annual-report-infographic-19_20-1.png)

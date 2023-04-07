@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Join us for our AGM on Monday 19 September 7pm to 8pm
+date: 2022-09-13 00:00:00 Z
+layout: post
 image: "/uploads/letterhead-logo.jpg"
-tags: []
-
 ---
+
 Join us at 7pm to 8pm in the **Orange Room at the Dean Court Community Centre, Pinnocks Way, Oxford, OX2 9DG** for our 2022 Annual General Meeting.
 
 **Agenda:**

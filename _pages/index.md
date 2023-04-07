@@ -1,7 +1,7 @@
 ---
-layout: home
-permalink: "/"
 title: Home
+permalink: "/"
+layout: home
 heading: We need your help and investment.
 subheading: Our Crofts Court Community Share Offer has now reached its minimum goal
   to raise £500,000.  An outstanding result. And with two days to spare. The Board
@@ -14,5 +14,5 @@ button:
 button2:
   text: ''
   link: ''
-
 ---
+

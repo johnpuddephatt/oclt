@@ -1,11 +1,11 @@
 ---
 title: Irving Building
-date: 2017-08-23T09:30:33.000+00:00
+date: 2017-08-23 09:30:33 Z
 excerpt: A previous bid to develop a former school into 26 zero-carbon community-led
   homes.
 layout: project
-
 ---
+
 <div class="pullout-box"> <h2>Key information</h2> <ul> <li>Site Location: Hertford Street, East Oxford</li><li>Status: Project unsuccessful - Sadly we didn't win the bid but do read on to see what the City is missing out on...</li> <li>Homes: 26</li> <li>Mechanism: Cohousing, CLT, Tenant Management Co-operatives</li> </ul> </div>
 
 ![](/uploads/irving_image_1.jpg)

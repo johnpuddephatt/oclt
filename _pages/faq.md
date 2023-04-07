@@ -1,11 +1,11 @@
 ---
-layout: page
 title: FAQ
-subtitle: Frequently Asked Questions
 permalink: "/faqs/index.html"
 published: false
-
+layout: page
+subtitle: Frequently Asked Questions
 ---
+
 ### How do community land trusts work?
 
 A CLT organisation is set up by a local group of people who get together to do something to ensure there are more affordable assets for that community. These could be for housing, workspace, food production or leisure.

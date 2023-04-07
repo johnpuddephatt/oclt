@@ -1,8 +1,8 @@
 ---
+title: 'Vacancy: Treasurer (voluntary)'
+permalink: "/jobs/treasurer/index.html"
 layout: page
-title: "Vacancy: Treasurer (voluntary)"
-subtitle: ""
-permalink: /jobs/treasurer/index.html
+subtitle: ''
 ---
 
 ### Interested in developing a community-led model of affordable housing provision?

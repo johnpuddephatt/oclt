@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Christmas is coming......
+date: 2022-12-08 00:00:00 Z
+layout: post
 image: "/uploads/unnamed.png"
-tags: []
-
 ---
+
 A message from Fran Ryan our Board and Founding Member…….  
    
 Not quite the traditional Christmas image…..  

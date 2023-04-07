@@ -1,10 +1,10 @@
 ---
-layout: post
 title: OCLT hands over Crofts Court to contractor for site start
+date: 2022-06-06 00:00:00 Z
+layout: post
 image: "/uploads/directors-shout-out-by-sign-oxford-clt-april22-5407.jpg"
-tags: []
-
 ---
+
 OCLT Board Members recently visited its Crofts Court site as Lifebuild Solutions Ltd, its appointed contractor, mobilises its equipment and site team for the beginning of the construction phase.
 
 The construction phase for the 8 affordable rent apartments is likely to be complete by the end of May 2023. However, we will be busy in the meantime setting up the co-operative that will run the building, and training and selecting those future tenants who will join that co-operative.

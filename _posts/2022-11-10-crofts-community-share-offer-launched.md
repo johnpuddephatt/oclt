@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Crofts Community Share Offer launched
+date: 2022-11-10 00:00:00 Z
+layout: post
 image: "/uploads/oclt-board.png"
-tags: []
-
 ---
+
 **Our Community Share Offer was launched on 2 November 2022.**
 
 WE NEED YOUR HELP AND INVESTMENT!

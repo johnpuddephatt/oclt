@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Invitation to 2021 AGM
+date: 2021-09-04 00:00:00 Z
+layout: post
 image: "/uploads/voting.jpeg"
-tags: []
 ---
 
 **You're invited to our AGM**

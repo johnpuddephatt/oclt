@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Save the Date!!
+date: 2023-01-10 00:00:00 Z
+layout: post
 image: "/uploads/conferences.jpg"
-tags: []
-
 ---
+
 **SAVE THE DATE!**
 
 We're arranging a special event with Aspire, which does such great work to tackle homelessness in the county. We'll be having guest speakers, updates on both organisations' work, a deep dive into our community share offer, and of course the chance to network whilst enjoying refreshments.

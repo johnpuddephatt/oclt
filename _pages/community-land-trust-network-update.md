@@ -1,11 +1,11 @@
 ---
-layout: page
 title: Community Land Trust Network Update
+published: false
+layout: page
 subtitle: The Community Land Trust Network has just published its latest Report ‘State
   of the Community Land Trust Sector 2023’.
-published: false
-
 ---
+
 The report was launched by the Secretary of State Michael Gove MP in Parliament, who said "What could be a better example than a neighbourhood taking control, then being in charge of its destiny and making sure that the homes in which people live have the heart and soul of that community embedded in the bricks and mortar? That’s why I’m a supporter of CLTs."  
   
 The report finds that industry partnerships could help communities to build at least 278,000 homes through replicable project types.

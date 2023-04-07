@@ -1,8 +1,8 @@
 ---
-layout: post
 title: July 2021 News Update
+date: 2021-08-02 00:00:00 Z
+layout: post
 image: "/uploads/oclt_logo.png"
-tags: []
 ---
 
 Community led housing is already having a hugely positive impact on communities and lives across the country. It has proved that another way is possible and that there is hope.

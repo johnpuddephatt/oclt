@@ -1,8 +1,8 @@
 ---
-layout: page
 title: OCLT's Annual Reports
-subtitle: ""
-permalink: /annual-reports/index.html
+permalink: "/annual-reports/index.html"
+layout: page
+subtitle: ''
 ---
 
 Read our annual reports from the last few years

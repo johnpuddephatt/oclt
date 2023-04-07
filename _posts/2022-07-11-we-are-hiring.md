@@ -1,10 +1,10 @@
 ---
-layout: post
 title: We are hiring!
+date: 2022-07-11 00:00:00 Z
+layout: post
 image: "/uploads/bbl-flyer-rough-draft-1.jpg"
-tags: []
-
 ---
+
 **Social Media Part-Time – remote and consultant position**
 
 Oxfordshire Community Land Trust (OCLT) needs YOU now to help run the social media side of a Community Share Offer to be launched in October 2022. The exact workload is to be agreed, which will depend on the efficiency/ experience of the appointed person, but we estimate that an average of 7 hours per week will be required; how this is allotted over a week will be down to agreement between the parties.

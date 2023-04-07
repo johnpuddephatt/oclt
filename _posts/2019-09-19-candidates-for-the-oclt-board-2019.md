@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Candidates for the OCLT board 2019
+date: 2019-09-19 00:00:00 Z
+layout: post
 image: "/uploads/Meetcandidates2019.png"
-tags: []
-
 ---
+
 We have three terrific potential candidates for election to the board this year. At the AGM members vote on each candidate as presented. If you would like to cast a proxy vote please [contact us](https://www.oclt.org.uk/contact/)
 
 ![](/uploads/2019 potential directors-1.png)

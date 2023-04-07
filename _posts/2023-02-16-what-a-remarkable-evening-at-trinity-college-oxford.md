@@ -1,10 +1,10 @@
 ---
-layout: post
 title: What a remarkable evening at Trinity College, Oxford
+date: 2023-02-16 00:00:00 Z
+layout: post
 image: "/uploads/jan-photo.JPG"
-tags: []
-
 ---
+
 Over 75 people packed into the Garden Room at Trinity College on Wednesday 15 February, to hear about our work, and Aspire's work to combat homelessness.  
   
 The evening was kicked off by our Chair, Bob Colenutt, thanking our generous sponsors Guy Simmons of Fine & Country, Ben Procter of Oxford Property Consulting and Jon Lester of St James Place.  

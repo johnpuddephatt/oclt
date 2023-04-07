@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Planning application submitted for Dean Court
-image: "/uploads/Untitled-1.png"
+date: 2019-02-21 14:05:05 Z
 tags:
 - community land trust
 - dean court
@@ -9,9 +8,10 @@ tags:
 - community-led housing
 - collaborative housing
 - oxfordshire community land trust
-date: 2019-02-21 14:05:05 +0000
-
+layout: post
+image: "/uploads/Untitled-1.png"
 ---
+
 We’re delighted to say we have now submitted our planning application for the new flats in Dean Court (Reference Number P19/V0424/FUL).
 
 Details can be found at:  

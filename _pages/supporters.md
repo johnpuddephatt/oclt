@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Supporters
+layout: page
 subtitle: 'Messages from our supporters '
-
 ---
+
 ## Bernie Sanders, US Senator
 
 _“When Oxfordshire CLT was set up back in the noughties, it was partly inspired by Burlington CLT in Vermont which I helped to finance when I was mayor in the 80s. Burlington has now become part of Champlain CLT and this is the biggest CLT in US._

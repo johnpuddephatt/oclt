@@ -1,10 +1,10 @@
 ---
-layout: post
 title: We're hiring!
+date: 2023-01-30 00:00:00 Z
+layout: post
 image: "/uploads/breaking-ground-better-pic-oxford-clt-april22-5312.jpg"
-tags: []
-
 ---
+
 #### **Want a new challenge?  Want to help us deliver more community led affordable housing in Oxfordshire?**
 
 ![](/uploads/oclt-board.png)

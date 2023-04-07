@@ -1,10 +1,10 @@
 ---
-layout: post
 title: YOUR CHANCE TO WIN SCRUMPTIOUS CHOCOLATES
+date: 2022-10-26 00:00:00 Z
+layout: post
 image: "/uploads/221019-straight-front-elevation.JPG"
-tags: []
-
 ---
+
 **COMMUNITY SHARE OFFER COMING SOON!!   
   
 HELP INCREASE OUR SOCIAL MEDIA FOLLOWERS AND HAVE A CHANCE TO WIN SOME SCRUMPTIOUS CHOCOLATES!!**

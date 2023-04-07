@@ -1,10 +1,10 @@
 ---
-layout: post
 title: March 2021 News Update
+date: 2021-03-15 00:00:00 Z
+layout: post
 image: "/uploads/Untitled.png"
-tags: []
-
 ---
+
 **First some great news**  
   
 OCLT is thrilled to announce we have just won funding of £304K from Vale of White Horse District DC. Read more [here](https://www.whitehorsedc.gov.uk/uncategorised/vale-of-white-horse-to-give-344000-towards-building-affordable-homes-in-botley/). This means we can start building the Dean Court homes.  

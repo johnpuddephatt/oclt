@@ -1,9 +1,12 @@
 ---
 title: An invitation to our 2018 Annual General Meeting
-image: /uploads/fields.png
-tags: news
+date: 2018-05-01 00:00:00 Z
+tags:
+- news
+image: "/uploads/fields.png"
 layout: post
 ---
+
 Our 2018 Annual General Meeting will be held at Makespace Oxford (Aristotle Lane, Jericho) on 18th June 2018.
 
 ### Want to become a Director of OCLT?

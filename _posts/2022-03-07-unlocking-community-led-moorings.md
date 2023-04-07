@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Unlocking Community-led Moorings
+date: 2022-03-07 00:00:00 Z
+layout: post
 image: "/uploads/isis_lock-_oxford_-_geograph-org-uk_-_320212.jpg"
-tags: []
-
 ---
+
 Last year, with support from OCLT, the [Collaborative Housing Hub](https://collaborativehousing.org.uk/) commissioned a report into the idea of community-led moorings in Oxford.   
   
 In an unaffordable housing market, secure and well-managed **moorings can provide an affordable housing solution for some**.  

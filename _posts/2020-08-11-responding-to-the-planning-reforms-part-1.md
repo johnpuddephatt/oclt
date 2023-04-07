@@ -1,15 +1,16 @@
 ---
-layout: post
 title: Responding to the planning reforms (Part 1)
-image: "/uploads/41174869.jpg"
+date: 2020-08-11 00:00:00 Z
 tags:
 - planning
 - reform
 - white paper
 - free market
 - housing
-
+layout: post
+image: "/uploads/41174869.jpg"
 ---
+
 You may have read about the dramatic proposal for planning reforms in the news recently. But what do they mean for community-led housing and democratic planning?   
   
 The chair of our board Dr. Bob Colenutt joined other academics to respond to the proposals and counter misconceptions driving the Government’s planning reform agenda, in a report "[The Wrong Answers to the Wrong Questions](https://www.tcpa.org.uk/the-wrong-answers-to-the-wrong-questions)".

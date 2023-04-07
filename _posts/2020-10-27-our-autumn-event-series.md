@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Our Autumn Event Series 2020
+date: 2020-10-27 00:00:00 Z
+layout: post
 image: "/uploads/https___cdn-evbuc-com_images_114028477_477940596883_1_original.jpeg"
-tags: []
-
 ---
+
 Over the Autumn 2020, OCLT have put on a series of online events looking at land rights, housing issues and community-owned solutions. You can watch the recordings and check out the slides if you missed them below...
 
 ##### **Planning Reform: The impact on meeting Oxford's housing need**

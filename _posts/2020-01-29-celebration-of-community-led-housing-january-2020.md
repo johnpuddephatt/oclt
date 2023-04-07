@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Celebration of Community Led Housing January 2020
+date: 2020-01-29 00:00:00 Z
+layout: post
 image: "/uploads/IMG-20200117-WA0002.jpg"
-tags: []
-
 ---
+
 We were delighted to see some of you at a lively launch event for Community Led Housing. About 120 people gathered in Assembly Rooms at Town Hall on a cold winter evening in January. We were welcomed by Charlie Fisher on behalf of the three sponsors, Oxfordshire Community Land Trust, Oxford City Council and the Collaborative Housing Hub.  
 
 Richard Howlett gave us a quick tour of a recent report for the City Council (Routes to Delivery Report) written by OCLT and Community First Oxfordshire showing the ways in which community led housing could be realistically facilitated in the city and beyond. Read the report here:  
