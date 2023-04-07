@@ -1,19 +1,21 @@
 ---
 title: Oxfordshire <br/>Community <br/>Land Trust
 email: john@jdp.org.uk
-description: |
-  Site description from config
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.oclt.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+description: 'Site description from config
+
+'
+baseurl: ''
+url: https://www.oclt.org.uk
 footer: |
   Oxfordshire Community Land Trust is the trading name of Oxfordshire CLT Ltd, registered as a Community Benefit Society under the Co-operative and
   Community Benefit Societies Act 2014
-  
+
   FSA Registration: 30158R
 
   55 Henley Avenue, Oxford, OX4 4DJ
 social:
-  - twitter: OxfordshireCLT
-  - facebook: oxfordshireclt
+- twitter: OxfordshireCLT
+- facebook: oxfordshireclt
 date_format: "%d.%m.%y "
 ---
+
