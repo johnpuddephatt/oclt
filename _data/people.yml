@@ -1,7 +1,4 @@
 ---
----
-
----
 people:
 - name: Professor Sue Brownill
   role: Director
@@ -84,3 +81,4 @@ people:
   role: Freelance Coordinator
   image: ''
   description: ''
+---

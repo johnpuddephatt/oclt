@@ -1,7 +1,4 @@
 ---
----
-
----
 footer_menu:
 - page: pages/about.md
 - page: pages/contact.md
@@ -15,3 +12,4 @@ header_menu:
 - page: pages/news.md
 - page: pages/supporters.md
 - page: pages/contact.md
+---
