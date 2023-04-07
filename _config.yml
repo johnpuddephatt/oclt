@@ -16,29 +16,25 @@ collections:
     title: Uploads
     output: true
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      image:
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-      excerpt:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      published: false
-      layout: page
-      subtitle:
-
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    image: 
+- scope:
+    path: ''
+    type: projects
+  values:
+    layout: project
+    excerpt: 
+- scope:
+    path: ''
+    type: pages
+  values:
+    published: false
+    layout: page
+    subtitle: 
 gcaptcha: 6LdNn1AUAAAAAA-VLy7CCzufqQi7EhPyoWQwcHIM
 cloudinary: letsdance
 source: "."
