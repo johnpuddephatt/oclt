@@ -8,9 +8,6 @@ collections:
   posts:
     title: Posts
     output: true
-  primary-menu:
-    title: Primary menu
-    output: true
   projects:
     title: Projects
     output: true
