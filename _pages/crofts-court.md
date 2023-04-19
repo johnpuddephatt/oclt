@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Share Offer – Crofts Court
+layout: page
 subtitle: Thank you to all our investors!
-
 ---
+
 **Our Community Share Offer launched on 2 November 2022.**
 
 **UPDATE: Update April 19th 2023** 
