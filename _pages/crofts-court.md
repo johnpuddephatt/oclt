@@ -1,20 +1,22 @@
 ---
-title: Share Offer – Crofts Court
 layout: page
+title: Share Offer – Crofts Court
 subtitle: Become a Community Investor and Bring New Affordable Homes to Oxfordshire!
----
 
+---
 **Our Community Share Offer launched on 2 November 2022.**
 
-**UPDATE: Update Feb 28th 2023**
+**UPDATE: Update April 19th 2023** 
 
-OCLT is delighted that the Crofts Court Share Offer has raised just over of £500,000 to date and has met its minimum milestone. Thank you to everyone that has already invested. We've been overwhelmed by the response and the number of people who want to support our work and take a stake in our first development which brings community-owned permanently affordable homes to Oxfordshire.
+The Crofts Court Share Offer is now closed. 
 
-We've also been contacted by a number of people who still want to invest but haven't been able to so far.
+We are delighted to announce that we raised over £580,000! This is above the minimum milestone that we hoped to reach. 
 
-As noted as a possibility in the Crofts Court Business Plan, we have decided to extend the community shares deadline to 12 April 2023. This will allow any additional investment to help pay down even more of our construction loan and make Crofts Court more cost effective. It will also enable greater numbers of members to join and support our work going forward to help bring forward more sites. That way we can start to make a real difference in the local housing crisis.
+**A huge thank you to everyone that invested.** 
 
-WE STILL NEED YOUR HELP AND INVESTMENT
+We've been overwhelmed by the response and the number of people who want to support our work and take a stake in our first development which brings community-owned permanently affordable homes to Oxfordshire.
+
+If you missed out of the opportunity to invest in the share offer, but would still like to support OCLT financially you can do so by becoming a [supporter](https://app.donorfy.com/form/J7EEWBHW62/Q58RQ "supporter"). As a supporter you can make a one-off or monthly payment to support OCLT's on-going work. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IQ8C9cDT-Hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -28,28 +30,13 @@ Our approach is to provide sustainable and genuinely affordable housing using a 
 
 **Crofts Court progress**
 
-Our construction of our first development, Crofts Court (eight co-operatively managed apartments at affordable rents for people in the Dean Court area of West Oxford in Cumnor Parish), is now underway, but we are vulnerable to increasing bank interest rates that are part financing the scheme. We need social investors like you to take a stake in the scheme, support fairer and more sustainable housing in Oxfordshire whilst earning a return on your investment.
+Our construction of our first development, Crofts Court (eight co-operatively managed apartments at affordable rents for people in the Dean Court area of West Oxford in Cumnor Parish), is well underway.  Our social investors who have taken a stake in the scheme, will help us to support fairer and more sustainable housing in Oxfordshire whilst earning a return on their investment.
 
-![](/uploads/img_2316.JPG)
+![](/uploads/crofts-court-front-march-23.jpg)
 
-We're really excited about our new tenants from the Vale of White Horse's Housing Register moving in by June 2023, but we need your help to access more affordable finance and successfully complete the homes.
-
-[Find out more about our development at Crofts Court](https://www.oclt.org.uk/projects/crofts-court/).
-
-**Your chance to invest!**
-
-Our investment opportunity is now live on Ethex, which can be found here [http://www.ethex.org.uk/invest/OCLT](http://www.ethex.org.uk/invest/OCLT "http://www.ethex.org.uk/invest/OCLT").
-
-Please consider investing, as every share really helps! Also, please do tell your friends and network because this is about communities standing together with those less fortunate.
+We're really excited about our new tenants from the Vale of White Horse's Housing Register moving in by June 2023. [Find out more about our development at Crofts Court](https://www.oclt.org.uk/projects/crofts-court/).
 
 ![](/uploads/front-page-share-offer.jpg)
-
-**Your investment will:**
-
-1. Help take action against the cost of living and housing crises by creating permanently affordable rental homes around the city and beyond, where rents are increasingly unaffordable.
-2. Tackle climate change by promoting sustainable living through a housing community that is committed to energy-efficient practices.
-3. Support the community-led housing model that can be replicated around the UK as a viable alternative approach to affordable housing.
-4. Earn a potential return. Investments in the share offer target an annual return of 3%
 
 **You can also view the relevant documents on the links below:**
 
