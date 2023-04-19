@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Home
 hide_body: true
 fields:
@@ -19,33 +16,5 @@ fields:
     schema:
       format: markdown
   label: Main subtitle
-- name: button
-  type: field_group
-  label: Homepage button one
-  fields:
-  - name: text
-    type: text
-    config:
-      required: false
-    label: Button text
-  - name: link
-    type: text
-    config:
-      required: false
-    label: Button link
-- name: button2
-  type: field_group
-  label: Homepage button two
-  fields:
-  - name: text
-    type: text
-    config:
-      required: false
-    label: Button text
-  - name: link
-    type: text
-    config:
-      required: false
-    label: Button link
 pages:
 - _pages/index.md
