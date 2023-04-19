@@ -1,7 +1,7 @@
 ---
-layout: home
-permalink: "/"
 title: Home
+permalink: "/"
+layout: home
 heading: A huge thank you to all our investors!
 subheading: 'Our Crofts Court Community Share Offer has now closed. We raised a fantastic
   £580,000! An outstanding result. The Board is delighted to see that so many people
@@ -12,5 +12,5 @@ button:
 button2:
   text: ''
   link: ''
-
 ---
+
