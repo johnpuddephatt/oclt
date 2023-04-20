@@ -8,7 +8,7 @@ layout: default
       <h1 class="page-title page-title__home">{{ page.heading }}</h1>
       <div class="page-subtitle page-subtitle__home">{{ page.subheading }}</div>
       <div class="page-header--buttons">
-        {% if page.button.text and page.button.link %}
+        {% if page.button.text != "" and page.button.link  != "" %}
         <a class="button" href="{{page.button.link}}">{{page.button.text}}</a>
         {% endif %} {% if page.button2.text != "" and page.button2.link != "" %}
         <a class="button" href="{{page.button2.link}}">{{page.button2.text}}</a>
