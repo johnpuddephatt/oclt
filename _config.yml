@@ -8,6 +8,9 @@ collections:
   posts:
     title: Posts
     output: true
+  pages:
+    title: Pages
+    output: true
   projects:
     title: Projects
     output: true
