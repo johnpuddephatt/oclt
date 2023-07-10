@@ -5,9 +5,6 @@ collections:
   faqs:
     title: Faqs
     output: false
-  pages:
-    title: Pages
-    output: true
   posts:
     title: Posts
     output: true
