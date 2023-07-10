@@ -5,11 +5,11 @@ collections:
   faqs:
     title: Faqs
     output: false
-  posts:
-    title: Posts
-    output: true
   pages:
     title: Pages
+    output: true
+  posts:
+    title: Posts
     output: true
   projects:
     title: Projects
