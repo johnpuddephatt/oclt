@@ -10,4 +10,4 @@ layout: page
 
 We are recruiting for an OCLT Co-ordinator on a freelance basis for six months (with possibility to extend further for suitable candidate).
 
-[See full details including how to apply].(https://www.oclt.org.uk/2023/07/04/we-are-looking-for-a-new-coordinator.html)
+[See full details including how to apply](https://www.oclt.org.uk/2023/07/04/we-are-looking-for-a-new-coordinator.html).
