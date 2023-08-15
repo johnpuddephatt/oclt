@@ -2,13 +2,15 @@
 title: Champion Way
 date: 2021-03-24 10:25:00 Z
 layout: project
-excerpt: This is an innovative project unlocking disused garages to provide affordable
+excerpt: This was an innovative project unlocking disused garages to provide affordable
   homes
 ---
 
 <div class="pullout-box">
 
 <h2>Key information</h2> <ul> <li>Site Location: Littlemore, Oxford</li> <li>Grid Reference: 51°43′25″N , 001°13′05″W"W</li> <li>Status: Planning</li> <li>Homes: 4</li> <li>Tenure: Rent</li> <li>Mechanism: Community Land Trust</li> </ul> </div>
+
+**This was an innovative proposal which did not go ahead.**
 
 Oxford City Council (OCC) developed a partnership with Oxfordshire Community Land Trust (OCLT) and Transition By Design (TBD), a local design collective, to develop a pilot affordable, community-led housing project on underused urban land.
 
