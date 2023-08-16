@@ -6,7 +6,7 @@ subtitle: We’re committed to creating permanently-affordable homes in the city
   county.
 ---
 
-![](/uploads/crofts-court-front-march-23.jpg)
+![](/uploads/crofts-court-front-july-23.jpg)
 
 We are a Community Benefit Society registered in 2006 and regulated by the Financial Conduct Authority with charitable status.
 
