@@ -1,6 +1,6 @@
 ---
 title: Irving Building
-date: 2017-08-23 09:30:33 Z
+date: 2017-08-23 09:30:00 Z
 excerpt: A previous bid to develop a former school into 26 zero-carbon community-led
   homes.
 layout: project
@@ -16,7 +16,7 @@ We worked with the local community to put in a bid for the Irving Building. The 
 
 Our vision was to buy the building on behalf of the local community and convert it into a mix of affordable homes and a community hub. Initial plans were to build a terrace of new homes on Essex Street and to convert much of the existing Irving Building to flats. The Hertford Street side would have been kept and transformed into a community-hub and office space and outdoor space, serving the needs of diverse local groups such as:
 
-* The local nursery school Comper, sometimes needs extra meeting space
+* The local nursery school Comper sometimes needs extra meeting space
 * Local start-ups (especially cooperative enterprises) need affordable office space
 * Local children could continue to use the former play area
 * A place for social gatherings and meetings, to bring the community together
