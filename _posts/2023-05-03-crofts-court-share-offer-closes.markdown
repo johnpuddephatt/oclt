@@ -1,6 +1,8 @@
 ---
 title: Crofts Court share offer closes
-date: 2023-08-16 10:37:00 Z
+date: 2023-05-03 10:37:00 Z
+published: false
+image: "/uploads/front-page-share-offer.jpg"
 ---
 
 Crofts Court Community Share Offer is now closed!
