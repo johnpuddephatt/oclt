@@ -9,4 +9,4 @@ We couldn't have done it without you!
 
 For those of you who couldn't make the event you can take a look at our [video highlights](https://www.youtube.com/watch?reload=9&v=s9IjTsJgUOM&feature=youtu.be\); plus our fabulous video of [Crofts Court's construction](https://www.youtube.com/watch?v=jtg417PaHho\).
 
-![oclt-board.png](/uploads/oclt-board.png)
+![cc-tenants.jpeg](/uploads/crofts-court-tenants-july-23.jpeg)
