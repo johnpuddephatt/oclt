@@ -1,7 +1,6 @@
 ---
 title: Crofts Court share offer closes
 date: 2023-05-03 10:37:00 Z
-published: false
 image: "/uploads/front-page-share-offer.jpg"
 ---
 
