@@ -1,10 +1,11 @@
 ---
 title: Home
 permalink: "/"
-heading: A huge thank you to all our investors!
-subheading: 'Our Crofts Court Community Share Offer has now closed. We raised a fantastic
-  £580,000! An outstanding result. The Board is delighted to see that so many people
-  wanted to participate in spite of such difficult times for so many. '
+heading: Our AGM is on Tuesday September 19th
+subheading: "‘We’re holding our Annual General Meeting on Tuesday September 19th at
+  6:45pm. Members should have received an email with further details. If you’re not
+  yet a member and would like to attend, join us [here](https://app.donorfy.com/form/J7EEWBHW62/53NSK)
+  for as little as £1. We hope to see many of you there!’"
 button:
   text: 
   link: 
