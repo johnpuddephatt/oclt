@@ -72,14 +72,13 @@ people:
 - name: Mark Child
   role: Director (co-optee)
   image: "/uploads/p1010725-2.JPG"
-  description: 'Mark has over 13-years housebuilding and renewable energy development
+  description: Mark has over 13 years’ housebuilding and renewable energy development
     experience both in the UK and US. He is a qualified barrister and a practising
     solicitor specialising in planning and public law for a major international law
     firm. Mark has community organising experience in planning, housing, environmental
-    and economic issues. '
-- name: Hannah Jones
+    and economic issues.
+- name: Josh Booth
   role: Freelance Coordinator
-  image: ''
-  description: ''
+  image: "/uploads/Josh.jpg"
+  description: 'Josh has a background in academia and publishing. He previously taught sociology and social theory in Cambridge, where he founded and edited a magazine specialising in longform journalism. Alongside his work for OCLT, he is a freelance editor and translator.'
 ---
-
