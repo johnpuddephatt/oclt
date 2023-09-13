@@ -8,7 +8,7 @@ subheading: We’re holding our Annual General Meeting on Tuesday September 19th
   many of you there!
 button:
   text: Become a member
-  link: "[https://app.donorfy.com/form/J7EEWBHW62/53NSK](https://app.donorfy.com/form/J7EEWBHW62/53NSK)"
+  link: url=[https://app.donorfy.com/form/J7EEWBHW62/53NSK](https://app.donorfy.com/form/J7EEWBHW62/53NSK)
 button2:
   text: 
   link: 
