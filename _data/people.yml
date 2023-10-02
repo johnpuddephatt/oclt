@@ -62,7 +62,7 @@ people:
     workers co-op, a founder-manager of South Oxford Farmers and Community Market
     and director of Hogacre Common Eco Park.
 - name: Maureen Elliott
-  role: 'Director '
+  role: Director
   image: "/uploads/maureen_e_square.jpg"
   description: Maureen has worked across a wide range of services in local government
     in both Ireland and England. Her experience is mainly, but not exclusively, in
@@ -77,6 +77,15 @@ people:
     solicitor specialising in planning and public law for a major international law
     firm. Mark has community organising experience in planning, housing, environmental
     and economic issues.
+- name: Jonathan Miller
+  role: Director
+  image: "/uploads/jonathan_m_square.jpg"
+  description: Jonathan has over 35 years of home building experience, including over
+    15 years at board level of both PLC and SME house builders.He started his career
+    in Architecture with a practice in Bedford before working for both developers
+    and contractors across all disciplines from land acquisition, planning, design,
+    procurement and delivery and including four years at Regional Managing Director
+    for the Kier house building business.
 - name: Josh Booth
   role: Freelance Coordinator
   image: "/uploads/josh_b_square.jpg"
