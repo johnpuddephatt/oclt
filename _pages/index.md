@@ -1,14 +1,11 @@
 ---
 title: Home
 permalink: "/"
-heading: Our AGM is on Tuesday September 19th
-subheading: We’re holding our Annual General Meeting on Tuesday September 19th at
-  6:45pm. Members should have received an email with further details. If you’re not
-  yet a member and would like to attend, become one now for just £1. We hope to see
-  many of you there!
+heading: 
+subheading: 
 button:
-  text: Become a member
-  link: support-us
+  text: 
+  link: 
 button2:
   text: 
   link: 
