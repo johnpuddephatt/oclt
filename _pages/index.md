@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: "/"
-heading: 
+heading: OCLT has a new director
 subheading: 
 button:
   text: 
@@ -12,4 +12,4 @@ button2:
 layout: home
 ---
 
-..
+OCLT is delighted to have a new Director (co-opted). Jonathan Miller joins us with over 35 years of home building experience. You can read more about Jonathan [here](https://www.oclt.org.uk/about/).
