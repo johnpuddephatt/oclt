@@ -2,23 +2,36 @@
 layout: default
 ---
 
-{{ page.heading }}
+<header class="page-header page-header__home">
+  <div class="page-header--inner">
+    <div class="container container__narrow">
+      <h1 class="page-title page-title__home">{{ page.heading }}</h1>
+      <div class="page-subtitle page-subtitle__home">{{ page.subheading }}</div>
+      <div class="page-header--buttons">
+        {% if page.button.text and page.button.text != "" and page.button.link  != "" %}
+        <a class="button" href="{{page.button.link}}">{{page.button.text}}</a>
+        {% endif %} {% if page.button2.text and page.button2.text != "" and page.button2.link != "" %}
+        <a class="button" href="{{page.button2.link}}">{{page.button2.text}}</a>
+        {% endif %}
+      </div>
+    </div>
+    {% include svg/header-curves.svg class='page-header--curves' %}
+  </div>
+</header>
 
-{{ page.subheading }}
+<section class="section section--home-about">
+  {% include components/home-about.html title="How we make land work for the
+  community" %}
+</section>
 
-{% if page.button.text and page.button.text != "" and page.button.link != "" %} 
-{{page.button.text}} 
-{% endif %} 
+<section class="section section--home-projects">
+  {% include components/home-projects.html title="Our projects" %}
+</section>
 
-{% if page.button2.text and page.button2.text != "" and page.button2.link != "" %} {{page.button2.text}} 
-{% endif %} 
+<section class="section section--home-blog">
+  {% include components/home-blog.html title="News" %}
+</section>
 
-{% include svg/header-curves.svg class='page-header--curves' %} 
-
-{% include components/home-about.html title="How we make land work for the community" %} 
-
-{% include components/home-projects.html title="Current projects" %} 
-
-{% include components/home-blog.html title="News" %} 
-
-{% include components/home-faqs.html title="Frequently Asked Questions" %} 
+<section class="section section--home-faqs">
+  {% include components/home-faqs.html title="Frequently Asked Questions" %}
+</section>
