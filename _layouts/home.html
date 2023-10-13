@@ -1,37 +1,26 @@
----
-layout: default
----
-
-<header class="page-header page-header__home">
-  <div class="page-header--inner">
-    <div class="container container__narrow">
-      <h1 class="page-title page-title__home">{{ page.heading }}</h1>
-      <div class="page-subtitle page-subtitle__home">{{ page.subheading }}</div>
-      <div class="page-header--buttons">
-        {% if page.button.text and page.button.text != "" and page.button.link  != "" %}
-        <a class="button" href="{{page.button.link}}">{{page.button.text}}</a>
-        {% endif %} {% if page.button2.text and page.button2.text != "" and page.button2.link != "" %}
-        <a class="button" href="{{page.button2.link}}">{{page.button2.text}}</a>
-        {% endif %}
-      </div>
-    </div>
-    {% include svg/header-curves.svg class='page-header--curves' %}
-  </div>
-</header>
-
-<section class="section section--home-about">
-  {% include components/home-about.html title="How we make land work for the
-  community" %}
-</section>
-
-<section class="section section--home-projects">
-  {% include components/home-projects.html title="Our projects" %}
-</section>
-
-<section class="section section--home-blog">
-  {% include components/home-blog.html title="News" %}
-</section>
-
-<section class="section section--home-faqs">
-  {% include components/home-faqs.html title="Frequently Asked Questions" %}
-</section>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2022.7">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+    span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e3; -webkit-text-stroke: 0px #0000e3}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">--- layout: default ---</span></p>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1"><b>{{ page.heading }}</b></span></h1>
+<p class="p1"><span class="s1">{{ page.subheading }}</span></p>
+<p class="p1"><span class="s1">{% if page.button.text and page.button.text != "" and page.button.link != "" %} <a href="file:///Users/jb/Downloads/%7B%7Bpage.button.link%7D%7D"><span class="s2">{{page.button.text}}</span></a> {% endif %} {% if page.button2.text and page.button2.text != "" and page.button2.link != "" %} <a href="file:///Users/jb/Downloads/%7B%7Bpage.button2.link%7D%7D"><span class="s2">{{page.button2.text}}</span></a> {% endif %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% include svg/header-curves.svg class='page-header--curves' %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% include components/home-about.html title="How we make land work for the community" %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% include components/home-projects.html title="Current projects" %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% include components/home-blog.html title="News" %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% include components/home-faqs.html title="Frequently Asked Questions" %}<span class="Apple-converted-space"> </span></span></p>
+</body>
+</html>
