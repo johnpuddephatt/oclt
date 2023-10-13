@@ -6,10 +6,10 @@ footer_menu:
 - page: pages/data-privacy.md
 header_menu:
 - page: pages/index.md
-- page: pages/about.md
-- page: pages/projects.md
-- page: pages/support-us.md
 - page: pages/news.md
+- page: pages/projects.md
+- page: pages/about.md
+- page: pages/support-us.md
 - page: pages/supporters.md
 - page: pages/contact.md
 ---
