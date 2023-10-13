@@ -3,10 +3,22 @@ layout: default
 ---
 
 {{ page.heading }}
+
 {{ page.subheading }}
-{% if page.button.text and page.button.text != "" and page.button.link != "" %} {{page.button.text}} {% endif %} {% if page.button2.text and page.button2.text != "" and page.button2.link != "" %} {{page.button2.text}} {% endif %} 
+
+{% if page.button.text and page.button.text != "" and page.button.link != "" %} 
+{{page.button.text}} 
+{% endif %} 
+
+{% if page.button2.text and page.button2.text != "" and page.button2.link != "" %} {{page.button2.text}} 
+{% endif %} 
+
 {% include svg/header-curves.svg class='page-header--curves' %} 
+
 {% include components/home-about.html title="How we make land work for the community" %} 
+
 {% include components/home-projects.html title="Current projects" %} 
+
 {% include components/home-blog.html title="News" %} 
+
 {% include components/home-faqs.html title="Frequently Asked Questions" %} 
