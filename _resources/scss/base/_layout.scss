@@ -20,7 +20,7 @@ body {
 }
 
 .container {
-  max-width: $xl-screen;
+  max-width: $medium-screen;
   margin: 0 auto;
   padding-left: $base-spacing;
   padding-right: $base-spacing;
@@ -31,7 +31,7 @@ body {
 }
 
 .container__text {
-  max-width: $medium-screen
+  max-width: $medium-screen;
 }
 
 
