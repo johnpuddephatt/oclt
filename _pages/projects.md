@@ -1,7 +1,7 @@
 ---
 title: Projects
 permalink: "/projects/index.html"
-layout: all-projects
+layout: page
 subtitle: Our projects, present and past
 ---
 
