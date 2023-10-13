@@ -1,7 +1,6 @@
 ---
 title: Projects
 permalink: "/projects/index.html"
-published: false
 layout: page
 subtitle: Our projects, past and present
 ---
