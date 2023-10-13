@@ -8,6 +8,14 @@ people:
     with urban planning and regeneration. Sue was a board member of Oxford Citizens
     Housing Association until 2013 and before moving to Oxford worked with community
     organisations in London’s Docklands.
+- name: Mark Child
+  role: Director
+  image: "/uploads/mark_c_square.jpg"
+  description: Mark has over 13 years’ housebuilding and renewable energy development
+    experience both in the UK and US. He is a qualified barrister and a practising
+    solicitor specialising in planning and public law for a major international law
+    firm. Mark has community organising experience in planning, housing, environmental
+    and economic issues.
 - name: Jock Coats
   role: Director
   image: "/uploads/people/Jock.jpg"
@@ -24,6 +32,14 @@ people:
     led to the community-led Coin Street housing development on the South Bank in
     London. In May 2020, his book, The Property Lobby, was published. He has lived
     in Oxford for the past 15 years and teaches part-time at Oxford Brookes University.
+- name: Maureen Elliott
+  role: Director
+  image: "/uploads/maureen_e_square.jpg"
+  description: Maureen has worked across a wide range of services in local government
+    in both Ireland and England. Her experience is mainly, but not exclusively, in
+    finance. She is a qualified accountant and member of the Chartered Institute of
+    Public Finance and Accountancy. She has recently stood down from the role of Treasurer
+    (after 9 years) with Oxfordshire Community and Voluntary Association.
 - name: Alison Mathias
   role: Director
   image: "/uploads/alison_m_square.jpg"
@@ -31,6 +47,15 @@ people:
     management of housing association development schemes, and housing management
     experience with an Inner London local authority. Alison also has twelve years
     of experience in Housing Policy and Strategy at Homes England.
+- name: Jonathan Miller
+  role: Director (co-optee)
+  image: "/uploads/jonathan_m_square.jpg"
+  description: Jonathan has over 35 years of home building experience, including over
+    15 years at board level of both PLC and SME house builders. He started his career
+    in Architecture with a practice in Bedford before working for both developers
+    and contractors across all disciplines, from land acquisition, planning, and design,
+    to procurement and delivery – including four years as Regional Managing Director
+    for the Kier house building business.
 - name: Miriam Mutizwa
   role: Director
   image: "/uploads/miriam-cropped.png"
@@ -61,33 +86,8 @@ people:
     becoming a City and then County Councillor. Deborah is part of Oxford GreenPrint
     workers co-op, a founder-manager of South Oxford Farmers and Community Market
     and director of Hogacre Common Eco Park.
-- name: Maureen Elliott
-  role: Director
-  image: "/uploads/maureen_e_square.jpg"
-  description: Maureen has worked across a wide range of services in local government
-    in both Ireland and England. Her experience is mainly, but not exclusively, in
-    finance. She is a qualified accountant and member of the Chartered Institute of
-    Public Finance and Accountancy. She has recently stood down from the role of Treasurer
-    (after 9 years) with Oxfordshire Community and Voluntary Association.
-- name: Mark Child
-  role: Director
-  image: "/uploads/mark_c_square.jpg"
-  description: Mark has over 13 years’ housebuilding and renewable energy development
-    experience both in the UK and US. He is a qualified barrister and a practising
-    solicitor specialising in planning and public law for a major international law
-    firm. Mark has community organising experience in planning, housing, environmental
-    and economic issues.
-- name: Jonathan Miller
-  role: Director (co-optee)
-  image: "/uploads/jonathan_m_square.jpg"
-  description: Jonathan has over 35 years of home building experience, including over
-    15 years at board level of both PLC and SME house builders. He started his career
-    in Architecture with a practice in Bedford before working for both developers
-    and contractors across all disciplines, from land acquisition, planning, and design,
-    to procurement and delivery – including four years as Regional Managing Director
-    for the Kier house building business.
 - name: Josh Booth
-  role: Freelance Coordinator
+  role: Coordinator
   image: "/uploads/josh_b_square.jpg"
   description: Josh has a background in academia and publishing. He previously taught
     sociology and social theory in Cambridge, where he founded and edited a magazine
