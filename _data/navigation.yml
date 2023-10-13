@@ -7,7 +7,7 @@ footer_menu:
 header_menu:
 - page: pages/index.md
 - page: pages/about.md
-- page: pages/crofts-court.md
+- page: pages/projects.md
 - page: pages/support-us.md
 - page: pages/news.md
 - page: pages/supporters.md
