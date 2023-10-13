@@ -1,6 +1,6 @@
 ---
 title: Projects
-permalink: “/projects/index.html"
+permalink: "/projects/index.html"
 published: false
 layout: page
 subtitle: Our projects, past and present
@@ -10,7 +10,10 @@ subtitle: Our projects, past and present
 
 Below you can find a list of OCLT’s projects, present and past.
 1. [Crofts Court](#crofts-court)
-2. 
+2. [Blackbird Leys sites](#blackbird-leys-sites)
+3. [Champion Way](#champion-way)
 
 
 ## Crofts Court
+
+## Blackbird Leys sites
