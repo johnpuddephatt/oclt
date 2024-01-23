@@ -23,6 +23,6 @@ If you wish to apply to rent this house, you must meet the following criteria:
 
 For more details on what these criteria involve, please see our application form.
 
-To apply to rent this house, please complete the application form and email this as an attachment to [josh@oclt.org.uk](mailto:josh@oclt.org.uk) by INSERT DEADLINE HERE. We’d be grateful if you could also complete our equality and diversity monitoring form. If you are shortlisted, you’ll be invited to an interview in the local area ON DATE, so please make sure you keep this free.
+To apply to rent this house, please complete the application form and email this as an attachment to [josh@oclt.org.uk](mailto:josh@oclt.org.uk) by INSERT DEADLINE HERE. We’d be grateful if you could also complete our [equality and diversity monitoring form](https://docs.google.com/forms/d/e/1FAIpQLSc_rG5SPum0gmST_YkAHEcsjZHFK3r0ZI1QnOsxoyMQED_f5w/viewform?usp=sf_link). If you are shortlisted, you’ll be invited to an interview in the local area ON DATE, so please make sure you keep this free.
 
 ![16 ablett close layout_clean.png](/uploads/16%20ablett%20close%20layout_clean.png)
