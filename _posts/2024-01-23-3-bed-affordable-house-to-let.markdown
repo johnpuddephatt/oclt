@@ -4,6 +4,8 @@ date: 2024-01-23 11:50:00 Z
 image: "/uploads/16%20ablett%20close_clean.jpeg"
 ---
 
+![16 ablett close_clean.jpeg](/uploads/16%20ablett%20close_clean.jpeg)
+
 Oxfordshire Community Land Trust (OCLT) is delighted to advertise a 3-bedroom house for let at an affordable rent in St Clement’s Ward, East Oxford. The property is in a quiet 1990s cul-de-sac just a 20-minute walk from central Oxford, and close to both South Park and Cowley Road.
 
 We are looking for a small family (1 or 2 adults plus 1 or 2 children under 10) to move in from the beginning of March 2024.
