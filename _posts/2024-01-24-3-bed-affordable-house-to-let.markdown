@@ -1,6 +1,6 @@
 ---
 title: 3-bed affordable house to let
-date: 2024-01-23 11:50:00 Z
+date: 2024-01-24 17:30:00 Z
 image: "/uploads/16%20ablett%20close_clean.jpeg"
 ---
 
