@@ -8,29 +8,27 @@ image: "/uploads/16%20ablett%20close_clean.jpeg"
 
 Oxfordshire Community Land Trust (OCLT) is delighted to advertise a 3-bedroom house for let at an affordable rent in St Clement’s Ward, East Oxford. The property is in a quiet 1990s cul-de-sac just a 20-minute walk from central Oxford, and close to both South Park and Cowley Road.
 
+We are looking for a small family (no more than 2 adults and no more than 2 children) with rent payable from the 4th March 2024.  
 
-We are looking for a small family (1 or 2 adults plus 1 or 2 children under 10) to move in from the beginning of March 2024.
+Downstairs, the property has a kitchen, lounge with double doors opening onto a garden, a WC, and an under-stairs utility cupboard. Upstairs, it has a double bedroom with an en-suite bathroom, a separate bathroom, and two small bedrooms suitable for younger children.
 
-
-Downstairs, the property has a kitchen, lounge with double doors opening onto a garden, a WC, and an under-stairs utility cupboard. Upstairs, it has a large double bedroom with an en-suite bathroom, a separate bathroom, and two small upstairs bedrooms. The two small bedrooms only qualify as “half” bedrooms according to the Local Authority’s standards. As such they’re only suitable for children under 10 years old.
-
-
-The house will be let at Local Housing Allowance – currently £912.50 per month, and likely to rise to £1125 from April onwards.
-
+The rent will be £1125 pcm, and is therefore affordable for people on [Local Housing Allowance](https://www.gov.uk/government/statistics/local-housing-allowance-indicative-rates-for-2024-to-2025/indicative-local-housing-allowance-rates-for-2024-to-2025#:~:text=On%2022%20November%202023%20the,market%20rates%20in%20April%202024.). The deposit will be equivalent to one month’s rent and protected under a deposit protection scheme.
 
 If you wish to apply to rent this house, you must meet the following criteria:
 
-
-* be a member of OCLT (you can [sign up here](https://app.donorfy.com/form/J7EEWBHW62/53NSK) for just £1)
-* have at least one and no more than two children under 10 years of age
+* have **at least one** child and **no more than two** children who will be living with you
 * be in housing need 
-* have a connection to the local area
+* be a member of OCLT (you can [sign up here](https://app.donorfy.com/form/J7EEWBHW62/53NSK) for just £1)
+* have a connection to the local area (St Clement’s)
 
+For more details on our criteria, please see our [application form](https://docs.google.com/document/d/1y_VGiNV2RstNECzSGLYbOglbDLg0Uq5l/edit?usp=sharing&ouid=118331613439638119815&rtpof=true&sd=true).
 
-For more details on what these criteria involve, please see our application form.
+Viewings will take place on Wednesday 31st January from 5pm-7pm. To arrange a viewing, please [book a slot here](https://calendar.app.google/h384rb2kjxtv2Gny7).
 
+To apply to rent this house, please download and complete the [application form](https://docs.google.com/document/d/1y_VGiNV2RstNECzSGLYbOglbDLg0Uq5l/edit?usp=sharing&ouid=118331613439638119815&rtpof=true&sd=true) and email this as an attachment to [housing@oclt.org.uk](mailto:housing@oclt.org.uk) by 9am on Monday 5th February. We’d be grateful if you could also complete our equality and diversity monitoring form, which we’ll email to you when you apply.
 
-To apply to rent this house, please complete the application form and email this as an attachment to [josh@oclt.org.uk](mailto:josh@oclt.org.uk) by INSERT DEADLINE HERE. We’d be grateful if you could also complete our [equality and diversity monitoring form](https://docs.google.com/forms/d/e/1FAIpQLSc_rG5SPum0gmST_YkAHEcsjZHFK3r0ZI1QnOsxoyMQED_f5w/viewform?usp=sf_link). If you are shortlisted, you’ll be invited to an interview in the local area ON DATE, so please make sure you keep this free.
+If you are shortlisted, you’ll be invited to an interview at the property on the evening of February 12th or 13th.
+
 
 
 ![16 ablett close layout_clean.png](/uploads/16%20ablett%20close%20layout_clean.png)
