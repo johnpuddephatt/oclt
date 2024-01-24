@@ -12,7 +12,7 @@ We are looking for a small family (no more than 2 adults and no more than 2 chil
 
 Downstairs, the property has a kitchen, lounge with double doors opening onto a garden, a WC, and an under-stairs utility cupboard. Upstairs, it has a double bedroom with an en-suite bathroom, a separate bathroom, and two small bedrooms suitable for younger children.
 
-The rent will be £1125 pcm, and is therefore affordable for people on [Local Housing Allowance](https://www.gov.uk/government/statistics/local-housing-allowance-indicative-rates-for-2024-to-2025/indicative-local-housing-allowance-rates-for-2024-to-2025#:~:text=On%2022%20November%202023%20the,market%20rates%20in%20April%202024.). The deposit will be equivalent to one month’s rent and protected under a deposit protection scheme.
+The rent will be £1125 pcm, and is therefore affordable for people on Local Housing Allowance. The deposit will be equivalent to one month’s rent and protected under a deposit protection scheme.
 
 If you wish to apply to rent this house, you must meet the following criteria:
 
