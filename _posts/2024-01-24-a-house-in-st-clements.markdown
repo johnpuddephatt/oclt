@@ -29,4 +29,5 @@ To apply to rent this house, please download the [application form](https://docs
 
 If you are shortlisted, you’ll be invited to an **interview** at the property on the **evening of February 12th or 13th**.
 
+Floorplans of the house:
 ![16 ablett close layout_clean.png](/uploads/16%20ablett%20close%20layout_clean.png)
