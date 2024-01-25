@@ -19,7 +19,7 @@ If you wish to apply to rent this house, you must meet the following criteria:
 * have **at least one** child and **no more than two** children who will be living with you
 * be in housing need 
 * be a member of OCLT (you can [sign up here](https://app.donorfy.com/form/J7EEWBHW62/53NSK) for just £1)
-* have a connection to the local area (St Clement’s)
+* have a connection to the local area
 
 For more details on our criteria, please see our [application form](https://docs.google.com/document/d/1y_VGiNV2RstNECzSGLYbOglbDLg0Uq5l/edit?usp=sharing&ouid=118331613439638119815&rtpof=true&sd=true).
 
